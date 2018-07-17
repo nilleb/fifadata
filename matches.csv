@@ -35,7 +35,7 @@ edition,round,score,team1,team2,url,venue,year
 1934-ITALY,PRELIMINARY-N/C.America,4-1 (2-1),Mexico (México),Cuba,1934_ITALY_PR.htm,México D.F.,1934
 1934-ITALY,PRELIMINARY-Europe,4-0 (2-0),Italy (Italia),Greece (Ελλάδα),1934_ITALY_PR.htm,Milano.,1934
 1934-ITALY,PRELIMINARY-Europe,1-4 (1-1),Bulgaria (България),Hungary (Magyarország),1934_ITALY_PR.htm,Sofija.,1934
-1934-ITALY,PRELIMINARY-N.E.,1-4 (0-4),Palestine (فلسطين),Egypt (مصر),1934_ITALY_PR.htm,Jerusalem.,1934
+1934-ITALY,PRELIMINARY-N.E.,1-4 (0-4),Palestine (فلسطين),Egypt (مصر),1934_ITALY_PR.htm,Yěrūshālayim.,1934
 1934-ITALY,PRELIMINARY-Europe,5-2 (1-1),Netherlands (Nederland),Irish Free State (Saorstát Éireann),1934_ITALY_PR.htm,Amsterdam.,1934
 1934-ITALY,PRELIMINARY-Europe,1-6 (0-2),Luxembourg (Lëtzebuerg),France,1934_ITALY_PR.htm,Luxembourg.,1934
 1934-ITALY,PRELIMINARY-Europe,6-1 (3-0),Austria (Österreich),Bulgaria (България),1934_ITALY_PR.htm,Wien.,1934
@@ -89,6 +89,7 @@ edition,round,score,team1,team2,url,venue,year
 1938-FRANCE,FIRST,3-3 (1-1) (a.e.t.),Cuba,Romania (România),1938_FRANCE_FS.htm#40-WC-38-I,Toulouse.,1938
 1938-FRANCE,FIRST,6-5 (3-1) (a.e.t.),Brazil (Brasil),Poland (Polska),1938_FRANCE_FS.htm#41-WC-38-I,Strasbourg.,1938
 1938-FRANCE,FIRST,3-0 (0-0) (a.e.t.),Czechoslovakia (Československo),Netherlands (Nederland),1938_FRANCE_FS.htm#42-WC-38-I,Le_Havre.,1938
+1938-FRANCE,FIRST,(w.o.),Sweden (Sverige),Austria (Österreich),1938_FRANCE_FS.htm#42a-WC-38-I,Lyon.,1938
 1938-FRANCE,FIRST,4-2 (1-2) (r.),Switzerland (Schweiz / Suisse),Germany (Deutschland),1938_FRANCE_FS.htm#43-WC-38-I,Paris.,1938
 1938-FRANCE,FIRST,2-1 (0-1) (r.),Cuba,Romania (România),1938_FRANCE_FS.htm#44-WC-38-I,Toulouse.,1938
 1938-FRANCE,1/4_FINAL,3-1 (1-1),Italy (Italia),France,1938_FRANCE_FS.htm#45-WC-38-II,Paris.,1938
@@ -2490,208 +2491,208 @@ edition,round,score,team1,team2,url,venue,year
 1994-USA,PRELIMINARY-N/C.America,1-2 (0-1),Dominican Republic (República Dominicana),Puerto Rico,1994_USA_PR.htm,Santo Domingo.,1992
 1994-USA,PRELIMINARY-N/C.America,1-0 (1-0),Saint Lucia,Saint Vincent & The Grenadines,1994_USA_PR.htm,Castries.,1992
 1994-USA,PRELIMINARY-N/C.America,1-1 (1-1),Puerto Rico,Dominican Republic (República Dominicana),1994_USA_PR.htm,San_Juan.,1992
-1994-USA,PRELIMINARY-N/C.America,3-1 (1-1),Saint Vincent & The Grenadines,Saint Lucia,1994_USA_PR.htm,Kingstown.,1992
-1994-USA,PRELIMINARY-N/C.America,1-1 (1-1),Dutch Antilles (Nederlandse Antillen),Antigua and Barbuda,1994_USA_PR.htm,Willemstad.,1992
-1994-USA,PRELIMINARY-N/C.America,1-2 (0-1),Barbados,Trinidad and Tobago,1994_USA_PR.htm,Bridgetown.,1992
-1994-USA,PRELIMINARY-Europe,3-0 (1-0),Spain (España),Albania (Shqipëri),1994_USA_PR_GD.htm#WC-94-I-1,Sevilla.,1992
-1994-USA,PRELIMINARY-Europe,1-0 (1-0),Belgium (België),Cyprus (Κύπρος),1994_USA_PR.htm,Bruxelles.,1992
-1994-USA,PRELIMINARY-N/C.America,3-0 (1-0),Antigua and Barbuda,Dutch Antilles (Nederlandse Antillen),1994_USA_PR.htm,St._Johns.,1992
-1994-USA,PRELIMINARY-N/C.America,1-2 (0-1),Guyana,Surinam (Suriname),1994_USA_PR.htm,Georgetown.,1992
-1994-USA,PRELIMINARY-N/C.America,1-0 (0-0),Bermuda,Haiti (Haïti),1994_USA_PR.htm,Hamilton.,1992
-1994-USA,PRELIMINARY-Europe,2-2 (2-1),Northern Ireland (Ulster),Lithuania (Lietuva),1994_USA_PR.htm,Belfast.,1992
-1994-USA,PRELIMINARY-Europe,7-0 (5-0),Romania (România),Faroe Islands (Føroyar),1994_USA_PR.htm,Bucureşti.,1992
-1994-USA,PRELIMINARY-Europe,1-0 (1-0),Greece (Ελλάδα),Iceland (Ísland),1994_USA_PR.htm,Athína.,1992
-1994-USA,PRELIMINARY-Europe,0-3 (0-0),Finland (Suomi),Bulgaria (България),1994_USA_PR.htm,Helsinki.,1992
-1994-USA,PRELIMINARY-Europe,5-1 (5-0),Romania (România),Wales (Cymru),1994_USA_PR.htm,Bucureşti.,1992
-1994-USA,PRELIMINARY-N/C.America,2-1 (0-1),Jamaica,Puerto Rico,1994_USA_PR.htm,Kingston.,1992
-1994-USA,PRELIMINARY-N/C.America,1-1 (1-1),Surinam (Suriname),Guyana,1994_USA_PR.htm,Paramaribo.,1992
-1994-USA,PRELIMINARY-N/C.America,2-1 (1-1),Haiti (Haïti),Bermuda,1994_USA_PR.htm,Port-au-Prince.,1992
-1994-USA,PRELIMINARY-Europe,2-0 (0-0),Ireland (Éire),Albania (Shqipëri),1994_USA_PR.htm,Dublin.,1992
-1994-USA,PRELIMINARY-N/C.America,0-1 (0-1),Puerto Rico,Jamaica,1994_USA_PR.htm,San_Juan.,1992
-1994-USA,PRELIMINARY-N/C.America,3-0 (0-0),Trinidad and Tobago,Barbados,1994_USA_PR.htm,Port_of_Spain.,1992
-1994-USA,PRELIMINARY-Europe,1-0 (0-0),Albania (Shqipëri),Lithuania (Lietuva),1994_USA_PR.htm,Tiranë.,1992
-1994-USA,PRELIMINARY-Europe,0-3 (0-1),Faroe Islands (Føroyar),Belgium (België),1994_USA_PR.htm,Toftír.,1992
-1994-USA,PRELIMINARY-Europe,1-2 (1-0),Hungary (Magyarország),Iceland (Ísland),1994_USA_PR.htm,Budapest.,1992
-1994-USA,PRELIMINARY-Oceania,3-0 (2-0),New Zealand (Aotearoa),Fiji,1994_USA_PR.htm,Auckland.,1992
-1994-USA,PRELIMINARY-N/C.America,0-3 (0-1),Antigua and Barbuda,Bermuda,1994_USA_PR.htm,St._Johns.,1992
-1994-USA,PRELIMINARY-Europe,0-2 (0-1),Faroe Islands (Føroyar),Cyprus (Κύπρος),1994_USA_PR.htm,Toftír.,1992
-1994-USA,PRELIMINARY-Oceania,1-4 (1-2),Vanuatu,New Zealand (Aotearoa),1994_USA_PR.htm,Port_Vila.,1992
-1994-USA,PRELIMINARY-Oceania,8-0 (3-0),New Zealand (Aotearoa),Vanuatu,1994_USA_PR.htm,Auckland.,1992
-1994-USA,PRELIMINARY-N/C.America,2-1 (1-1),Bermuda,Antigua and Barbuda,1994_USA_PR.htm,Hamilton.,1992
-1994-USA,PRELIMINARY-N/C.America,1-2 (0-0),Trinidad and Tobago,Jamaica,1994_USA_PR.htm,Port_of_Spain.,1992
-1994-USA,PRELIMINARY-Oceania,1-1 (0-0),Solomon Islands,Tahiti,1994_USA_PR.htm,Honiara.,1992
-1994-USA,PRELIMINARY-N/C.America,0-5 (0-3),Nicaragua,El Salvador,1994_USA_PR.htm,Managua.,1992
-1994-USA,PRELIMINARY-N/C.America,0-0 (0-0),Guatemala,Honduras,1994_USA_PR.htm,Guatemala.,1992
-1994-USA,PRELIMINARY-N/C.America,5-1 (2-0),El Salvador,Nicaragua,1994_USA_PR.htm,San_Salvador.,1992
-1994-USA,PRELIMINARY-N/C.America,2-0 (0-0),Honduras,Guatemala,1994_USA_PR.htm,Tegucigalpa.,1992
-1994-USA,PRELIMINARY-N/C.America,0-0 (0-0),Surinam (Suriname),Saint Vincent & The Grenadines,1994_USA_PR.htm,Paramaribo.,1992
-1994-USA,PRELIMINARY-Europe,1-2 (1-0),Latvia (Latvija),Lithuania (Lietuva),1994_USA_PR.htm,Rīga.,1992
-1994-USA,PRELIMINARY-Europe,0-6 (0-2),Estonia (Eesti),Switzerland (Schweiz / Suisse),1994_USA_PR.htm,Tallinn.,1992
-1994-USA,PRELIMINARY-N/C.America,1-0 (1-0),Panama (Panamá),Costa Rica,1994_USA_PR.htm,Panamá.,1992
-1994-USA,PRELIMINARY-N/C.America,1-1 (1-1),Jamaica,Trinidad and Tobago,1994_USA_PR.htm,Kingston.,1992
-1994-USA,PRELIMINARY-N/C.America,5-1 (4-0),Costa Rica,Panama (Panamá),1994_USA_PR.htm,San_José.,1992
-1994-USA,PRELIMINARY-Europe,0-0 (0-0),Latvia (Latvija),Denmark (Danmark),1994_USA_PR.htm,Rīga.,1992
-1994-USA,PRELIMINARY-N/C.America,2-1 (0-1),Saint Vincent & The Grenadines,Surinam (Suriname),1994_USA_PR.htm,Kingstown.,1992
-1994-USA,PRELIMINARY-Europe,1-2 (0-1),Czechoslovakia (Československo),Belgium (België),1994_USA_PR.htm,Praha.,1992
-1994-USA,PRELIMINARY-Oceania,1-2 (0-1),Solomon Islands,Australia,1994_USA_PR.htm,Honiara.,1992
-1994-USA,PRELIMINARY-Europe,3-1 (1-1),Switzerland (Schweiz / Suisse),Scotland,1994_USA_PR.htm,Bern.,1992
-1994-USA,PRELIMINARY-Europe,10-0 (4-0),Norway (Norge),San Marino,1994_USA_PR.htm,Oslo.,1992
-1994-USA,PRELIMINARY-Europe,4-0 (1-0),Ireland (Éire),Latvia (Latvija),1994_USA_PR.htm,Dublin.,1992
-1994-USA,PRELIMINARY-Europe,3-0 (3-0),Northern Ireland (Ulster),Albania (Shqipëri),1994_USA_PR.htm,Belfast.,1992
-1994-USA,PRELIMINARY-Europe,6-0 (3-0),Wales (Cymru),Faroe Islands (Føroyar),1994_USA_PR.htm,Cardiff.,1992
-1994-USA,PRELIMINARY-Europe,0-3 (0-1),Luxembourg (Lëtzebuerg),Hungary (Magyarország),1994_USA_PR.htm,Luxembourg.,1992
-1994-USA,PRELIMINARY-Europe,0-1 (0-0),Finland (Suomi),Sweden (Sverige),1994_USA_PR.htm,Helsinki.,1992
-1994-USA,PRELIMINARY-Europe,2-0 (2-0),Bulgaria (България),France,1994_USA_PR.htm,Sofija.,1992
-1994-USA,PRELIMINARY-Oceania,0-3 (0-2),Tahiti,Australia,1994_USA_PR.htm,Papeete.,1992
-1994-USA,PRELIMINARY-Oceania,3-0 (0-0),Fiji,Vanuatu,1994_USA_PR.htm,Nausori.,1992
-1994-USA,PRELIMINARY-Oceania,0-0 (0-0),Fiji,New Zealand (Aotearoa),1994_USA_PR.htm,Nadi.,1992
-1994-USA,PRELIMINARY-Oceania,2-0 (1-0),Australia,Tahiti,1994_USA_PR.htm,Brisbane.,1992
-1994-USA,PRELIMINARY-Europe,1-0 (1-0),Poland (Polska),Turkey (Türkiye),1994_USA_PR.htm,Poznań.,1992
-1994-USA,PRELIMINARY-Europe,2-1 (1-1),Norway (Norge),Netherlands (Nederland),1994_USA_PR.htm,Oslo.,1992
-1994-USA,PRELIMINARY-Europe,0-0 (0-0),Lithuania (Lietuva),Denmark (Danmark),1994_USA_PR.htm,Vilnius.,1992
-1994-USA,PRELIMINARY-Europe,0-0 (0-0),Latvia (Latvija),Spain (España),1994_USA_PR_GD.htm#WC-94-I-2,Rīga.,1992
-1994-USA,PRELIMINARY-Europe,4-0 (1-0),Czechoslovakia (Československo),Faroe Islands (Føroyar),1994_USA_PR.htm,Košice.,1992
-1994-USA,PRELIMINARY-Oceania,6-1 (1-1),Australia,Solomon Islands,1994_USA_PR.htm,Newcastle.,1992
-1994-USA,PRELIMINARY-Oceania,0-3 (0-2),Vanuatu,Fiji,1994_USA_PR.htm,Port_Vila.,1992
-1994-USA,PRELIMINARY-Europe,0-2 (0-2),San Marino,Norway (Norge),1994_USA_PR.htm,Serravalle.,1992
-1994-USA,PRELIMINARY-Europe,0-1 (0-0),Iceland (Ísland),Greece (Ελλάδα),1994_USA_PR.htm,Reykjavík.,1992
-1994-USA,PRELIMINARY-Europe,2-0 (0-0),Sweden (Sverige),Bulgaria (България),1994_USA_PR.htm,Stockholm.,1992
-1994-USA,PRELIMINARY-Africa,3-1 (1-0),Algeria (الجزائر),Burundi,1994_USA_PR.htm,Tlemcen.,1992
-1994-USA,PRELIMINARY-Africa,1-0 (0-0),Zimbabwe,Togo,1994_USA_PR.htm,Harare.,1992
-1994-USA,PRELIMINARY-Oceania,4-2 (3-0),Tahiti,Solomon Islands,1994_USA_PR.htm,Papeete.,1992
-1994-USA,PRELIMINARY-Africa,4-0 (1-0),Nigeria,South Africa (Suid-Afrika),1994_USA_PR.htm,Lagos.,1992
-1994-USA,PRELIMINARY-Africa,4-2 (1-1),Zaire (Zaïre),Liberia,1994_USA_PR.htm,Kinshasa.,1992
-1994-USA,PRELIMINARY-Africa,1-0 (0-0),Egypt (مصر),Angola,1994_USA_PR.htm,Cairo.,1992
-1994-USA,PRELIMINARY-Africa,6-0 (3-0),Ivory Coast (Côte d'Ivoire),Botswana,1994_USA_PR.htm,Abidjan.,1992
-1994-USA,PRELIMINARY-Africa,5-0 (4-0),Morocco (المغرب),Ethiopia (ኢትዮጵያ),1994_USA_PR.htm,Casablanca.,1992
-1994-USA,PRELIMINARY-Africa,5-1 (3-1),Tunisia (تونس),Benin (Bénin),1994_USA_PR.htm,Tunis.,1992
-1994-USA,PRELIMINARY-Africa,3-1 (2-1),Gabon,Mozambique (Moçambique),1994_USA_PR.htm,Libreville.,1992
-1994-USA,PRELIMINARY-Africa,2-0 (2-0),Zambia,Tanzania,1994_USA_PR.htm,Lusaka.,1992
-1994-USA,PRELIMINARY-Africa,3-0 (2-0),Madagascar (Madagasikara),Namibia,1994_USA_PR.htm,Antananarivo.,1992
-1994-USA,PRELIMINARY-Europe,2-2 (0-2),Italy (Italia),Switzerland (Schweiz / Suisse),1994_USA_PR.htm,Cagliari.,1992
-1994-USA,PRELIMINARY-Europe,0-0 (0-0),Scotland,Portugal,1994_USA_PR.htm,Glasgow.,1992
-1994-USA,PRELIMINARY-Europe,1-1 (0-0),England,Norway (Norge),1994_USA_PR.htm,London.,1992
-1994-USA,PRELIMINARY-Europe,2-2 (1-2),Netherlands (Nederland),Poland (Polska),1994_USA_PR.htm,Rotterdam.,1992
-1994-USA,PRELIMINARY-Europe,0-0 (0-0),Denmark (Danmark),Ireland (Éire),1994_USA_PR.htm,København.,1992
-1994-USA,PRELIMINARY-Europe,0-0 (0-0),Northern Ireland (Ulster),Spain (España),1994_USA_PR_GD.htm#WC-94-I-3,Belfast.,1992
-1994-USA,PRELIMINARY-Europe,1-0 (1-0),Belgium (België),Romania (România),1994_USA_PR.htm,Bruxelles.,1992
-1994-USA,PRELIMINARY-Europe,0-1 (0-0),Cyprus (Κύπρος),Wales (Cymru),1994_USA_PR.htm,Lemesós.,1992
-1994-USA,PRELIMINARY-Europe,1-0 (0-0),Russia (Россия),Iceland (Ísland),1994_USA_PR.htm,Moskva.,1992
-1994-USA,PRELIMINARY-Europe,2-0 (1-0),France,Austria (Österreich),1994_USA_PR.htm,Paris.,1992
-1994-USA,PRELIMINARY-N/C.America,1-1 (0-0),Jamaica,Canada,1994_USA_PR.htm,Kingston.,1992
-1994-USA,PRELIMINARY-N/C.America,1-0 (0-0),Bermuda,El Salvador,1994_USA_PR.htm,Hamilton.,1992
-1994-USA,PRELIMINARY-Africa,5-0 (2-0),Cameroon (Cameroun),Swaziland (Swatini),1994_USA_PR.htm,Yaoundé.,1992
-1994-USA,PRELIMINARY-Africa,1-0 (1-0),South Africa (Suid-Afrika),Congo,1994_USA_PR.htm,Johannesburg.,1992
-1994-USA,PRELIMINARY-Europe,0-0 (0-0),Malta,Estonia (Eesti),1994_USA_PR.htm,Valletta.,1992
-1994-USA,PRELIMINARY-N/C.America,1-1 (1-0),El Salvador,Canada,1994_USA_PR.htm,San_Salvador.,1992
-1994-USA,PRELIMINARY-N/C.America,1-1 (0-0),Bermuda,Jamaica,1994_USA_PR.htm,Hamilton.,1992
-1994-USA,PRELIMINARY-Africa,1-0 (0-0),Burundi,Ghana,1994_USA_PR.htm,Bujumbura.,1992
-1994-USA,PRELIMINARY-Africa,1-0 (0-0),Swaziland (Swatini),Zaire (Zaïre),1994_USA_PR.htm,Lobamba.,1992
-1994-USA,PRELIMINARY-Africa,0-0 (0-0),Liberia,Cameroon (Cameroun),1994_USA_PR.htm,Monrovia.,1992
-1994-USA,PRELIMINARY-Africa,1-4 (0-2),Togo,Egypt (مصر),1994_USA_PR.htm,Lomé.,1992
-1994-USA,PRELIMINARY-Africa,0-0 (0-0),Niger,Ivory Coast (Côte d'Ivoire),1994_USA_PR.htm,Niamey.,1992
-1994-USA,PRELIMINARY-Africa,0-0 (0-0),Ethiopia (ኢትዮጵያ),Tunisia (تونس),1994_USA_PR.htm,Addis Ababa.,1992
-1994-USA,PRELIMINARY-Africa,0-1 (0-0),Benin (Bénin),Morocco (المغرب),1994_USA_PR.htm,Cotonou.,1992
-1994-USA,PRELIMINARY-Africa,0-1 (0-0),Mozambique (Moçambique),Senegal (Sénégal),1994_USA_PR.htm,Maputo.,1992
-1994-USA,PRELIMINARY-Africa,0-0 (0-0),Tanzania,Madagascar (Madagasikara),1994_USA_PR.htm,Mwanza.,1992
-1994-USA,PRELIMINARY-Africa,0-4 (0-4),Namibia,Zambia,1994_USA_PR.htm,Windhoek.,1992
-1994-USA,PRELIMINARY-Europe,4-1 (1-0),Turkey (Türkiye),San Marino,1994_USA_PR.htm,Ankara.,1992
-1994-USA,PRELIMINARY-Europe,1-1 (0-1),Lithuania (Lietuva),Latvia (Latvija),1994_USA_PR.htm,Vilnius.,1992
-1994-USA,PRELIMINARY-Europe,2-0 (2-0),Russia (Россия),Luxembourg (Lëtzebuerg),1994_USA_PR.htm,Moskva.,1992
-1994-USA,PRELIMINARY-Europe,5-2 (2-0),Austria (Österreich),Israel (ישראל),1994_USA_PR.htm,Wien.,1992
-1994-USA,PRELIMINARY-N/C.America,1-0 (0-0),Canada,Jamaica,1994_USA_PR.htm,Toronto.,1992
-1994-USA,PRELIMINARY-N/C.America,4-1 (2-0),El Salvador,Bermuda,1994_USA_PR.htm,San_Salvador.,1992
-1994-USA,PRELIMINARY-N/C.America,0-4 (0-1),Saint Vincent & The Grenadines,Mexico (México),1994_USA_PR.htm,Kingstown.,1992
-1994-USA,PRELIMINARY-N/C.America,2-3 (2-0),Costa Rica,Honduras,1994_USA_PR.htm,San_José.,1992
-1994-USA,PRELIMINARY-N/C.America,2-3 (1-1),Canada,El Salvador,1994_USA_PR.htm,Vancouver.,1992
-1994-USA,PRELIMINARY-N/C.America,3-2 (2-0),Jamaica,Bermuda,1994_USA_PR.htm,Kingston.,1992
-1994-USA,PRELIMINARY-Europe,1-1 (0-1),Albania (Shqipëri),Latvia (Latvija),1994_USA_PR.htm,Tiranë.,1992
-1994-USA,PRELIMINARY-Europe,0-0 (0-0),Greece (Ελλάδα),Hungary (Magyarország),1994_USA_PR.htm,Thessaloníkê.,1992
-1994-USA,PRELIMINARY-Europe,1-3 (1-1),Israel (ישראל),Sweden (Sverige),1994_USA_PR.htm,Tel Aviv.,1992
-1994-USA,PRELIMINARY-Europe,1-1 (0-0),Romania (România),Czechoslovakia (Československo),1994_USA_PR.htm,Bucureşti.,1992
-1994-USA,PRELIMINARY-Europe,2-1 (2-0),France,Finland (Suomi),1994_USA_PR.htm,Paris.,1992
-1994-USA,PRELIMINARY-N/C.America,2-0 (1-0),Mexico (México),Honduras,1994_USA_PR.htm,México D.F.,1992
-1994-USA,PRELIMINARY-N/C.America,0-1 (0-0),Saint Vincent & The Grenadines,Costa Rica,1994_USA_PR.htm,Kingstown.,1992
-1994-USA,PRELIMINARY-N/C.America,4-2 (3-0),Canada,Bermuda,1994_USA_PR.htm,Burnaby.,1992
-1994-USA,PRELIMINARY-Europe,0-0 (0-0),Scotland,Italy (Italia),1994_USA_PR.htm,Glasgow.,1992
-1994-USA,PRELIMINARY-Europe,3-0 (2-0),Switzerland (Schweiz / Suisse),Malta,1994_USA_PR.htm,Bern.,1992
-1994-USA,PRELIMINARY-Europe,4-0 (2-0),England,Turkey (Türkiye),1994_USA_PR.htm,London.,1992
-1994-USA,PRELIMINARY-Europe,0-1 (0-0),Northern Ireland (Ulster),Denmark (Danmark),1994_USA_PR.htm,Belfast.,1992
-1994-USA,PRELIMINARY-Europe,0-0 (0-0),Spain (España),Ireland (Éire),1994_USA_PR_GD.htm#WC-94-I-4,Sevilla.,1992
-1994-USA,PRELIMINARY-Europe,2-0 (0-0),Belgium (België),Wales (Cymru),1994_USA_PR.htm,Bruxelles.,1992
-1994-USA,PRELIMINARY-N/C.America,4-0 (0-0),Mexico (México),Costa Rica,1994_USA_PR.htm,México D.F.,1992
-1994-USA,PRELIMINARY-N/C.America,0-4 (0-2),Saint Vincent & The Grenadines,Honduras,1994_USA_PR.htm,Kingstown.,1992
-1994-USA,PRELIMINARY-N/C.America,0-2 (0-1),Jamaica,El Salvador,1994_USA_PR.htm,Kingston.,1992
-1994-USA,PRELIMINARY-N/C.America,4-0 (3-0),Honduras,Saint Vincent & The Grenadines,1994_USA_PR.htm,Tegucigalpa.,1992
-1994-USA,PRELIMINARY-Europe,1-4 (1-2),Cyprus (Κύπρος),Romania (România),1994_USA_PR.htm,Lárnax.,1992
-1994-USA,PRELIMINARY-N/C.America,2-0 (0-0),Costa Rica,Mexico (México),1994_USA_PR.htm,San_José.,1992
-1994-USA,PRELIMINARY-Europe,0-2 (0-0),Israel (ישראל),Bulgaria (България),1994_USA_PR.htm,Tel Aviv.,1992
-1994-USA,PRELIMINARY-N/C.America,2-1 (1-0),Honduras,Costa Rica,1994_USA_PR.htm,Tegucigalpa.,1992
-1994-USA,PRELIMINARY-N/C.America,11-0 (6-0),Mexico (México),Saint Vincent & The Grenadines,1994_USA_PR.htm,México D.F.,1992
-1994-USA,PRELIMINARY-N/C.America,0-0 (0-0),Bermuda,Canada,1994_USA_PR.htm,Hamilton.,1992
-1994-USA,PRELIMINARY-N/C.America,2-1 (1-1),El Salvador,Jamaica,1994_USA_PR.htm,San_Salvador.,1992
-1994-USA,PRELIMINARY-N/C.America,1-1 (0-0),Honduras,Mexico (México),1994_USA_PR.htm,Tegucigalpa.,1992
-1994-USA,PRELIMINARY-N/C.America,5-0 (2-0),Costa Rica,Saint Vincent & The Grenadines,1994_USA_PR.htm,San_José.,1992
-1994-USA,PRELIMINARY-Europe,1-3 (0-0),Turkey (Türkiye),Netherlands (Nederland),1994_USA_PR.htm,İstanbul.,1992
-1994-USA,PRELIMINARY-Europe,5-0 (0-0),Spain (España),Latvia (Latvija),1994_USA_PR_GD.htm#WC-94-I-5,Sevilla.,1992
-1994-USA,PRELIMINARY-Europe,1-2 (0-0),Malta,Italy (Italia),1994_USA_PR.htm,Valletta.,1992
-1994-USA,PRELIMINARY-Africa,2-0 (0-0),Tanzania,Namibia,1994_USA_PR.htm,Mwanza.,1992
-1994-USA,PRELIMINARY-Africa,2-0 (1-0),Ghana,Algeria (الجزائر),1994_USA_PR.htm,Accra.,1992
-1994-USA,PRELIMINARY-Africa,2-1 (1-0),Zimbabwe,Egypt (مصر),1994_USA_PR.htm,Harare.,1992
-1994-USA,PRELIMINARY-Africa,0-1 (0-1),Congo,Nigeria,1994_USA_PR.htm,Pointe-Noire.,1992
-1994-USA,PRELIMINARY-Africa,0-1 (0-0),Botswana,Niger,1994_USA_PR.htm,Gaborone.,1992
-1994-USA,PRELIMINARY-Africa,1-1 (1-0),Tunisia (تونس),Morocco (المغرب),1994_USA_PR.htm,Tunis.,1992
-1994-USA,PRELIMINARY-Africa,3-1 (2-1),Ethiopia (ኢትዮጵያ),Benin (Bénin),1994_USA_PR.htm,Addis Ababa.,1992
-1994-USA,PRELIMINARY-Africa,3-2 (1-1),Gabon,Senegal (Sénégal),1994_USA_PR.htm,Libreville.,1992
-1994-USA,PRELIMINARY-Africa,2-0 (0-0),Madagascar (Madagasikara),Zambia,1994_USA_PR.htm,Antananarivo.,1992
-1994-USA,PRELIMINARY-Africa,4-0 (0-0),Guinea (Guinée),Kenya,1994_USA_PR.htm,Conakry.,1992
-1994-USA,PRELIMINARY-Africa,1-2 (0-0),Zaire (Zaïre),Cameroon (Cameroun),1994_USA_PR.htm,Kinshasa.,1993
-1994-USA,PRELIMINARY-Africa,1-1 (0-1),Angola,Zimbabwe,1994_USA_PR.htm,Luanda.,1993
-1994-USA,PRELIMINARY-Africa,0-0 (0-0),South Africa (Suid-Afrika),Nigeria,1994_USA_PR.htm,Johannesburg.,1993
-1994-USA,PRELIMINARY-Africa,1-3 (1-2),Tanzania,Zambia,1994_USA_PR.htm,Mwanza.,1993
-1994-USA,PRELIMINARY-Africa,0-0 (0-0),Burundi,Algeria (الجزائر),1994_USA_PR.htm,Bujumbura.,1993
-1994-USA,PRELIMINARY-Africa,0-0 (0-0),Swaziland (Swatini),Cameroon (Cameroun),1994_USA_PR.htm,Mbabane.,1993
-1994-USA,PRELIMINARY-Africa,1-2 (0-0),Togo,Zimbabwe,1994_USA_PR.htm,Lomé.,1993
-1994-USA,PRELIMINARY-Africa,0-0 (0-0),Botswana,Ivory Coast (Côte d'Ivoire),1994_USA_PR.htm,Gaborone.,1993
-1994-USA,PRELIMINARY-Africa,0-1 (0-1),Ethiopia (ኢትዮጵያ),Morocco (المغرب),1994_USA_PR.htm,Addis Ababa.,1993
-1994-USA,PRELIMINARY-Africa,0-5 (0-4),Benin (Bénin),Tunisia (تونس),1994_USA_PR.htm,Cotonou.,1993
-1994-USA,PRELIMINARY-Africa,1-1 (0-1),Mozambique (Moçambique),Gabon,1994_USA_PR.htm,Maputo.,1993
-1994-USA,PRELIMINARY-Africa,0-1 (0-1),Namibia,Madagascar (Madagasikara),1994_USA_PR.htm,Windhoek.,1993
-1994-USA,PRELIMINARY-Africa,0-0 (0-0),Angola,Egypt (مصر),1994_USA_PR.htm,Luanda.,1993
-1994-USA,PRELIMINARY-Europe,0-1 (0-0),Malta,Portugal,1994_USA_PR.htm,Valletta.,1993
-1994-USA,PRELIMINARY-Africa,6-1 (3-1),Senegal (Sénégal),Mozambique (Moçambique),1994_USA_PR.htm,Dakar.,1993
-1994-USA,PRELIMINARY-Africa,4-0 (2-0),Zambia,Namibia,1994_USA_PR.htm,Lusaka.,1993
-1994-USA,PRELIMINARY-Africa,1-0 (1-0),Ghana,Burundi,1994_USA_PR.htm,Kumasi.,1993
-1994-USA,PRELIMINARY-Africa,3-0 (0-0),Egypt (مصر),Togo,1994_USA_PR.htm,Cairo.,1993
-1994-USA,PRELIMINARY-Africa,2-1 (1-1),Zimbabwe,Angola,1994_USA_PR.htm,Harare.,1993
-1994-USA,PRELIMINARY-Africa,0-1 (0-0),Congo,South Africa (Suid-Afrika),1994_USA_PR.htm,Pointe-Noire.,1993
-1994-USA,PRELIMINARY-Africa,1-0 (0-0),Ivory Coast (Côte d'Ivoire),Niger,1994_USA_PR.htm,Abidjan.,1993
-1994-USA,PRELIMINARY-Africa,5-0 (3-0),Morocco (المغرب),Benin (Bénin),1994_USA_PR.htm,Rabat.,1993
-1994-USA,PRELIMINARY-Africa,3-0 (1-0),Tunisia (تونس),Ethiopia (ኢትዮጵያ),1994_USA_PR.htm,Tunis.,1993
-1994-USA,PRELIMINARY-Europe,0-3 (0-2),Cyprus (Κύπρος),Belgium (België),1994_USA_PR.htm,Levkosía.,1993
+1994-USA,PRELIMINARY-Africa,0-0 (0-0),Ethiopia (ኢትዮጵያ),Tunisia (تونس),1994_USA_PR.htm,Kingstown.,1992
+1994-USA,PRELIMINARY-Africa,0-1 (0-0),Benin (Bénin),Morocco (المغرب),1994_USA_PR.htm,Willemstad.,1992
+1994-USA,PRELIMINARY-Africa,0-1 (0-0),Mozambique (Moçambique),Senegal (Sénégal),1994_USA_PR.htm,Bridgetown.,1992
+1994-USA,PRELIMINARY-Africa,0-0 (0-0),Tanzania,Madagascar (Madagasikara),1994_USA_PR.htm,Sevilla.,1992
+1994-USA,PRELIMINARY-Africa,0-4 (0-4),Namibia,Zambia,1994_USA_PR.htm,Bruxelles.,1992
+1994-USA,PRELIMINARY-Europe,4-1 (1-0),Turkey (Türkiye),San Marino,1994_USA_PR.htm,St._Johns.,1992
+1994-USA,PRELIMINARY-Europe,1-1 (0-1),Lithuania (Lietuva),Latvia (Latvija),1994_USA_PR.htm,Georgetown.,1992
+1994-USA,PRELIMINARY-Europe,2-0 (2-0),Russia (Россия),Luxembourg (Lëtzebuerg),1994_USA_PR.htm,Hamilton.,1992
+1994-USA,PRELIMINARY-Europe,5-2 (2-0),Austria (Österreich),Israel (ישראל),1994_USA_PR.htm,Belfast.,1992
+1994-USA,PRELIMINARY-N/C.America,1-0 (0-0),Canada,Jamaica,1994_USA_PR.htm,Bucureşti.,1992
+1994-USA,PRELIMINARY-N/C.America,4-1 (2-0),El Salvador,Bermuda,1994_USA_PR.htm,Athína.,1992
+1994-USA,PRELIMINARY-N/C.America,0-4 (0-1),Saint Vincent & The Grenadines,Mexico (México),1994_USA_PR.htm,Helsinki.,1992
+1994-USA,PRELIMINARY-N/C.America,2-3 (2-0),Costa Rica,Honduras,1994_USA_PR.htm,Bucureşti.,1992
+1994-USA,PRELIMINARY-N/C.America,2-3 (1-1),Canada,El Salvador,1994_USA_PR.htm,Kingston.,1992
+1994-USA,PRELIMINARY-N/C.America,3-2 (2-0),Jamaica,Bermuda,1994_USA_PR.htm,Paramaribo.,1992
+1994-USA,PRELIMINARY-Europe,1-1 (0-1),Albania (Shqipëri),Latvia (Latvija),1994_USA_PR.htm,Port-au-Prince.,1992
+1994-USA,PRELIMINARY-Europe,0-0 (0-0),Greece (Ελλάδα),Hungary (Magyarország),1994_USA_PR.htm,Dublin.,1992
+1994-USA,PRELIMINARY-Europe,1-3 (1-1),Israel (ישראל),Sweden (Sverige),1994_USA_PR.htm,San_Juan.,1992
+1994-USA,PRELIMINARY-Europe,1-1 (0-0),Romania (România),Czechoslovakia (Československo),1994_USA_PR.htm,Port_of_Spain.,1992
+1994-USA,PRELIMINARY-Europe,2-1 (2-0),France,Finland (Suomi),1994_USA_PR.htm,Tiranë.,1992
+1994-USA,PRELIMINARY-N/C.America,2-0 (1-0),Mexico (México),Honduras,1994_USA_PR.htm,Toftír.,1992
+1994-USA,PRELIMINARY-N/C.America,0-1 (0-0),Saint Vincent & The Grenadines,Costa Rica,1994_USA_PR.htm,Budapest.,1992
+1994-USA,PRELIMINARY-N/C.America,4-2 (3-0),Canada,Bermuda,1994_USA_PR.htm,Auckland.,1992
+1994-USA,PRELIMINARY-Europe,0-0 (0-0),Scotland,Italy (Italia),1994_USA_PR.htm,St._Johns.,1992
+1994-USA,PRELIMINARY-Europe,3-0 (2-0),Switzerland (Schweiz / Suisse),Malta,1994_USA_PR.htm,Toftír.,1992
+1994-USA,PRELIMINARY-Europe,4-0 (2-0),England,Turkey (Türkiye),1994_USA_PR.htm,Port_Vila.,1992
+1994-USA,PRELIMINARY-Europe,0-1 (0-0),Northern Ireland (Ulster),Denmark (Danmark),1994_USA_PR.htm,Auckland.,1992
+1994-USA,PRELIMINARY-Europe,0-0 (0-0),Spain (España),Ireland (Éire),1994_USA_PR_GD.htm#WC-94-I-4,Hamilton.,1992
+1994-USA,PRELIMINARY-Europe,2-0 (0-0),Belgium (België),Wales (Cymru),1994_USA_PR.htm,Port_of_Spain.,1992
+1994-USA,PRELIMINARY-N/C.America,4-0 (0-0),Mexico (México),Costa Rica,1994_USA_PR.htm,Honiara.,1992
+1994-USA,PRELIMINARY-N/C.America,0-4 (0-2),Saint Vincent & The Grenadines,Honduras,1994_USA_PR.htm,Managua.,1992
+1994-USA,PRELIMINARY-N/C.America,0-2 (0-1),Jamaica,El Salvador,1994_USA_PR.htm,Guatemala.,1992
+1994-USA,PRELIMINARY-N/C.America,4-0 (3-0),Honduras,Saint Vincent & The Grenadines,1994_USA_PR.htm,San_Salvador.,1992
+1994-USA,PRELIMINARY-Europe,1-4 (1-2),Cyprus (Κύπρος),Romania (România),1994_USA_PR.htm,Tegucigalpa.,1992
+1994-USA,PRELIMINARY-N/C.America,2-0 (0-0),Costa Rica,Mexico (México),1994_USA_PR.htm,Paramaribo.,1992
+1994-USA,PRELIMINARY-Europe,0-2 (0-0),Israel (ישראל),Bulgaria (България),1994_USA_PR.htm,Rīga.,1992
+1994-USA,PRELIMINARY-N/C.America,2-1 (1-0),Honduras,Costa Rica,1994_USA_PR.htm,Tallinn.,1992
+1994-USA,PRELIMINARY-N/C.America,11-0 (6-0),Mexico (México),Saint Vincent & The Grenadines,1994_USA_PR.htm,Panamá.,1992
+1994-USA,PRELIMINARY-N/C.America,0-0 (0-0),Bermuda,Canada,1994_USA_PR.htm,Kingston.,1992
+1994-USA,PRELIMINARY-N/C.America,2-1 (1-1),El Salvador,Jamaica,1994_USA_PR.htm,San_José.,1992
+1994-USA,PRELIMINARY-N/C.America,1-1 (0-0),Honduras,Mexico (México),1994_USA_PR.htm,Rīga.,1992
+1994-USA,PRELIMINARY-N/C.America,5-0 (2-0),Costa Rica,Saint Vincent & The Grenadines,1994_USA_PR.htm,Kingstown.,1992
+1994-USA,PRELIMINARY-Europe,1-3 (0-0),Turkey (Türkiye),Netherlands (Nederland),1994_USA_PR.htm,Praha.,1992
+1994-USA,PRELIMINARY-Europe,5-0 (0-0),Spain (España),Latvia (Latvija),1994_USA_PR_GD.htm#WC-94-I-5,Honiara.,1992
+1994-USA,PRELIMINARY-Europe,1-2 (0-0),Malta,Italy (Italia),1994_USA_PR.htm,Bern.,1992
+1994-USA,PRELIMINARY-Africa,2-0 (0-0),Tanzania,Namibia,1994_USA_PR.htm,Oslo.,1992
+1994-USA,PRELIMINARY-Africa,2-0 (1-0),Ghana,Algeria (الجزائر),1994_USA_PR.htm,Dublin.,1992
+1994-USA,PRELIMINARY-Africa,2-1 (1-0),Zimbabwe,Egypt (مصر),1994_USA_PR.htm,Belfast.,1992
+1994-USA,PRELIMINARY-Africa,0-1 (0-1),Congo,Nigeria,1994_USA_PR.htm,Cardiff.,1992
+1994-USA,PRELIMINARY-Africa,0-1 (0-0),Botswana,Niger,1994_USA_PR.htm,Luxembourg.,1992
+1994-USA,PRELIMINARY-Africa,1-1 (1-0),Tunisia (تونس),Morocco (المغرب),1994_USA_PR.htm,Helsinki.,1992
+1994-USA,PRELIMINARY-Africa,3-1 (2-1),Ethiopia (ኢትዮጵያ),Benin (Bénin),1994_USA_PR.htm,Sofija.,1992
+1994-USA,PRELIMINARY-Africa,3-2 (1-1),Gabon,Senegal (Sénégal),1994_USA_PR.htm,Papeete.,1992
+1994-USA,PRELIMINARY-Africa,2-0 (0-0),Madagascar (Madagasikara),Zambia,1994_USA_PR.htm,Nausori.,1992
+1994-USA,PRELIMINARY-Africa,4-0 (0-0),Guinea (Guinée),Kenya,1994_USA_PR.htm,Nadi.,1992
+1994-USA,PRELIMINARY-Africa,1-2 (0-0),Zaire (Zaïre),Cameroon (Cameroun),1994_USA_PR.htm,Brisbane.,1993
+1994-USA,PRELIMINARY-Africa,1-1 (0-1),Angola,Zimbabwe,1994_USA_PR.htm,Poznań.,1993
+1994-USA,PRELIMINARY-Africa,0-0 (0-0),South Africa (Suid-Afrika),Nigeria,1994_USA_PR.htm,Oslo.,1993
+1994-USA,PRELIMINARY-Africa,1-3 (1-2),Tanzania,Zambia,1994_USA_PR.htm,Vilnius.,1993
+1994-USA,PRELIMINARY-Africa,0-0 (0-0),Burundi,Algeria (الجزائر),1994_USA_PR.htm,Rīga.,1993
+1994-USA,PRELIMINARY-Africa,0-0 (0-0),Swaziland (Swatini),Cameroon (Cameroun),1994_USA_PR.htm,Košice.,1993
+1994-USA,PRELIMINARY-Africa,1-2 (0-0),Togo,Zimbabwe,1994_USA_PR.htm,Newcastle.,1993
+1994-USA,PRELIMINARY-Africa,0-0 (0-0),Botswana,Ivory Coast (Côte d'Ivoire),1994_USA_PR.htm,Port_Vila.,1993
+1994-USA,PRELIMINARY-Africa,0-1 (0-1),Ethiopia (ኢትዮጵያ),Morocco (المغرب),1994_USA_PR.htm,Serravalle.,1993
+1994-USA,PRELIMINARY-Africa,0-5 (0-4),Benin (Bénin),Tunisia (تونس),1994_USA_PR.htm,Reykjavík.,1993
+1994-USA,PRELIMINARY-Africa,1-1 (0-1),Mozambique (Moçambique),Gabon,1994_USA_PR.htm,Stockholm.,1993
+1994-USA,PRELIMINARY-Africa,0-1 (0-1),Namibia,Madagascar (Madagasikara),1994_USA_PR.htm,Tlemcen.,1993
+1994-USA,PRELIMINARY-Africa,0-0 (0-0),Angola,Egypt (مصر),1994_USA_PR.htm,Harare.,1993
+1994-USA,PRELIMINARY-Europe,0-1 (0-0),Malta,Portugal,1994_USA_PR.htm,Papeete.,1993
+1994-USA,PRELIMINARY-Africa,6-1 (3-1),Senegal (Sénégal),Mozambique (Moçambique),1994_USA_PR.htm,Lagos.,1993
+1994-USA,PRELIMINARY-Africa,4-0 (2-0),Zambia,Namibia,1994_USA_PR.htm,Kinshasa.,1993
+1994-USA,PRELIMINARY-Africa,1-0 (1-0),Ghana,Burundi,1994_USA_PR.htm,Cairo.,1993
+1994-USA,PRELIMINARY-Africa,3-0 (0-0),Egypt (مصر),Togo,1994_USA_PR.htm,Abidjan.,1993
+1994-USA,PRELIMINARY-Africa,2-1 (1-1),Zimbabwe,Angola,1994_USA_PR.htm,Casablanca.,1993
+1994-USA,PRELIMINARY-Africa,0-1 (0-0),Congo,South Africa (Suid-Afrika),1994_USA_PR.htm,Tunis.,1993
+1994-USA,PRELIMINARY-Africa,1-0 (0-0),Ivory Coast (Côte d'Ivoire),Niger,1994_USA_PR.htm,Libreville.,1993
+1994-USA,PRELIMINARY-Africa,5-0 (3-0),Morocco (المغرب),Benin (Bénin),1994_USA_PR.htm,Lusaka.,1993
+1994-USA,PRELIMINARY-Africa,3-0 (1-0),Tunisia (تونس),Ethiopia (ኢትዮጵያ),1994_USA_PR.htm,Antananarivo.,1993
+1994-USA,PRELIMINARY-Europe,0-3 (0-2),Cyprus (Κύπρος),Belgium (België),1994_USA_PR.htm,Cagliari.,1993
 1994-USA,PRELIMINARY-Europe,3-0 (1-0),Scotland,Malta,1994_USA_PR.htm,Glasgow.,1993
 1994-USA,PRELIMINARY-Europe,6-0 (2-0),England,San Marino,1994_USA_PR.htm,London.,1993
-1994-USA,PRELIMINARY-Europe,1-2 (0-2),Albania (Shqipëri),Northern Ireland (Ulster),1994_USA_PR.htm,Tiranë.,1993
-1994-USA,PRELIMINARY-Europe,2-0 (1-0),Greece (Ελλάδα),Luxembourg (Lëtzebuerg),1994_USA_PR.htm,Athína.,1993
-1994-USA,PRELIMINARY-Europe,0-4 (0-1),Israel (ישראל),France,1994_USA_PR.htm,Tel Aviv.,1993
-1994-USA,PRELIMINARY-Europe,1-3 (0-2),Portugal,Italy (Italia),1994_USA_PR.htm,Porto.,1993
-1994-USA,PRELIMINARY-Europe,3-1 (2-1),Netherlands (Nederland),Turkey (Türkiye),1994_USA_PR.htm,Utrecht.,1993
-1994-USA,PRELIMINARY-Europe,5-0 (3-0),Spain (España),Lithuania (Lietuva),1994_USA_PR_GD.htm#WC-94-I-6,Sevilla.,1993
-1994-USA,PRELIMINARY-Africa,2-1 (0-1),Algeria (الجزائر),Ghana,1994_USA_PR.htm,Tlemcen.,1993
-1994-USA,PRELIMINARY-Africa,2-0 (1-0),Nigeria,Congo,1994_USA_PR.htm,Enugu.,1993
-1994-USA,PRELIMINARY-Africa,1-0 (1-0),Senegal (Sénégal),Gabon,1994_USA_PR.htm,Dakar.,1993
-1994-USA,PRELIMINARY-Africa,2-0 (1-0),Kenya,Guinea (Guinée),1994_USA_PR.htm,Nairobi.,1993
-1994-USA,PRELIMINARY-Africa,0-1 (0-0),Togo,Angola,1994_USA_PR.htm,Lomé.,1993
-1994-USA,PRELIMINARY-Africa,2-1 (2-1),Egypt (مصر),Zimbabwe,1994_USA_PR.htm,Cairo.,1993
-1994-USA,PRELIMINARY-Africa,2-1 (1-1),Niger,Botswana,1994_USA_PR.htm,Niamey.,1993
-1994-USA,PRELIMINARY-Africa,1-0 (0-0),Benin (Bénin),Ethiopia (ኢትዮጵያ),1994_USA_PR.htm,Cotonou.,1993
-1994-USA,PRELIMINARY-Africa,0-0 (0-0),Morocco (المغرب),Tunisia (تونس),1994_USA_PR.htm,Casablanca.,1993
-1994-USA,PRELIMINARY-Africa,3-1 (1-0),Zambia,Madagascar (Madagasikara),1994_USA_PR.htm,Lusaka.,1993
-1994-USA,PRELIMINARY-Africa,0-0 (0-0),Cameroon (Cameroun),Zaire (Zaïre),1994_USA_PR.htm,Yaoundé.,1993
-1994-USA,PRELIMINARY-Europe,0-0 (0-0),San Marino,Turkey (Türkiye),1994_USA_PR.htm,Serravalle.,1993
-1994-USA,PRELIMINARY-Europe,6-1 (2-0),Italy (Italia),Malta,1994_USA_PR.htm,Palermo.,1993
-1994-USA,PRELIMINARY-Europe,6-0 (2-0),Netherlands (Nederland),San Marino,1994_USA_PR.htm,Utrecht.,1993
-1994-USA,PRELIMINARY-Europe,1-1 (0-1),Cyprus (Κύπρος),Czechoslovakia (Československo),1994_USA_PR.htm,Lemesós.,1993
+1994-USA,PRELIMINARY-Europe,1-2 (0-2),Albania (Shqipëri),Northern Ireland (Ulster),1994_USA_PR.htm,Rotterdam.,1993
+1994-USA,PRELIMINARY-Europe,2-0 (1-0),Greece (Ελλάδα),Luxembourg (Lëtzebuerg),1994_USA_PR.htm,København.,1993
+1994-USA,PRELIMINARY-Europe,0-4 (0-1),Israel (ישראל),France,1994_USA_PR.htm,Belfast.,1993
+1994-USA,PRELIMINARY-Europe,1-3 (0-2),Portugal,Italy (Italia),1994_USA_PR.htm,Bruxelles.,1993
+1994-USA,PRELIMINARY-Europe,3-1 (2-1),Netherlands (Nederland),Turkey (Türkiye),1994_USA_PR.htm,Lemesós.,1993
+1994-USA,PRELIMINARY-Europe,5-0 (3-0),Spain (España),Lithuania (Lietuva),1994_USA_PR_GD.htm#WC-94-I-6,Moskva.,1993
+1994-USA,PRELIMINARY-Africa,2-1 (0-1),Algeria (الجزائر),Ghana,1994_USA_PR.htm,Paris.,1993
+1994-USA,PRELIMINARY-Africa,2-0 (1-0),Nigeria,Congo,1994_USA_PR.htm,Kingston.,1993
+1994-USA,PRELIMINARY-Africa,1-0 (1-0),Senegal (Sénégal),Gabon,1994_USA_PR.htm,Hamilton.,1993
+1994-USA,PRELIMINARY-Africa,2-0 (1-0),Kenya,Guinea (Guinée),1994_USA_PR.htm,Yaoundé.,1993
+1994-USA,PRELIMINARY-Africa,0-1 (0-0),Togo,Angola,1994_USA_PR.htm,Johannesburg.,1993
+1994-USA,PRELIMINARY-Africa,2-1 (2-1),Egypt (مصر),Zimbabwe,1994_USA_PR.htm,Valletta.,1993
+1994-USA,PRELIMINARY-Africa,2-1 (1-1),Niger,Botswana,1994_USA_PR.htm,San_Salvador.,1993
+1994-USA,PRELIMINARY-Africa,1-0 (0-0),Benin (Bénin),Ethiopia (ኢትዮጵያ),1994_USA_PR.htm,Hamilton.,1993
+1994-USA,PRELIMINARY-Africa,0-0 (0-0),Morocco (المغرب),Tunisia (تونس),1994_USA_PR.htm,Bujumbura.,1993
+1994-USA,PRELIMINARY-Africa,3-1 (1-0),Zambia,Madagascar (Madagasikara),1994_USA_PR.htm,Lobamba.,1993
+1994-USA,PRELIMINARY-Africa,0-0 (0-0),Cameroon (Cameroun),Zaire (Zaïre),1994_USA_PR.htm,Monrovia.,1993
+1994-USA,PRELIMINARY-Europe,0-0 (0-0),San Marino,Turkey (Türkiye),1994_USA_PR.htm,Lomé.,1993
+1994-USA,PRELIMINARY-Europe,6-1 (2-0),Italy (Italia),Malta,1994_USA_PR.htm,Niamey.,1993
+1994-USA,PRELIMINARY-Europe,6-0 (2-0),Netherlands (Nederland),San Marino,1994_USA_PR.htm,Addis Ababa.,1993
+1994-USA,PRELIMINARY-Europe,1-1 (0-1),Cyprus (Κύπρος),Czechoslovakia (Československo),1994_USA_PR.htm,Cotonou.,1993
+1994-USA,PRELIMINARY-N/C.America,3-1 (1-1),Saint Vincent & The Grenadines,Saint Lucia,1994_USA_PR.htm,Maputo.,1992
+1994-USA,PRELIMINARY-N/C.America,1-1 (1-1),Dutch Antilles (Nederlandse Antillen),Antigua and Barbuda,1994_USA_PR.htm,Mwanza.,1992
+1994-USA,PRELIMINARY-N/C.America,1-2 (0-1),Barbados,Trinidad and Tobago,1994_USA_PR.htm,Windhoek.,1992
+1994-USA,PRELIMINARY-Europe,3-0 (1-0),Spain (España),Albania (Shqipëri),1994_USA_PR_GD.htm#WC-94-I-1,Ankara.,1992
+1994-USA,PRELIMINARY-Europe,1-0 (1-0),Belgium (België),Cyprus (Κύπρος),1994_USA_PR.htm,Vilnius.,1992
+1994-USA,PRELIMINARY-N/C.America,3-0 (1-0),Antigua and Barbuda,Dutch Antilles (Nederlandse Antillen),1994_USA_PR.htm,Moskva.,1992
+1994-USA,PRELIMINARY-N/C.America,1-2 (0-1),Guyana,Surinam (Suriname),1994_USA_PR.htm,Wien.,1992
+1994-USA,PRELIMINARY-N/C.America,1-0 (0-0),Bermuda,Haiti (Haïti),1994_USA_PR.htm,Toronto.,1992
+1994-USA,PRELIMINARY-Europe,2-2 (2-1),Northern Ireland (Ulster),Lithuania (Lietuva),1994_USA_PR.htm,San_Salvador.,1992
+1994-USA,PRELIMINARY-Europe,7-0 (5-0),Romania (România),Faroe Islands (Føroyar),1994_USA_PR.htm,Kingstown.,1992
+1994-USA,PRELIMINARY-Europe,1-0 (1-0),Greece (Ελλάδα),Iceland (Ísland),1994_USA_PR.htm,San_José.,1992
+1994-USA,PRELIMINARY-Europe,0-3 (0-0),Finland (Suomi),Bulgaria (България),1994_USA_PR.htm,Vancouver.,1992
+1994-USA,PRELIMINARY-Europe,5-1 (5-0),Romania (România),Wales (Cymru),1994_USA_PR.htm,Kingston.,1992
+1994-USA,PRELIMINARY-N/C.America,2-1 (0-1),Jamaica,Puerto Rico,1994_USA_PR.htm,Tiranë.,1992
+1994-USA,PRELIMINARY-N/C.America,1-1 (1-1),Surinam (Suriname),Guyana,1994_USA_PR.htm,Thessaloníkê.,1992
+1994-USA,PRELIMINARY-N/C.America,2-1 (1-1),Haiti (Haïti),Bermuda,1994_USA_PR.htm,Tel Aviv.,1992
+1994-USA,PRELIMINARY-Europe,2-0 (0-0),Ireland (Éire),Albania (Shqipëri),1994_USA_PR.htm,Bucureşti.,1992
+1994-USA,PRELIMINARY-N/C.America,0-1 (0-1),Puerto Rico,Jamaica,1994_USA_PR.htm,Paris.,1992
+1994-USA,PRELIMINARY-N/C.America,3-0 (0-0),Trinidad and Tobago,Barbados,1994_USA_PR.htm,México D.F.,1992
+1994-USA,PRELIMINARY-Europe,1-0 (0-0),Albania (Shqipëri),Lithuania (Lietuva),1994_USA_PR.htm,Kingstown.,1992
+1994-USA,PRELIMINARY-Europe,0-3 (0-1),Faroe Islands (Føroyar),Belgium (België),1994_USA_PR.htm,Burnaby.,1992
+1994-USA,PRELIMINARY-Europe,1-2 (1-0),Hungary (Magyarország),Iceland (Ísland),1994_USA_PR.htm,Glasgow.,1992
+1994-USA,PRELIMINARY-Oceania,3-0 (2-0),New Zealand (Aotearoa),Fiji,1994_USA_PR.htm,Bern.,1992
+1994-USA,PRELIMINARY-N/C.America,0-3 (0-1),Antigua and Barbuda,Bermuda,1994_USA_PR.htm,London.,1992
+1994-USA,PRELIMINARY-Europe,0-2 (0-1),Faroe Islands (Føroyar),Cyprus (Κύπρος),1994_USA_PR.htm,Belfast.,1992
+1994-USA,PRELIMINARY-Oceania,1-4 (1-2),Vanuatu,New Zealand (Aotearoa),1994_USA_PR.htm,Sevilla.,1992
+1994-USA,PRELIMINARY-Oceania,8-0 (3-0),New Zealand (Aotearoa),Vanuatu,1994_USA_PR.htm,Bruxelles.,1992
+1994-USA,PRELIMINARY-N/C.America,2-1 (1-1),Bermuda,Antigua and Barbuda,1994_USA_PR.htm,México D.F.,1992
+1994-USA,PRELIMINARY-N/C.America,1-2 (0-0),Trinidad and Tobago,Jamaica,1994_USA_PR.htm,Kingstown.,1992
+1994-USA,PRELIMINARY-Oceania,1-1 (0-0),Solomon Islands,Tahiti,1994_USA_PR.htm,Kingston.,1992
+1994-USA,PRELIMINARY-N/C.America,0-5 (0-3),Nicaragua,El Salvador,1994_USA_PR.htm,Tegucigalpa.,1992
+1994-USA,PRELIMINARY-N/C.America,0-0 (0-0),Guatemala,Honduras,1994_USA_PR.htm,Lárnax.,1992
+1994-USA,PRELIMINARY-N/C.America,5-1 (2-0),El Salvador,Nicaragua,1994_USA_PR.htm,San_José.,1992
+1994-USA,PRELIMINARY-N/C.America,2-0 (0-0),Honduras,Guatemala,1994_USA_PR.htm,Tel Aviv.,1992
+1994-USA,PRELIMINARY-N/C.America,0-0 (0-0),Surinam (Suriname),Saint Vincent & The Grenadines,1994_USA_PR.htm,Tegucigalpa.,1992
+1994-USA,PRELIMINARY-Europe,1-2 (1-0),Latvia (Latvija),Lithuania (Lietuva),1994_USA_PR.htm,México D.F.,1992
+1994-USA,PRELIMINARY-Europe,0-6 (0-2),Estonia (Eesti),Switzerland (Schweiz / Suisse),1994_USA_PR.htm,Hamilton.,1992
+1994-USA,PRELIMINARY-N/C.America,1-0 (1-0),Panama (Panamá),Costa Rica,1994_USA_PR.htm,San_Salvador.,1992
+1994-USA,PRELIMINARY-N/C.America,1-1 (1-1),Jamaica,Trinidad and Tobago,1994_USA_PR.htm,Tegucigalpa.,1992
+1994-USA,PRELIMINARY-N/C.America,5-1 (4-0),Costa Rica,Panama (Panamá),1994_USA_PR.htm,San_José.,1992
+1994-USA,PRELIMINARY-Europe,0-0 (0-0),Latvia (Latvija),Denmark (Danmark),1994_USA_PR.htm,İstanbul.,1992
+1994-USA,PRELIMINARY-N/C.America,2-1 (0-1),Saint Vincent & The Grenadines,Surinam (Suriname),1994_USA_PR.htm,Sevilla.,1992
+1994-USA,PRELIMINARY-Europe,1-2 (0-1),Czechoslovakia (Československo),Belgium (België),1994_USA_PR.htm,Valletta.,1992
+1994-USA,PRELIMINARY-Oceania,1-2 (0-1),Solomon Islands,Australia,1994_USA_PR.htm,Mwanza.,1992
+1994-USA,PRELIMINARY-Europe,3-1 (1-1),Switzerland (Schweiz / Suisse),Scotland,1994_USA_PR.htm,Accra.,1992
+1994-USA,PRELIMINARY-Europe,10-0 (4-0),Norway (Norge),San Marino,1994_USA_PR.htm,Harare.,1992
+1994-USA,PRELIMINARY-Europe,4-0 (1-0),Ireland (Éire),Latvia (Latvija),1994_USA_PR.htm,Pointe-Noire.,1992
+1994-USA,PRELIMINARY-Europe,3-0 (3-0),Northern Ireland (Ulster),Albania (Shqipëri),1994_USA_PR.htm,Gaborone.,1992
+1994-USA,PRELIMINARY-Europe,6-0 (3-0),Wales (Cymru),Faroe Islands (Føroyar),1994_USA_PR.htm,Tunis.,1992
+1994-USA,PRELIMINARY-Europe,0-3 (0-1),Luxembourg (Lëtzebuerg),Hungary (Magyarország),1994_USA_PR.htm,Addis Ababa.,1992
+1994-USA,PRELIMINARY-Europe,0-1 (0-0),Finland (Suomi),Sweden (Sverige),1994_USA_PR.htm,Libreville.,1992
+1994-USA,PRELIMINARY-Europe,2-0 (2-0),Bulgaria (България),France,1994_USA_PR.htm,Antananarivo.,1992
+1994-USA,PRELIMINARY-Oceania,0-3 (0-2),Tahiti,Australia,1994_USA_PR.htm,Conakry.,1992
+1994-USA,PRELIMINARY-Oceania,3-0 (0-0),Fiji,Vanuatu,1994_USA_PR.htm,Kinshasa.,1992
+1994-USA,PRELIMINARY-Oceania,0-0 (0-0),Fiji,New Zealand (Aotearoa),1994_USA_PR.htm,Luanda.,1992
+1994-USA,PRELIMINARY-Oceania,2-0 (1-0),Australia,Tahiti,1994_USA_PR.htm,Johannesburg.,1992
+1994-USA,PRELIMINARY-Europe,1-0 (1-0),Poland (Polska),Turkey (Türkiye),1994_USA_PR.htm,Mwanza.,1992
+1994-USA,PRELIMINARY-Europe,2-1 (1-1),Norway (Norge),Netherlands (Nederland),1994_USA_PR.htm,Bujumbura.,1992
+1994-USA,PRELIMINARY-Europe,0-0 (0-0),Lithuania (Lietuva),Denmark (Danmark),1994_USA_PR.htm,Mbabane.,1992
+1994-USA,PRELIMINARY-Europe,0-0 (0-0),Latvia (Latvija),Spain (España),1994_USA_PR_GD.htm#WC-94-I-2,Lomé.,1992
+1994-USA,PRELIMINARY-Europe,4-0 (1-0),Czechoslovakia (Československo),Faroe Islands (Føroyar),1994_USA_PR.htm,Gaborone.,1992
+1994-USA,PRELIMINARY-Oceania,6-1 (1-1),Australia,Solomon Islands,1994_USA_PR.htm,Addis Ababa.,1992
+1994-USA,PRELIMINARY-Oceania,0-3 (0-2),Vanuatu,Fiji,1994_USA_PR.htm,Cotonou.,1992
+1994-USA,PRELIMINARY-Europe,0-2 (0-2),San Marino,Norway (Norge),1994_USA_PR.htm,Maputo.,1992
+1994-USA,PRELIMINARY-Europe,0-1 (0-0),Iceland (Ísland),Greece (Ελλάδα),1994_USA_PR.htm,Windhoek.,1992
+1994-USA,PRELIMINARY-Europe,2-0 (0-0),Sweden (Sverige),Bulgaria (България),1994_USA_PR.htm,Luanda.,1992
+1994-USA,PRELIMINARY-Africa,3-1 (1-0),Algeria (الجزائر),Burundi,1994_USA_PR.htm,Valletta.,1992
+1994-USA,PRELIMINARY-Africa,1-0 (0-0),Zimbabwe,Togo,1994_USA_PR.htm,Dakar.,1992
+1994-USA,PRELIMINARY-Oceania,4-2 (3-0),Tahiti,Solomon Islands,1994_USA_PR.htm,Lusaka.,1992
+1994-USA,PRELIMINARY-Africa,4-0 (1-0),Nigeria,South Africa (Suid-Afrika),1994_USA_PR.htm,Kumasi.,1992
+1994-USA,PRELIMINARY-Africa,4-2 (1-1),Zaire (Zaïre),Liberia,1994_USA_PR.htm,Cairo.,1992
+1994-USA,PRELIMINARY-Africa,1-0 (0-0),Egypt (مصر),Angola,1994_USA_PR.htm,Harare.,1992
+1994-USA,PRELIMINARY-Africa,6-0 (3-0),Ivory Coast (Côte d'Ivoire),Botswana,1994_USA_PR.htm,Pointe-Noire.,1992
+1994-USA,PRELIMINARY-Africa,5-0 (4-0),Morocco (المغرب),Ethiopia (ኢትዮጵያ),1994_USA_PR.htm,Abidjan.,1992
+1994-USA,PRELIMINARY-Africa,5-1 (3-1),Tunisia (تونس),Benin (Bénin),1994_USA_PR.htm,Rabat.,1992
+1994-USA,PRELIMINARY-Africa,3-1 (2-1),Gabon,Mozambique (Moçambique),1994_USA_PR.htm,Tunis.,1992
+1994-USA,PRELIMINARY-Africa,2-0 (2-0),Zambia,Tanzania,1994_USA_PR.htm,Levkosía.,1992
+1994-USA,PRELIMINARY-Africa,3-0 (2-0),Madagascar (Madagasikara),Namibia,1994_USA_PR.htm,Glasgow.,1992
+1994-USA,PRELIMINARY-Europe,2-2 (0-2),Italy (Italia),Switzerland (Schweiz / Suisse),1994_USA_PR.htm,London.,1992
+1994-USA,PRELIMINARY-Europe,0-0 (0-0),Scotland,Portugal,1994_USA_PR.htm,Tiranë.,1992
+1994-USA,PRELIMINARY-Europe,1-1 (0-0),England,Norway (Norge),1994_USA_PR.htm,Athína.,1992
+1994-USA,PRELIMINARY-Europe,2-2 (1-2),Netherlands (Nederland),Poland (Polska),1994_USA_PR.htm,Tel Aviv.,1992
+1994-USA,PRELIMINARY-Europe,0-0 (0-0),Denmark (Danmark),Ireland (Éire),1994_USA_PR.htm,Porto.,1992
+1994-USA,PRELIMINARY-Europe,0-0 (0-0),Northern Ireland (Ulster),Spain (España),1994_USA_PR_GD.htm#WC-94-I-3,Utrecht.,1992
+1994-USA,PRELIMINARY-Europe,1-0 (1-0),Belgium (België),Romania (România),1994_USA_PR.htm,Sevilla.,1992
+1994-USA,PRELIMINARY-Europe,0-1 (0-0),Cyprus (Κύπρος),Wales (Cymru),1994_USA_PR.htm,Tlemcen.,1992
+1994-USA,PRELIMINARY-Europe,1-0 (0-0),Russia (Россия),Iceland (Ísland),1994_USA_PR.htm,Enugu.,1992
+1994-USA,PRELIMINARY-Europe,2-0 (1-0),France,Austria (Österreich),1994_USA_PR.htm,Dakar.,1992
+1994-USA,PRELIMINARY-N/C.America,1-1 (0-0),Jamaica,Canada,1994_USA_PR.htm,Nairobi.,1992
+1994-USA,PRELIMINARY-N/C.America,1-0 (0-0),Bermuda,El Salvador,1994_USA_PR.htm,Lomé.,1992
+1994-USA,PRELIMINARY-Africa,5-0 (2-0),Cameroon (Cameroun),Swaziland (Swatini),1994_USA_PR.htm,Cairo.,1992
+1994-USA,PRELIMINARY-Africa,1-0 (1-0),South Africa (Suid-Afrika),Congo,1994_USA_PR.htm,Niamey.,1992
+1994-USA,PRELIMINARY-Europe,0-0 (0-0),Malta,Estonia (Eesti),1994_USA_PR.htm,Cotonou.,1992
+1994-USA,PRELIMINARY-N/C.America,1-1 (1-0),El Salvador,Canada,1994_USA_PR.htm,Casablanca.,1992
+1994-USA,PRELIMINARY-N/C.America,1-1 (0-0),Bermuda,Jamaica,1994_USA_PR.htm,Lusaka.,1992
+1994-USA,PRELIMINARY-Africa,1-0 (0-0),Burundi,Ghana,1994_USA_PR.htm,Yaoundé.,1992
+1994-USA,PRELIMINARY-Africa,1-0 (0-0),Swaziland (Swatini),Zaire (Zaïre),1994_USA_PR.htm,Serravalle.,1992
+1994-USA,PRELIMINARY-Africa,0-0 (0-0),Liberia,Cameroon (Cameroun),1994_USA_PR.htm,Palermo.,1992
+1994-USA,PRELIMINARY-Africa,1-4 (0-2),Togo,Egypt (مصر),1994_USA_PR.htm,Utrecht.,1992
+1994-USA,PRELIMINARY-Africa,0-0 (0-0),Niger,Ivory Coast (Côte d'Ivoire),1994_USA_PR.htm,Lemesós.,1992
 1994-USA,PRELIMINARY-Europe,0-1 (0-0),Austria (Österreich),France,1994_USA_PR.htm,Wien.,1993
 1994-USA,PRELIMINARY-Europe,1-1 (1-1),Switzerland (Schweiz / Suisse),Portugal,1994_USA_PR.htm,Bern.,1993
 1994-USA,PRELIMINARY-Europe,0-2 (0-2),Turkey (Türkiye),England,1994_USA_PR.htm,İzmir.,1993
@@ -3058,9 +3059,9 @@ edition,round,score,team1,team2,url,venue,year
 1998-FRANCE,PRELIMINARY-N/C.America,2-1 (0-0),Guatemala,Nicaragua,1998_FRANCE_PR.htm,Guatemala.,1996
 1998-FRANCE,PRELIMINARY-N/C.America,0-0 (0-0),Dutch Antilles (Nederlandse Antillen),Dominican Republic (República Dominicana),1998_FRANCE_PR.htm,Willemstad.,1996
 1998-FRANCE,PRELIMINARY-N/C.America,7-0 (5-0),Saint Vincent & The Grenadines,Puerto Rico,1998_FRANCE_PR.htm,Kingstown.,1996
-1998-FRANCE,PRELIMINARY-N/C.America,0-1 (0-1),Cayman Islands,Cuba,1998_FRANCE_PR.htm,Georgetown.,1996
+1998-FRANCE,PRELIMINARY-N/C.America,0-1 (0-1),Cayman Islands,Cuba,1998_FRANCE_PR.htm,George Town.,1996
 1998-FRANCE,PRELIMINARY-N/C.America,6-1 (2-0),Haiti (Haïti),Grenada,1998_FRANCE_PR.htm,Port-au-Prince.,1996
-1998-FRANCE,PRELIMINARY-N/C.America,5-0 (1-0),Cuba,Cayman Islands,1998_FRANCE_PR.htm,Georgetown.,1996
+1998-FRANCE,PRELIMINARY-N/C.America,5-0 (1-0),Cuba,Cayman Islands,1998_FRANCE_PR.htm,George Town.,1996
 1998-FRANCE,PRELIMINARY-N/C.America,0-1 (0-0),Dominica,Barbados,1998_FRANCE_PR.htm,Roseau.,1996
 1998-FRANCE,PRELIMINARY-N/C.America,0-1 (0-0),Grenada,Haiti (Haïti),1998_FRANCE_PR.htm,St._Georges.,1996
 1998-FRANCE,PRELIMINARY-N/C.America,0-1 (0-0),Saint Lucia,Saint Kitts & Nevis,1998_FRANCE_PR.htm,Castries.,1996
@@ -3761,7 +3762,7 @@ edition,round,score,team1,team2,url,venue,year
 2002-KOREA/JAPAN,PRELIMINARY-N/C.America,2-2 (2-2),Puerto Rico,Aruba,2002_KJ_PR.htm,San_Juan.,2000
 2002-KOREA/JAPAN,PRELIMINARY-N/C.America,8-0 (2-0),Saint Kitts & Nevis,Turks and Caicos,2002_KJ_PR.htm,Basseterre.,2000
 2002-KOREA/JAPAN,PRELIMINARY-N/C.America,1-1 (1-0),Dutch Antilles (Nederlandse Antillen),Trinidad and Tobago,2002_KJ_PR.htm,Willemstad.,2000
-2002-KOREA/JAPAN,PRELIMINARY-N/C.America,0-0 (0-0),Cayman Islands,Cuba,2002_KJ_PR.htm,Georgetown.,2000
+2002-KOREA/JAPAN,PRELIMINARY-N/C.America,0-0 (0-0),Cayman Islands,Cuba,2002_KJ_PR.htm,George Town.,2000
 2002-KOREA/JAPAN,PRELIMINARY-N/C.America,1-0 (0-0) (p.k.),Surinam (Suriname),Saint Lucia,2002_KJ_PR.htm,Paramaribo.,2000
 2002-KOREA/JAPAN,PRELIMINARY-N/C.America,1-5 (0-3),US Virgin Islands,Saint Vincent & The Grenadines,2002_KJ_PR.htm,St._Croix.,2000
 2002-KOREA/JAPAN,PRELIMINARY-N/C.America,9-0 (2-0),Bermuda,British Virgin Islands,2002_KJ_PR.htm,Hamilton.,2000
@@ -4678,7 +4679,7 @@ edition,round,score,team1,team2,url,venue,year
 2006-GERMANY,PRELIMINARY-Asia,2-0 (1-0),Turkmenistan (Türkmenistan),Sri Lanka (ශ්රී ලංකාව),2006_GERMANY_PR.htm,Ashgabat.,2004
 2006-GERMANY,PRELIMINARY-Asia,3-0 (3-0),Saudi Arabia (العربية السعودية),Indonesia,2006_GERMANY_PR.htm,Riyadh.,2004
 2006-GERMANY,PRELIMINARY-N/C.America,0-2 (0-2),Turks and Caicos,Haiti (Haïti),2006_GERMANY_PR.htm,Hialeah.,2004
-2006-GERMANY,PRELIMINARY-N/C.America,1-2 (0-0),Cayman Islands,Cuba,2006_GERMANY_PR.htm,Georgetown.,2004
+2006-GERMANY,PRELIMINARY-N/C.America,1-2 (0-0),Cayman Islands,Cuba,2006_GERMANY_PR.htm,George Town.,2004
 2006-GERMANY,PRELIMINARY-N/C.America,0-1 (0-0),British Virgin Islands,Saint Lucia,2006_GERMANY_PR.htm,Road Town.,2004
 2006-GERMANY,PRELIMINARY-N/C.America,5-0 (2-0),Grenada,Guyana,2006_GERMANY_PR.htm,St._Georges.,2004
 2006-GERMANY,PRELIMINARY-N/C.America,1-2 (0-0),Aruba,Surinam (Suriname),2006_GERMANY_PR.htm,Oranjestad.,2004
@@ -5630,7 +5631,7 @@ edition,round,score,team1,team2,url,venue,year
 2010-SOUTH AFRICA,PRELIMINARY-Asia,2-0 (2-0),Singapore (新加坡),Lebanon (لبنان),2010_SA_PR.htm,Singapore.,2008
 2010-SOUTH AFRICA,PRELIMINARY-Asia,1-1 (1-0),Syria (سوريا),United Arab Emirates (الإمارات العربية المتحدة),2010_SA_PR.htm,Damascus.,2008
 2010-SOUTH AFRICA,PRELIMINARY-Asia,2-2 (1-2),Kuwait (الكويت),Iran (ایران),2010_SA_PR.htm,Kuwait.,2008
-2010-SOUTH AFRICA,PRELIMINARY-N/C.America,1-3 (0-2),Cayman Islands,Bermuda,2010_SA_PR.htm,Georgetown.,2008
+2010-SOUTH AFRICA,PRELIMINARY-N/C.America,1-3 (0-2),Cayman Islands,Bermuda,2010_SA_PR.htm,George Town.,2008
 2010-SOUTH AFRICA,PRELIMINARY-N/C.America,2-2 (0-1),British Virgin Islands,Bahamas,2010_SA_PR.htm,Nassau.,2008
 2010-SOUTH AFRICA,PRELIMINARY-Asia,2-2 (1-0),South Korea (한국),Jordan (الأردن),2010_SA_PR.htm,Seoul.,2008
 2010-SOUTH AFRICA,PRELIMINARY-Africa,1-1 (0-1),Tanzania,Mauritius,2010_SA_PR.htm,Dar es Salaam.,2008
@@ -6502,7 +6503,7 @@ edition,round,score,team1,team2,url,venue,year
 2014-BRAZIL,PRELIMINARY-Asia,0-2 (0-1),Indonesia,Bahrain (البحرين),2014_BRAZIL_PR.htm,Jakarta.,2011
 2014-BRAZIL,PRELIMINARY-Asia,1-1 (0-0),Qatar (قطر),Iran (ایران),2014_BRAZIL_PR.htm,Doha.,2011
 2014-BRAZIL,PRELIMINARY-N/C.America,1-1 (0-1),Dominican Republic (República Dominicana),Surinam (Suriname),2014_BRAZIL_PR.htm,San_Salvador.,2011
-2014-BRAZIL,PRELIMINARY-N/C.America,1-4 (0-0),Cayman Islands,El Salvador,2014_BRAZIL_PR.htm,Georgetown.,2011
+2014-BRAZIL,PRELIMINARY-N/C.America,1-4 (0-0),Cayman Islands,El Salvador,2014_BRAZIL_PR.htm,George Town.,2011
 2014-BRAZIL,PRELIMINARY-N/C.America,0-2 (0-1),Barbados,Trinidad and Tobago,2014_BRAZIL_PR.htm,Bridgetown.,2011
 2014-BRAZIL,PRELIMINARY-N/C.America,2-1 (0-0),Guyana,Bermuda,2014_BRAZIL_PR.htm,Georgetown.,2011
 2014-BRAZIL,PRELIMINARY-N/C.America,1-2 (1-1),Nicaragua,Panama (Panamá),2014_BRAZIL_PR.htm,Managua.,2011
@@ -6513,7 +6514,7 @@ edition,round,score,team1,team2,url,venue,year
 2014-BRAZIL,PRELIMINARY-N/C.America,2-4 (2-1),Curaçao,Haiti (Haïti),2014_BRAZIL_PR.htm,Willemstad.,2011
 2014-BRAZIL,PRELIMINARY-N/C.America,2-1 (1-0),Saint Vincent & The Grenadines,Grenada,2014_BRAZIL_PR.htm,Kingstown.,2011
 2014-BRAZIL,PRELIMINARY-N/C.America,1-2 (0-1),Dominican Republic (República Dominicana),El Salvador,2014_BRAZIL_PR.htm,San Cristóbal.,2011
-2014-BRAZIL,PRELIMINARY-N/C.America,0-1 (0-0),Cayman Islands,Surinam (Suriname),2014_BRAZIL_PR.htm,Georgetown.,2011
+2014-BRAZIL,PRELIMINARY-N/C.America,0-1 (0-0),Cayman Islands,Surinam (Suriname),2014_BRAZIL_PR.htm,George Town.,2011
 2014-BRAZIL,PRELIMINARY-N/C.America,0-2 (0-0),Barbados,Guyana,2014_BRAZIL_PR.htm,Bridgetown.,2011
 2014-BRAZIL,PRELIMINARY-N/C.America,2-1 (0-0),Bermuda,Trinidad and Tobago,2014_BRAZIL_PR.htm,Prospect.,2011
 2014-BRAZIL,PRELIMINARY-N/C.America,0-5 (0-2),Dominica,Panama (Panamá),2014_BRAZIL_PR.htm,Roseau.,2011
@@ -6588,7 +6589,7 @@ edition,round,score,team1,team2,url,venue,year
 2014-BRAZIL,PRELIMINARY-S.America,4-0 (2-0),Uruguay,Chile,2014_BRAZIL_PR.htm,Montevideo.,2011
 2014-BRAZIL,PRELIMINARY-S.America,2-1 (0-0),Paraguay,Ecuador,2014_BRAZIL_PR.htm,Asunción.,2011
 2014-BRAZIL,PRELIMINARY-Africa,0-0 (0-0),Somalia (Soomaaliya),Ethiopia (ኢትዮጵያ),2014_BRAZIL_PR.htm,Djibouti.,2011
-2014-BRAZIL,PRELIMINARY-N/C.America,1-1 (0-1),Cayman Islands,Dominican Republic (República Dominicana),2014_BRAZIL_PR.htm,Georgetown.,2011
+2014-BRAZIL,PRELIMINARY-N/C.America,1-1 (0-1),Cayman Islands,Dominican Republic (República Dominicana),2014_BRAZIL_PR.htm,George Town.,2011
 2014-BRAZIL,PRELIMINARY-N/C.America,1-2 (0-0),Barbados,Bermuda,2014_BRAZIL_PR.htm,Prospect.,2011
 2014-BRAZIL,PRELIMINARY-N/C.America,3-0 (1-0),Puerto Rico,Saint Lucia,2014_BRAZIL_PR.htm,Mayagüez.,2011
 2014-BRAZIL,PRELIMINARY-Africa,1-1 (0-0),Congo,São Tomé e Príncipe,2014_BRAZIL_PR.htm,Pointe-Noire.,2011
@@ -6633,7 +6634,7 @@ edition,round,score,team1,team2,url,venue,year
 2014-BRAZIL,PRELIMINARY-Asia,7-1 (4-1),Iraq (العراق),Singapore (新加坡),2014_BRAZIL_PR.htm,Doha.,2012
 2014-BRAZIL,PRELIMINARY-Asia,3-1 (1-0),China (中国),Jordan (الأردن),2014_BRAZIL_PR.htm,Guangzhou.,2012
 2014-BRAZIL,PRELIMINARY-Asia,2-0 (0-0),South Korea (한국),Kuwait (الكويت),2014_BRAZIL_PR.htm,Seoul.,2012
-2014-BRAZIL,PRELIMINARY-Asia,4-2 (2-2),United Arab Emirates (الإمارات العربية المتحدة),Lebanon (لبنان),2014_BRAZIL_PR.htm,Abu Dhabi.,2012
+2014-BRAZIL,PRELIMINARY-Asia,4-2 (2-2),United Arab Emirates (الإمارات العربية المتحدة),Lebanon (لبنان),2014_BRAZIL_PR.htm,Abu_Dhabi.,2012
 2014-BRAZIL,PRELIMINARY-Asia,1-1 (0-1),Tajikistan (Точикистон),North Korea (조선),2014_BRAZIL_PR.htm,Khujand.,2012
 2014-BRAZIL,PRELIMINARY-Asia,0-1 (0-0),Japan (日本),Uzbekistan (Ўзбекистон),2014_BRAZIL_PR.htm,Toyota.,2012
 2014-BRAZIL,PRELIMINARY-Asia,2-0 (1-0),Oman (عمان),Thailand (ประเทศไทย),2014_BRAZIL_PR.htm,Muscat.,2012
@@ -7234,67 +7235,1002 @@ edition,round,score,team1,team2,url,venue,year
 2014-BRAZIL,PRELIMINARY-Africa,1-0 (0-0),Algeria (الجزائر),Burkina Faso,2014_BRAZIL_PR.htm,Blida.,2013
 2014-BRAZIL,PRELIMINARY-S.America,0-0 (0-0),Uruguay,Jordan (الأردن),2014_BRAZIL_PR.htm,Montevideo.,2013
 2014-BRAZIL,PRELIMINARY-Oceania,2-4 (0-3),New Zealand (Aotearoa),Mexico (México),2014_BRAZIL_PR.htm,Wellington.,2013
-2014-BRAZIL,GROUP_STAGE,xxx,Brazil (Brasil),Croatia (Hrvatska),2014_BRAZIL_FS.htm#773-WC-14-I,São_Paulo.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Mexico (México),Cameroon (Cameroun),2014_BRAZIL_FS.htm#774-WC-14-I,Natal.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Spain (España),Netherlands (Nederland),2014_BRAZIL_FS.htm#775-WC-14-I,Salvador.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Chile,Australia,2014_BRAZIL_FS.htm#776-WC-14-I,Cuiabá.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Colombia,Greece (Ελλάδα),2014_BRAZIL_FS.htm#777-WC-14-I,Belo Horizonte.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Uruguay,Costa Rica,2014_BRAZIL_FS.htm#778-WC-14-I,Fortaleza.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,England,Italy (Italia),2014_BRAZIL_FS.htm#779-WC-14-I,Manaus.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Ivory Coast (Côte d’Ivoire),Japan (日本),2014_BRAZIL_FS.htm#780-WC-14-I,Recife.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Switzerland (Schweiz / Suisse),Ecuador,2014_BRAZIL_FS.htm#781-WC-14-I,Brasília.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,France,Honduras,2014_BRAZIL_FS.htm#782-WC-14-I,Porto_Alegre.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Argentina,Bosnia-Herzegovina (Bosna i Hercegovina),2014_BRAZIL_FS.htm#783-WC-14-I,Rio de Janeiro.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Germany (Deutschland),Portugal,2014_BRAZIL_FS.htm#784-WC-14-I,Salvador.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Iran (ایران),Nigeria,2014_BRAZIL_FS.htm#785-WC-14-I,Curitiba.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Ghana,USA,2014_BRAZIL_FS.htm#786-WC-14-I,Natal.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Belgium (België),Algeria (الجزائر),2014_BRAZIL_FS.htm#787-WC-14-I,Belo Horizonte.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Brazil (Brasil),Mexico (México),2014_BRAZIL_FS.htm#788-WC-14-I,Fortaleza.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Russia (Россия),South Korea (한국),2014_BRAZIL_FS.htm#789-WC-14-I,Cuiabá.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Australia,Netherlands (Nederland),2014_BRAZIL_FS.htm#790-WC-14-I,Porto_Alegre.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Spain (España),Chile,2014_BRAZIL_FS.htm#791-WC-14-I,Rio de Janeiro.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Cameroon (Cameroun),Croatia (Hrvatska),2014_BRAZIL_FS.htm#792-WC-14-I,Manaus.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Colombia,Ivory Coast (Côte d’Ivoire),2014_BRAZIL_FS.htm#793-WC-14-I,Brasília.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Uruguay,England,2014_BRAZIL_FS.htm#794-WC-14-I,São_Paulo.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Japan (日本),Greece (Ελλάδα),2014_BRAZIL_FS.htm#795-WC-14-I,Natal.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Italy (Italia),Costa Rica,2014_BRAZIL_FS.htm#796-WC-14-I,Recife.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Switzerland (Schweiz / Suisse),France,2014_BRAZIL_FS.htm#797-WC-14-I,Salvador.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Honduras,Ecuador,2014_BRAZIL_FS.htm#798-WC-14-I,Curitiba.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Argentina,Iran (ایران),2014_BRAZIL_FS.htm#799-WC-14-I,Belo Horizonte.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Germany (Deutschland),Ghana,2014_BRAZIL_FS.htm#800-WC-14-I,Fortaleza.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Nigeria,Bosnia-Herzegovina (Bosna i Hercegovina),2014_BRAZIL_FS.htm#801-WC-14-I,Cuiabá.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Belgium (België),Russia (Россия),2014_BRAZIL_FS.htm#802-WC-14-I,Rio de Janeiro.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,South Korea (한국),Algeria (الجزائر),2014_BRAZIL_FS.htm#803-WC-14-I,Porto_Alegre.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,USA,Portugal,2014_BRAZIL_FS.htm#804-WC-14-I,Manaus.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Australia,Spain (España),2014_BRAZIL_FS.htm#805-WC-14-I,Curitiba.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Netherlands (Nederland),Chile,2014_BRAZIL_FS.htm#806-WC-14-I,São_Paulo.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Cameroon (Cameroun),Brazil (Brasil),2014_BRAZIL_FS.htm#807-WC-14-I,Brasília.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Croatia (Hrvatska),Mexico (México),2014_BRAZIL_FS.htm#808-WC-14-I,Recife.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Italy (Italia),Uruguay,2014_BRAZIL_FS.htm#809-WC-14-I,Natal.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Costa Rica,England,2014_BRAZIL_FS.htm#810-WC-14-I,Belo Horizonte.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Japan (日本),Colombia,2014_BRAZIL_FS.htm#811-WC-14-I,Cuiabá.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Greece (Ελλάδα),Ivory Coast (Côte d’Ivoire),2014_BRAZIL_FS.htm#812-WC-14-I,Fortaleza.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Nigeria,Argentina,2014_BRAZIL_FS.htm#813-WC-14-I,Porto_Alegre.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Bosnia-Herzegovina (Bosna i Hercegovina),Iran (ایران),2014_BRAZIL_FS.htm#814-WC-14-I,Salvador.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Honduras,Switzerland (Schweiz / Suisse),2014_BRAZIL_FS.htm#815-WC-14-I,Manaus.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Ecuador,France,2014_BRAZIL_FS.htm#816-WC-14-I,Rio de Janeiro.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,USA,Germany (Deutschland),2014_BRAZIL_FS.htm#817-WC-14-I,Recife.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Portugal,Ghana,2014_BRAZIL_FS.htm#818-WC-14-I,Brasília.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,South Korea (한국),Belgium (België),2014_BRAZIL_FS.htm#819-WC-14-I,São_Paulo.,2014
-2014-BRAZIL,GROUP_STAGE,xxx,Algeria (الجزائر),Russia (Россия),2014_BRAZIL_FS.htm#820-WC-14-I,Curitiba.,2014
-2014-BRAZIL,1/8_FINAL,(1),A1,B2,2014_BRAZIL_FS.htm#821-WC-14-II,Belo Horizonte.,2014
-2014-BRAZIL,1/8_FINAL,(2),C1,D2,2014_BRAZIL_FS.htm#822-WC-14-II,Rio de Janeiro.,2014
-2014-BRAZIL,1/8_FINAL,(3),B1,A2,2014_BRAZIL_FS.htm#823-WC-14-II,Fortaleza.,2014
-2014-BRAZIL,1/8_FINAL,(4),D1,C2,2014_BRAZIL_FS.htm#824-WC-14-II,Recife.,2014
-2014-BRAZIL,1/8_FINAL,(5),E1,F2,2014_BRAZIL_FS.htm#825-WC-14-II,Brasília.,2014
-2014-BRAZIL,1/8_FINAL,(6),G1,H2,2014_BRAZIL_FS.htm#826-WC-14-II,Porto_Alegre.,2014
-2014-BRAZIL,1/8_FINAL,(7),F1,E2,2014_BRAZIL_FS.htm#827-WC-14-II,São_Paulo.,2014
-2014-BRAZIL,1/8_FINAL,(8),H1,G2,2014_BRAZIL_FS.htm#828-WC-14-II,Salvador.,2014
-2014-BRAZIL,1/4_FINAL,(B),5,6,2014_BRAZIL_FS.htm#829-WC-14-III,Rio de Janeiro.,2014
-2014-BRAZIL,1/4_FINAL,(A),1,2,2014_BRAZIL_FS.htm#830-WC-14-III,Fortaleza.,2014
-2014-BRAZIL,1/4_FINAL,(D),7,8,2014_BRAZIL_FS.htm#831-WC-14-III,Brasília.,2014
-2014-BRAZIL,1/4_FINAL,(C),3,4,2014_BRAZIL_FS.htm#832-WC-14-III,Salvador.,2014
-2014-BRAZIL,1/2_FINAL,(X),A,B,2014_BRAZIL_FS.htm#833-WC-14-IV,Belo Horizonte.,2014
-2014-BRAZIL,1/2_FINAL,(Y),C,D,2014_BRAZIL_FS.htm#834-WC-14-IV,São_Paulo.,2014
-2014-BRAZIL,PLACES_3&4,xxx,LOSER X,LOSER Y,2014_BRAZIL_FS.htm#835-WC-14-V,Brasília.,2014
-2014-BRAZIL,_FINAL,xxx,WINNER X,WINNER Y,2014_BRAZIL_FS.htm#836-WC-14-VI,Rio de Janeiro.,2014
+2014-BRAZIL,GROUP_STAGE,3-1 (1-1),Brazil (Brasil),Croatia (Hrvatska),2014_BRAZIL_FS.htm#773-WC-14-I,São_Paulo.,2014
+2014-BRAZIL,GROUP_STAGE,1-0 (0-0),Mexico (México),Cameroon (Cameroun),2014_BRAZIL_FS.htm#774-WC-14-I,Natal.,2014
+2014-BRAZIL,GROUP_STAGE,1-5 (1-1),Spain (España),Netherlands (Nederland),2014_BRAZIL_FS.htm#775-WC-14-I,Salvador.,2014
+2014-BRAZIL,GROUP_STAGE,3-1 (2-1),Chile,Australia,2014_BRAZIL_FS.htm#776-WC-14-I,Cuiabá.,2014
+2014-BRAZIL,GROUP_STAGE,3-0 (1-0),Colombia,Greece (Ελλάδα),2014_BRAZIL_FS.htm#777-WC-14-I,Belo Horizonte.,2014
+2014-BRAZIL,GROUP_STAGE,1-3 (1-0),Uruguay,Costa Rica,2014_BRAZIL_FS.htm#778-WC-14-I,Fortaleza.,2014
+2014-BRAZIL,GROUP_STAGE,1-2 (1-1),England,Italy (Italia),2014_BRAZIL_FS.htm#779-WC-14-I,Manaus.,2014
+2014-BRAZIL,GROUP_STAGE,2-1 (0-1),Ivory Coast (Côte d’Ivoire),Japan (日本),2014_BRAZIL_FS.htm#780-WC-14-I,Recife.,2014
+2014-BRAZIL,GROUP_STAGE,2-1 (0-1),Switzerland (Schweiz / Suisse),Ecuador,2014_BRAZIL_FS.htm#781-WC-14-I,Brasília.,2014
+2014-BRAZIL,GROUP_STAGE,3-0 (1-0),France,Honduras,2014_BRAZIL_FS.htm#782-WC-14-I,Porto_Alegre.,2014
+2014-BRAZIL,GROUP_STAGE,2-1 (1-0),Argentina,Bosnia-Herzegovina (Bosna i Hercegovina),2014_BRAZIL_FS.htm#783-WC-14-I,Rio de Janeiro.,2014
+2014-BRAZIL,GROUP_STAGE,4-0 (3-0),Germany (Deutschland),Portugal,2014_BRAZIL_FS.htm#784-WC-14-I,Salvador.,2014
+2014-BRAZIL,GROUP_STAGE,0-0 (0-0),Iran (ایران),Nigeria,2014_BRAZIL_FS.htm#785-WC-14-I,Curitiba.,2014
+2014-BRAZIL,GROUP_STAGE,1-2 (0-1),Ghana,USA,2014_BRAZIL_FS.htm#786-WC-14-I,Natal.,2014
+2014-BRAZIL,GROUP_STAGE,2-1 (0-1),Belgium (België),Algeria (الجزائر),2014_BRAZIL_FS.htm#787-WC-14-I,Belo Horizonte.,2014
+2014-BRAZIL,GROUP_STAGE,0-0 (0-0),Brazil (Brasil),Mexico (México),2014_BRAZIL_FS.htm#788-WC-14-I,Fortaleza.,2014
+2014-BRAZIL,GROUP_STAGE,1-1 (0-0),Russia (Россия),South Korea (한국),2014_BRAZIL_FS.htm#789-WC-14-I,Cuiabá.,2014
+2014-BRAZIL,GROUP_STAGE,2-3 (1-1),Australia,Netherlands (Nederland),2014_BRAZIL_FS.htm#790-WC-14-I,Porto_Alegre.,2014
+2014-BRAZIL,GROUP_STAGE,0-2 (0-2),Spain (España),Chile,2014_BRAZIL_FS.htm#791-WC-14-I,Rio de Janeiro.,2014
+2014-BRAZIL,GROUP_STAGE,0-4 (0-1),Cameroon (Cameroun),Croatia (Hrvatska),2014_BRAZIL_FS.htm#792-WC-14-I,Manaus.,2014
+2014-BRAZIL,GROUP_STAGE,2-1 (0-0),Colombia,Ivory Coast (Côte d’Ivoire),2014_BRAZIL_FS.htm#793-WC-14-I,Brasília.,2014
+2014-BRAZIL,GROUP_STAGE,2-1 (1-0),Uruguay,England,2014_BRAZIL_FS.htm#794-WC-14-I,São_Paulo.,2014
+2014-BRAZIL,GROUP_STAGE,0-0 (0-0),Japan (日本),Greece (Ελλάδα),2014_BRAZIL_FS.htm#795-WC-14-I,Natal.,2014
+2014-BRAZIL,GROUP_STAGE,0-1 (0-1),Italy (Italia),Costa Rica,2014_BRAZIL_FS.htm#796-WC-14-I,Recife.,2014
+2014-BRAZIL,GROUP_STAGE,2-5 (0-3),Switzerland (Schweiz / Suisse),France,2014_BRAZIL_FS.htm#797-WC-14-I,Salvador.,2014
+2014-BRAZIL,GROUP_STAGE,1-2 (1-1),Honduras,Ecuador,2014_BRAZIL_FS.htm#798-WC-14-I,Curitiba.,2014
+2014-BRAZIL,GROUP_STAGE,1-0 (0-0),Argentina,Iran (ایران),2014_BRAZIL_FS.htm#799-WC-14-I,Belo Horizonte.,2014
+2014-BRAZIL,GROUP_STAGE,2-2 (0-0),Germany (Deutschland),Ghana,2014_BRAZIL_FS.htm#800-WC-14-I,Fortaleza.,2014
+2014-BRAZIL,GROUP_STAGE,1-0 (1-0),Nigeria,Bosnia-Herzegovina (Bosna i Hercegovina),2014_BRAZIL_FS.htm#801-WC-14-I,Cuiabá.,2014
+2014-BRAZIL,GROUP_STAGE,1-0 (0-0),Belgium (België),Russia (Россия),2014_BRAZIL_FS.htm#802-WC-14-I,Rio de Janeiro.,2014
+2014-BRAZIL,GROUP_STAGE,2-4 (0-3),South Korea (한국),Algeria (الجزائر),2014_BRAZIL_FS.htm#803-WC-14-I,Porto_Alegre.,2014
+2014-BRAZIL,GROUP_STAGE,2-2 (0-1),USA,Portugal,2014_BRAZIL_FS.htm#804-WC-14-I,Manaus.,2014
+2014-BRAZIL,GROUP_STAGE,0-3 (0-1),Australia,Spain (España),2014_BRAZIL_FS.htm#805-WC-14-I,Curitiba.,2014
+2014-BRAZIL,GROUP_STAGE,2-0 (0-0),Netherlands (Nederland),Chile,2014_BRAZIL_FS.htm#806-WC-14-I,São_Paulo.,2014
+2014-BRAZIL,GROUP_STAGE,1-4 (1-2),Cameroon (Cameroun),Brazil (Brasil),2014_BRAZIL_FS.htm#807-WC-14-I,Brasília.,2014
+2014-BRAZIL,GROUP_STAGE,1-3 (0-0),Croatia (Hrvatska),Mexico (México),2014_BRAZIL_FS.htm#808-WC-14-I,Recife.,2014
+2014-BRAZIL,GROUP_STAGE,0-1 (0-0),Italy (Italia),Uruguay,2014_BRAZIL_FS.htm#809-WC-14-I,Natal.,2014
+2014-BRAZIL,GROUP_STAGE,0-0 (0-0),Costa Rica,England,2014_BRAZIL_FS.htm#810-WC-14-I,Belo Horizonte.,2014
+2014-BRAZIL,GROUP_STAGE,1-4 (1-1),Japan (日本),Colombia,2014_BRAZIL_FS.htm#811-WC-14-I,Cuiabá.,2014
+2014-BRAZIL,GROUP_STAGE,2-1 (1-0),Greece (Ελλάδα),Ivory Coast (Côte d’Ivoire),2014_BRAZIL_FS.htm#812-WC-14-I,Fortaleza.,2014
+2014-BRAZIL,GROUP_STAGE,2-3 (1-2),Nigeria,Argentina,2014_BRAZIL_FS.htm#813-WC-14-I,Porto_Alegre.,2014
+2014-BRAZIL,GROUP_STAGE,3-1 (1-0),Bosnia-Herzegovina (Bosna i Hercegovina),Iran (ایران),2014_BRAZIL_FS.htm#814-WC-14-I,Salvador.,2014
+2014-BRAZIL,GROUP_STAGE,0-3 (0-2),Honduras,Switzerland (Schweiz / Suisse),2014_BRAZIL_FS.htm#815-WC-14-I,Manaus.,2014
+2014-BRAZIL,GROUP_STAGE,0-0 (0-0),Ecuador,France,2014_BRAZIL_FS.htm#816-WC-14-I,Rio de Janeiro.,2014
+2014-BRAZIL,GROUP_STAGE,0-1 (0-0),USA,Germany (Deutschland),2014_BRAZIL_FS.htm#817-WC-14-I,Recife.,2014
+2014-BRAZIL,GROUP_STAGE,2-1 (1-0),Portugal,Ghana,2014_BRAZIL_FS.htm#818-WC-14-I,Brasília.,2014
+2014-BRAZIL,GROUP_STAGE,0-1 (0-0),South Korea (한국),Belgium (België),2014_BRAZIL_FS.htm#819-WC-14-I,São_Paulo.,2014
+2014-BRAZIL,GROUP_STAGE,1-1 (0-1),Algeria (الجزائر),Russia (Россия),2014_BRAZIL_FS.htm#820-WC-14-I,Curitiba.,2014
+2014-BRAZIL,1/8_FINAL,1-1 (1-1) (a.e.t.) (p.k.),Brazil (Brasil),Chile,2014_BRAZIL_FS.htm#821-WC-14-II,Belo Horizonte.,2014
+2014-BRAZIL,1/8_FINAL,2-0 (1-0),Colombia,Uruguay,2014_BRAZIL_FS.htm#822-WC-14-II,Rio de Janeiro.,2014
+2014-BRAZIL,1/8_FINAL,2-1 (0-0),Netherlands (Nederland),Mexico (México),2014_BRAZIL_FS.htm#823-WC-14-II,Fortaleza.,2014
+2014-BRAZIL,1/8_FINAL,1-1 (0-0) (a.e.t.) (p.k.),Costa Rica,Greece (Ελλάδα),2014_BRAZIL_FS.htm#824-WC-14-II,Recife.,2014
+2014-BRAZIL,1/8_FINAL,2-0 (0-0),France,Nigeria,2014_BRAZIL_FS.htm#825-WC-14-II,Brasília.,2014
+2014-BRAZIL,1/8_FINAL,2-1 (0-0) (a.e.t.),Germany (Deutschland),Algeria (الجزائر),2014_BRAZIL_FS.htm#826-WC-14-II,Porto_Alegre.,2014
+2014-BRAZIL,1/8_FINAL,1-0 (0-0) (a.e.t.),Argentina,Switzerland (Schweiz / Suisse),2014_BRAZIL_FS.htm#827-WC-14-II,São_Paulo.,2014
+2014-BRAZIL,1/8_FINAL,2-1 (0-0) (a.e.t.),Belgium (België),USA,2014_BRAZIL_FS.htm#828-WC-14-II,Salvador.,2014
+2014-BRAZIL,1/4_FINAL,0-1 (0-1),France,Germany (Deutschland),2014_BRAZIL_FS.htm#829-WC-14-III,Rio de Janeiro.,2014
+2014-BRAZIL,1/4_FINAL,2-1 (1-0),Brazil (Brasil),Colombia,2014_BRAZIL_FS.htm#830-WC-14-III,Fortaleza.,2014
+2014-BRAZIL,1/4_FINAL,1-0 (1-0),Argentina,Belgium (België),2014_BRAZIL_FS.htm#831-WC-14-III,Brasília.,2014
+2014-BRAZIL,1/4_FINAL,0-0 (0-0) (a.e.t.) (p.k.),Netherlands (Nederland),Costa Rica,2014_BRAZIL_FS.htm#832-WC-14-III,Salvador.,2014
+2014-BRAZIL,1/2_FINAL,1-7 (0-5),Brazil (Brasil),Germany (Deutschland),2014_BRAZIL_FS.htm#833-WC-14-IV,Belo Horizonte.,2014
+2014-BRAZIL,1/2_FINAL,0-0 (0-0) (a.e.t.) (p.k.),Netherlands (Nederland),Argentina,2014_BRAZIL_FS.htm#834-WC-14-IV,São_Paulo.,2014
+2014-BRAZIL,PLACES_3&4,0-3 (0-2),Brazil (Brasil),Netherlands (Nederland),2014_BRAZIL_FS.htm#835-WC-14-V,Brasília.,2014
+2014-BRAZIL,_FINAL,1-0 (0-0) (a.e.t.),Germany (Deutschland),Argentina,2014_BRAZIL_FS.htm#836-WC-14-VI,Rio de Janeiro.,2014
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (0-0),India (भारत),Nepal (नेपाल),2018_RUSSIA_PR.htm,Guwahati.,2015
+2018-RUSSIA,PRELIMINARY-Asia,4-1 (2-0),East Timor (Timor-Leste),Mongolia (Монгол Улс),2018_RUSSIA_PR.htm,Dili.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-0 (0-0),Cambodia (កម្ពុជា),Macao (澳门),2018_RUSSIA_PR.htm,Phnom Penh.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-1),Taiwan (台湾),Brunei (بروني),2018_RUSSIA_PR.htm,Kaohsiung.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-0),Sri Lanka (ශ්රී ලංකාව),Bhutan (འབྲུག་ཡུལ),2018_RUSSIA_PR.htm,Colombo.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-1 (1-0),Yemen (اليمن),Pakistan (پاکستان),2018_RUSSIA_PR.htm,Doha.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),Nepal (नेपाल),India (भारत),2018_RUSSIA_PR.htm,Kathmandu.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-1),Mongolia (Монгол Улс),East Timor (Timor-Leste),2018_RUSSIA_PR.htm,Ulaan Baatar.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (0-1),Macao (澳门),Cambodia (កម្ពុជា),2018_RUSSIA_PR.htm,Taipa.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-2 (0-1),Brunei (بروني),Taiwan (台湾),2018_RUSSIA_PR.htm,Bandar Seri Begawan.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (1-1),Bhutan (འབྲུག་ཡུལ),Sri Lanka (ශ්රී ලංකාව),2018_RUSSIA_PR.htm,Thimphu.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-1 (0-1),Barbados,US Virgin Islands,2018_RUSSIA_PR.htm,Bridgetown.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,6-2 (3-1),Saint Kitts & Nevis,Turks and Caicos,2018_RUSSIA_PR.htm,Basseterre.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,5-0 (4-0),Nicaragua,Anguilla,2018_RUSSIA_PR.htm,Managua.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),Pakistan (پاکستان),Yemen (اليمن),2018_RUSSIA_PR.htm,Isa Town.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-5 (0-3),Bahamas,Bermuda,2018_RUSSIA_PR.htm,Nassau.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-0 (0-0),Belize,Cayman Islands,2018_RUSSIA_PR.htm,Belmopan.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,2-3 (1-1),British Virgin Islands,Dominica,2018_RUSSIA_PR.htm,Roseau.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-4 (0-2),US Virgin Islands,Barbados,2018_RUSSIA_PR.htm,Charlotte Amalie.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,2-6 (2-3),Turks and Caicos,Saint Kitts & Nevis,2018_RUSSIA_PR.htm,Providenciales.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,2-1 (2-1),Curaçao,Montserrat,2018_RUSSIA_PR.htm,Willemstad.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-3 (0-1),Anguilla,Nicaragua,2018_RUSSIA_PR.htm,The_Valley.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,3-0 (0-0),Bermuda,Bahamas,2018_RUSSIA_PR.htm,Devonshire.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-1 (1-1),Cayman Islands,Belize,2018_RUSSIA_PR.htm,George Town.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-0 (0-0),Dominica,British Virgin Islands,2018_RUSSIA_PR.htm,Roseau.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,2-2 (0-1),Montserrat,Curaçao,2018_RUSSIA_PR.htm,St._Johns.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Thailand (ประเทศไทย),Vietnam (Việt Nam),2018_RUSSIA_PR.htm,Bangkok.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-0 (1-0),Nicaragua,Surinam (Suriname),2018_RUSSIA_PR.htm,Managua.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-0 (0-0),Curaçao,Cuba,2018_RUSSIA_PR.htm,Willemstad.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-3 (1-1),Antigua and Barbuda,Saint Lucia,2018_RUSSIA_PR.htm,North Sound.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-2 (0-2),Aruba,Barbados,2018_RUSSIA_PR.htm,Oranjestad.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,2-2 (0-1),Saint Vincent & The Grenadines,Guyana,2018_RUSSIA_PR.htm,Kingstown.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-2 (0-1),Dominican Republic (República Dominicana),Belize,2018_RUSSIA_PR.htm,Santo Domingo.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,2-2 (0-1),Saint Kitts & Nevis,El Salvador,2018_RUSSIA_PR.htm,Basseterre.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-2 (0-1),Dominica,Canada,2018_RUSSIA_PR.htm,Roseau.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-2 (1-0),Saudi Arabia (العربية السعودية),Palestine (فلسطين),2018_RUSSIA_PR.htm,Dammam.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (1-0),Malaysia (مليسيا),East Timor (Timor-Leste),2018_RUSSIA_PR.htm,Kuala Lumpur.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-3 (0-1),Tajikistan (Точикистон),Jordan (الأردن),2018_RUSSIA_PR.htm,Dushanbe.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-3 (1-3),Bangladesh (বাংলাদেশ),Kyrgyzstan (Кыргызстан),2018_RUSSIA_PR.htm,Dhaka.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-0),Maldives (Divehi Rājjēge),Qatar (قطر),2018_RUSSIA_PR.htm,Malé.,2015
+2018-RUSSIA,PRELIMINARY-Asia,7-0 (4-0),Hong Kong (香港),Bhutan (འབྲུག་ཡུལ),2018_RUSSIA_PR.htm,Hong Kong.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-2 (1-2),India (भारत),Oman (عمان),2018_RUSSIA_PR.htm,Bangalore.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (1-0),Guam,Turkmenistan (Türkmenistan),2018_RUSSIA_PR.htm,Dededo.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-6 (0-3),Afghanistan (افغانستان),Syria (سوريا),2018_RUSSIA_PR.htm,Mashhad.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-4 (0-3),Cambodia (កម្ពុជា),Singapore (新加坡),2018_RUSSIA_PR.htm,Phnom Penh.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-0),Lebanon (لبنان),Kuwait (الكويت),2018_RUSSIA_PR.htm,Sidon.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-2 (0-1),Laos (ນລາວ),Myanmar (ြမန်မာ),2018_RUSSIA_PR.htm,Vientiane.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (0-0),Philippines (Pilipinas),Bahrain (البحرين),2018_RUSSIA_PR.htm,Bocaue.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-3 (w.o.),Yemen (اليمن),North Korea (조선),2018_RUSSIA_PR.htm,Doha.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-0 (0-0),Guatemala,Bermuda,2018_RUSSIA_PR.htm,Guatemala.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-0 (1-0),Puerto Rico,Grenada,2018_RUSSIA_PR.htm,Bayamón.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-1 (1-1),Cuba,Curaçao,2018_RUSSIA_PR.htm,La_Habana.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-4 (0-0),Saint Lucia,Antigua and Barbuda,2018_RUSSIA_PR.htm,North Sound.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-3 (w.o.),Barbados,Aruba,2018_RUSSIA_PR.htm,Cave Hill.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,4-4 (1-2),Guyana,Saint Vincent & The Grenadines,2018_RUSSIA_PR.htm,Providence.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,3-0 (2-0),Belize,Dominican Republic (República Dominicana),2018_RUSSIA_PR.htm,Belmopan.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-1 (0-1),Bermuda,Guatemala,2018_RUSSIA_PR.htm,Devonshire.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-3 (1-1),Surinam (Suriname),Nicaragua,2018_RUSSIA_PR.htm,Paramaribo.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,4-1 (1-0),El Salvador,Saint Kitts & Nevis,2018_RUSSIA_PR.htm,San Salvador.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,4-0 (2-0),Canada,Dominica,2018_RUSSIA_PR.htm,Toronto.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,2-0 (1-0),Grenada,Puerto Rico,2018_RUSSIA_PR.htm,St._Georges.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-0),East Timor (Timor-Leste),United Arab Emirates (الإمارات العربية المتحدة),2018_RUSSIA_PR.htm,Shah Alam.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-6 (0-3),Malaysia (مليسيا),Palestine (فلسطين),2018_RUSSIA_PR.htm,Kuala Lumpur.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-2 (0-1),Kyrgyzstan (Кыргызстан),Australia,2018_RUSSIA_PR.htm,Bishkek.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (0-0),Bangladesh (বাংলাদেশ),Tajikistan (Точикистон),2018_RUSSIA_PR.htm,Dhaka.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-6 (0-1),Bhutan (འབྲུག་ཡུལ),China (中国),2018_RUSSIA_PR.htm,Thimphu.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (0-0),Hong Kong (香港),Maldives (Divehi Rājjēge),2018_RUSSIA_PR.htm,Hong Kong.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (1-1),Turkmenistan (Türkmenistan),Iran (ایران),2018_RUSSIA_PR.htm,Daşoguz.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (1-0),Guam,India (भारत),2018_RUSSIA_PR.htm,Dededo.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),Japan (日本),Singapore (新加坡),2018_RUSSIA_PR.htm,Saitama.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-0),Cambodia (កម្ពុជា),Afghanistan (افغانستان),2018_RUSSIA_PR.htm,Phnom Penh.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-2 (0-2),Taiwan (台湾),Thailand (ประเทศไทย),2018_RUSSIA_PR.htm,Taipei.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-2 (0-1),Myanmar (ြမန်မာ),South Korea (한국),2018_RUSSIA_PR.htm,Bangkok.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-2 (0-1),Laos (ນລາວ),Lebanon (لبنان),2018_RUSSIA_PR.htm,Vientiane.,2015
+2018-RUSSIA,PRELIMINARY-Asia,4-2 (4-0),North Korea (조선),Uzbekistan (Ўзбекистон),2018_RUSSIA_PR.htm,Pyongyang.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-2 (0-0),Yemen (اليمن),Philippines (Pilipinas),2018_RUSSIA_PR.htm,Doha.,2015
+2018-RUSSIA,PRELIMINARY-Oceania,0-3 (0-1),Tonga,Cook Islands,2018_RUSSIA_PR.htm,Nukualofa.,2015
+2018-RUSSIA,PRELIMINARY-Oceania,3-2 (3-1),Samoa,American Samoa,2018_RUSSIA_PR.htm,Nukualofa.,2015
+2018-RUSSIA,PRELIMINARY-Oceania,1-0 (1-0),Cook Islands,Samoa,2018_RUSSIA_PR.htm,Nukualofa.,2015
+2018-RUSSIA,PRELIMINARY-Oceania,1-2 (0-0),Tonga,American Samoa,2018_RUSSIA_PR.htm,Nukualofa.,2015
+2018-RUSSIA,PRELIMINARY-Asia,10-0 (7-0),United Arab Emirates (الإمارات العربية المتحدة),Malaysia (مليسيا),2018_RUSSIA_PR.htm,Abu_Dhabi.,2015
+2018-RUSSIA,PRELIMINARY-Asia,7-0 (5-0),Saudi Arabia (العربية السعودية),East Timor (Timor-Leste),2018_RUSSIA_PR.htm,Jeddah.,2015
+2018-RUSSIA,PRELIMINARY-Asia,5-0 (4-0),Australia,Bangladesh (বাংলাদেশ),2018_RUSSIA_PR.htm,Perth.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),Jordan (الأردن),Kyrgyzstan (Кыргызстан),2018_RUSSIA_PR.htm,Amman.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),China (中国),Hong Kong (香港),2018_RUSSIA_PR.htm,Shenzhen.,2015
+2018-RUSSIA,PRELIMINARY-Asia,15-0 (8-0),Qatar (قطر),Bhutan (འབྲུག་ཡུལ),2018_RUSSIA_PR.htm,Doha.,2015
+2018-RUSSIA,PRELIMINARY-Asia,6-0 (4-0),Iran (ایران),Guam,2018_RUSSIA_PR.htm,Tehran.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-1 (2-0),Oman (عمان),Turkmenistan (Türkmenistan),2018_RUSSIA_PR.htm,Seeb.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-0 (1-0),Japan (日本),Cambodia (កម្ពុជា),2018_RUSSIA_PR.htm,Saitama.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Syria (سوريا),Singapore (新加坡),2018_RUSSIA_PR.htm,Muscat.,2015
+2018-RUSSIA,PRELIMINARY-Asia,5-1 (1-0),Iraq (العراق),Taiwan (台湾),2018_RUSSIA_PR.htm,Tehran.,2015
+2018-RUSSIA,PRELIMINARY-Asia,8-0 (3-0),South Korea (한국),Laos (ນລາວ),2018_RUSSIA_PR.htm,Hwaseong.,2015
+2018-RUSSIA,PRELIMINARY-Asia,9-0 (3-0),Kuwait (الكويت),Myanmar (ြမန်မာ),2018_RUSSIA_PR.htm,Doha.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Uzbekistan (Ўзбекистон),Yemen (اليمن),2018_RUSSIA_PR.htm,Tashkent.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-1),Bahrain (البحرين),North Korea (조선),2018_RUSSIA_PR.htm,Riffa.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-1 (0-1),Curaçao,El Salvador,2018_RUSSIA_PR.htm,Willemstad.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,2-0 (0-0),Saint Vincent & The Grenadines,Aruba,2018_RUSSIA_PR.htm,Kingstown.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-0 (0-0),Antigua and Barbuda,Guatemala,2018_RUSSIA_PR.htm,North Sound.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,3-0 (1-0),Canada,Belize,2018_RUSSIA_PR.htm,Toronto.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-3 (1-2),Grenada,Haiti (Haïti),2018_RUSSIA_PR.htm,St._Georges.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,2-3 (0-2),Jamaica,Nicaragua,2018_RUSSIA_PR.htm,Kingston.,2015
+2018-RUSSIA,PRELIMINARY-Oceania,0-3 (0-2),Tonga,Samoa,2018_RUSSIA_PR.htm,Nukualofa.,2015
+2018-RUSSIA,PRELIMINARY-Oceania,2-0 (0-0),American Samoa,Cook Islands,2018_RUSSIA_PR.htm,Nukualofa.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-0 (1-0),El Salvador,Curaçao,2018_RUSSIA_PR.htm,San_Salvador.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,2-1 (1-0),Aruba,Saint Vincent & The Grenadines,2018_RUSSIA_PR.htm,Oranjestad.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,2-0 (0-0),Guatemala,Antigua and Barbuda,2018_RUSSIA_PR.htm,Guatemala.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-1 (1-1),Belize,Canada,2018_RUSSIA_PR.htm,Belmopan.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,3-0 (2-0),Haiti (Haïti),Grenada,2018_RUSSIA_PR.htm,Port-au-Prince.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-2 (0-1),Nicaragua,Jamaica,2018_RUSSIA_PR.htm,Managua.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-3 (w.o.),Malaysia (مليسيا),Saudi Arabia (العربية السعودية),2018_RUSSIA_PR.htm,Shah Alam.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),Palestine (فلسطين),United Arab Emirates (الإمارات العربية المتحدة),2018_RUSSIA_PR.htm,Al-Ram.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-4 (0-2),Bangladesh (বাংলাদেশ),Jordan (الأردن),2018_RUSSIA_PR.htm,Dhaka.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-3 (0-0),Tajikistan (Точикистон),Australia,2018_RUSSIA_PR.htm,Dushanbe.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-3 (0-1),Hong Kong (香港),Qatar (قطر),2018_RUSSIA_PR.htm,Hong Kong.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-3 (0-1),Maldives (Divehi Rājjēge),China (中国),2018_RUSSIA_PR.htm,Shenyang.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),Guam,Oman (عمان),2018_RUSSIA_PR.htm,Dededo.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-3 (0-1),India (भारत),Iran (ایران),2018_RUSSIA_PR.htm,Bangalore.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-6 (0-4),Cambodia (កម្ពុជា),Syria (سوريا),2018_RUSSIA_PR.htm,Phnom Penh.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-6 (0-2),Afghanistan (افغانستان),Japan (日本),2018_RUSSIA_PR.htm,Tehran.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-2 (0-0),Taiwan (台湾),Vietnam (Việt Nam),2018_RUSSIA_PR.htm,Taipei.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-2 (0-1),Thailand (ประเทศไทย),Iraq (العراق),2018_RUSSIA_PR.htm,Bangkok.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-2 (0-1),Laos (ນລາວ),Kuwait (الكويت),2018_RUSSIA_PR.htm,Vientiane.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-3 (0-2),Lebanon (لبنان),South Korea (한국),2018_RUSSIA_PR.htm,Sidon.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-4 (0-2),Yemen (اليمن),Bahrain (البحرين),2018_RUSSIA_PR.htm,Doha.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-5 (0-3),Philippines (Pilipinas),Uzbekistan (Ўзбекистон),2018_RUSSIA_PR.htm,Bocaue.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-5 (0-2),Mauritius,Kenya,2018_RUSSIA_PR.htm,Belle Vue Maurel.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (2-0),Tanzania,Malawi (Malaŵi),2018_RUSSIA_PR.htm,Dar es Salaam.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-1 (1-1),South Sudan (جنوب السودان),Mauritania (موريتانيا),2018_RUSSIA_PR.htm,Juba.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Comoros (جزر القمر),Lesotho,2018_RUSSIA_PR.htm,Moroni.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-1 (0-1),Seychelles,Burundi,2018_RUSSIA_PR.htm,Roche Caiman.,2015
+2018-RUSSIA,PRELIMINARY-S.America,2-0 (1-0),Colombia,Peru (Perú),2018_RUSSIA_PR.htm,Barranquilla.,2015
+2018-RUSSIA,PRELIMINARY-S.America,2-0 (0-0),Chile,Brazil (Brasil),2018_RUSSIA_PR.htm,Santiago.,2015
+2018-RUSSIA,PRELIMINARY-S.America,0-2 (0-0),Argentina,Ecuador,2018_RUSSIA_PR.htm,Buenos Aires.,2015
+2018-RUSSIA,PRELIMINARY-S.America,0-1 (0-0),Venezuela,Paraguay,2018_RUSSIA_PR.htm,Ciudad Guayana.,2015
+2018-RUSSIA,PRELIMINARY-S.America,0-2 (0-1),Bolivia,Uruguay,2018_RUSSIA_PR.htm,La Paz.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (0-0),East Timor (Timor-Leste),Palestine (فلسطين),2018_RUSSIA_PR.htm,Dili.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (1-1),Saudi Arabia (العربية السعودية),United Arab Emirates (الإمارات العربية المتحدة),2018_RUSSIA_PR.htm,Jeddah.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-2 (1-0),Kyrgyzstan (Кыргызстан),Tajikistan (Точикистон),2018_RUSSIA_PR.htm,Bishkek.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (0-0),Jordan (الأردن),Australia,2018_RUSSIA_PR.htm,Amman.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-4 (0-3),Bhutan (འབྲུག་ཡུལ),Maldives (Divehi Rājjēge),2018_RUSSIA_PR.htm,Thimphu.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (1-0),Qatar (قطر),China (中国),2018_RUSSIA_PR.htm,Doha.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (1-1),Turkmenistan (Türkmenistan),India (भारत),2018_RUSSIA_PR.htm,Ashgabat.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (0-0),Oman (عمان),Iran (ایران),2018_RUSSIA_PR.htm,Muscat.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Singapore (新加坡),Afghanistan (افغانستان),2018_RUSSIA_PR.htm,Kallang.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-3 (0-0),Syria (سوريا),Japan (日本),2018_RUSSIA_PR.htm,Seeb.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (1-0),Vietnam (Việt Nam),Iraq (العراق),2018_RUSSIA_PR.htm,Hanoi.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-2 (0-1),Myanmar (ြမန်မာ),Lebanon (لبنان),2018_RUSSIA_PR.htm,Bangkok.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-1),Kuwait (الكويت),South Korea (한국),2018_RUSSIA_PR.htm,Kuwait.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),North Korea (조선),Philippines (Pilipinas),2018_RUSSIA_PR.htm,Pyongyang.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-4 (0-0),Bahrain (البحرين),Uzbekistan (Ўзбекистон),2018_RUSSIA_PR.htm,Riffa.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (0-0),São Tomé e Príncipe,Ethiopia (ኢትዮጵያ),2018_RUSSIA_PR.htm,São_Tomé.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-1 (1-0),Liberia,Guinea-Bissau (Guiné-Bissau),2018_RUSSIA_PR.htm,Monrovia.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-2 (0-0),Somalia (Soomaaliya),Niger,2018_RUSSIA_PR.htm,Addis Ababa.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-1 (0-0),Gambia,Namibia,2018_RUSSIA_PR.htm,Bakau.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-6 (0-1),Djibouti (جيبوتي),Swaziland (Swatini),2018_RUSSIA_PR.htm,Djibouti.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-3 (0-2),Central African Republic (Centrafrique),Madagascar (Madagasikara),2018_RUSSIA_PR.htm,Antananarivo.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (0-0),Chad (Tchad / تشاد),Sierra Leone,2018_RUSSIA_PR.htm,Ndjaména.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-2 (0-1),Eritrea (ኤርትራ / إرتريا),Botswana,2018_RUSSIA_PR.htm,Asmara.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Kenya,Mauritius,2018_RUSSIA_PR.htm,Nairobi.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (1-0),Malawi (Malaŵi),Tanzania,2018_RUSSIA_PR.htm,Blantyre.,2015
+2018-RUSSIA,PRELIMINARY-Africa,3-0 (1-0),Ethiopia (ኢትዮጵያ),São Tomé e Príncipe,2018_RUSSIA_PR.htm,Addis Ababa.,2015
+2018-RUSSIA,PRELIMINARY-S.America,0-0 (0-0),Paraguay,Argentina,2018_RUSSIA_PR.htm,Asunción.,2015
+2018-RUSSIA,PRELIMINARY-S.America,3-1 (2-0),Brazil (Brasil),Venezuela,2018_RUSSIA_PR.htm,Fortaleza.,2015
+2018-RUSSIA,PRELIMINARY-S.America,2-0 (0-0),Ecuador,Bolivia,2018_RUSSIA_PR.htm,Quito.,2015
+2018-RUSSIA,PRELIMINARY-S.America,3-4 (2-3),Peru (Perú),Chile,2018_RUSSIA_PR.htm,Lima.,2015
+2018-RUSSIA,PRELIMINARY-S.America,3-0 (1-0),Uruguay,Colombia,2018_RUSSIA_PR.htm,Montevideo.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-1),East Timor (Timor-Leste),Malaysia (مليسيا),2018_RUSSIA_PR.htm,Dili.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-0 (0-0),Jordan (الأردن),Tajikistan (Точикистон),2018_RUSSIA_PR.htm,Amman.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (1-0),Kyrgyzstan (Кыргызстан),Bangladesh (বাংলাদেশ),2018_RUSSIA_PR.htm,Bishkek.,2015
+2018-RUSSIA,PRELIMINARY-Asia,4-0 (1-0),Qatar (قطر),Maldives (Divehi Rājjēge),2018_RUSSIA_PR.htm,Doha.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-0),Bhutan (འབྲུག་ཡུལ),Hong Kong (香港),2018_RUSSIA_PR.htm,Thimphu.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-0 (0-0),Oman (عمان),India (भारत),2018_RUSSIA_PR.htm,Muscat.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (1-0),Turkmenistan (Türkmenistan),Guam,2018_RUSSIA_PR.htm,Ashgabat.,2015
+2018-RUSSIA,PRELIMINARY-Asia,5-2 (3-1),Syria (سوريا),Afghanistan (افغانستان),2018_RUSSIA_PR.htm,Seeb.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (1-0),Singapore (新加坡),Cambodia (កម្ពុជា),2018_RUSSIA_PR.htm,Kallang.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-3 (0-1),Vietnam (Việt Nam),Thailand (ประเทศไทย),2018_RUSSIA_PR.htm,Hanoi.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),Kuwait (الكويت),Lebanon (لبنان),2018_RUSSIA_PR.htm,Kuwait.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-1 (2-1),Myanmar (ြမန်မာ),Laos (ນລາວ),2018_RUSSIA_PR.htm,Bangkok.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (0-0),Bahrain (البحرين),Philippines (Pilipinas),2018_RUSSIA_PR.htm,Riffa.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (1-0),North Korea (조선),Yemen (اليمن),2018_RUSSIA_PR.htm,Pyongyang.,2015
+2018-RUSSIA,PRELIMINARY-Africa,4-0 (1-0),Mauritania (موريتانيا),South Sudan (جنوب السودان),2018_RUSSIA_PR.htm,Nouakchott.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-1 (1-0),Lesotho,Comoros (جزر القمر),2018_RUSSIA_PR.htm,Maseru.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (0-0),Burundi,Seychelles,2018_RUSSIA_PR.htm,Bujumbura.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-3 (1-2),Guinea-Bissau (Guiné-Bissau),Liberia,2018_RUSSIA_PR.htm,Bissau.,2015
+2018-RUSSIA,PRELIMINARY-Africa,4-0 (3-0),Niger,Somalia (Soomaaliya),2018_RUSSIA_PR.htm,Niamey.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-1 (1-1),Namibia,Gambia,2018_RUSSIA_PR.htm,Windhoek.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-2 (2-2),Madagascar (Madagasikara),Central African Republic (Centrafrique),2018_RUSSIA_PR.htm,Antananarivo.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-1 (0-1),Sierra Leone,Chad (Tchad / تشاد),2018_RUSSIA_PR.htm,Port_Harcourt.,2015
+2018-RUSSIA,PRELIMINARY-Africa,3-1 (2-1),Botswana,Eritrea (ኤርትራ / إرتريا),2018_RUSSIA_PR.htm,Francistown.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-1 (2-1),Swaziland (Swatini),Djibouti (جيبوتي),2018_RUSSIA_PR.htm,Lobamba.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),Palestine (فلسطين),Saudi Arabia (العربية السعودية),2018_RUSSIA_PR.htm,Amman.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (0-0),Mozambique (Moçambique),Gabon,2018_RUSSIA_PR.htm,Maputo.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-1 (0-1),Sudan (السودان),Zambia,2018_RUSSIA_PR.htm,Karima.,2015
+2018-RUSSIA,PRELIMINARY-S.America,1-1 (1-0),Chile,Colombia,2018_RUSSIA_PR.htm,Santiago.,2015
+2018-RUSSIA,PRELIMINARY-S.America,2-1 (1-0),Ecuador,Uruguay,2018_RUSSIA_PR.htm,Quito.,2015
+2018-RUSSIA,PRELIMINARY-S.America,4-2 (3-1),Bolivia,Venezuela,2018_RUSSIA_PR.htm,La_Paz.,2015
+2018-RUSSIA,PRELIMINARY-Asia,8-0 (3-0),United Arab Emirates (الإمارات العربية المتحدة),East Timor (Timor-Leste),2018_RUSSIA_PR.htm,Abu_Dhabi.,2015
+2018-RUSSIA,PRELIMINARY-Asia,6-0 (3-0),Palestine (فلسطين),Malaysia (مليسيا),2018_RUSSIA_PR.htm,Amman.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-0 (1-0),Australia,Kyrgyzstan (Кыргызстан),2018_RUSSIA_PR.htm,Canberra.,2015
+2018-RUSSIA,PRELIMINARY-Asia,5-0 (2-0),Tajikistan (Точикистон),Bangladesh (বাংলাদেশ),2018_RUSSIA_PR.htm,Dushanbe.,2015
+2018-RUSSIA,PRELIMINARY-Asia,12-0 (7-0),China (中国),Bhutan (འབྲུག་ཡུལ),2018_RUSSIA_PR.htm,Changsha.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-1),Maldives (Divehi Rājjēge),Hong Kong (香港),2018_RUSSIA_PR.htm,Malé.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-1 (1-0),Iran (ایران),Turkmenistan (Türkmenistan),2018_RUSSIA_PR.htm,Tehran.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (1-0),India (भारत),Guam,2018_RUSSIA_PR.htm,Bangalore.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-3 (0-2),Singapore (新加坡),Japan (日本),2018_RUSSIA_PR.htm,Kallang.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-0 (1-0),Afghanistan (افغانستان),Cambodia (កម្ពុជា),2018_RUSSIA_PR.htm,Tehran.,2015
+2018-RUSSIA,PRELIMINARY-Asia,4-2 (1-1),Thailand (ประเทศไทย),Taiwan (台湾),2018_RUSSIA_PR.htm,Bangkok.,2015
+2018-RUSSIA,PRELIMINARY-Asia,4-0 (2-0),South Korea (한국),Myanmar (ြမန်မာ),2018_RUSSIA_PR.htm,Suwon.,2015
+2018-RUSSIA,PRELIMINARY-Asia,7-0 (4-0),Lebanon (لبنان),Laos (ນລາວ),2018_RUSSIA_PR.htm,Sidon.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-1 (1-1),Uzbekistan (Ўзбекистон),North Korea (조선),2018_RUSSIA_PR.htm,Tashkent.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-0),Philippines (Pilipinas),Yemen (اليمن),2018_RUSSIA_PR.htm,Manila.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-1 (0-1),Namibia,Guinea (Guinée),2018_RUSSIA_PR.htm,Windhoek.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-1 (0-1),Togo,Uganda,2018_RUSSIA_PR.htm,Lomé.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-3 (1-1),Burundi,D.R. Congo (R.D. Congo),2018_RUSSIA_PR.htm,Bujumbura.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (1-0),Morocco (المغرب),Equatorial Guinea (Guinea Ecuatorial),2018_RUSSIA_PR.htm,Agadir.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-1 (1-0),Benin (Bénin),Burkina Faso,2018_RUSSIA_PR.htm,Cotonou.,2015
+2018-RUSSIA,PRELIMINARY-S.America,1-1 (1-0),Argentina,Brazil (Brasil),2018_RUSSIA_PR.htm,Buenos Aires.,2015
+2018-RUSSIA,PRELIMINARY-S.America,1-0 (1-0),Peru (Perú),Paraguay,2018_RUSSIA_PR.htm,Lima.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,3-0 (2-0),Mexico (México),El Salvador,2018_RUSSIA_PR.htm,México D.F.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-0 (1-0),Canada,Honduras,2018_RUSSIA_PR.htm,Vancouver.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-0 (1-0),Costa Rica,Haiti (Haïti),2018_RUSSIA_PR.htm,San_José.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-2 (0-1),Jamaica,Panama (Panamá),2018_RUSSIA_PR.htm,Kingston.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,6-1 (3-1),USA,Saint Vincent & The Grenadines,2018_RUSSIA_PR.htm,St._Louis.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-2 (0-0),Guatemala,Trinidad and Tobago,2018_RUSSIA_PR.htm,Guatemala.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-2 (1-0),Madagascar (Madagasikara),Senegal (Sénégal),2018_RUSSIA_PR.htm,Antananarivo.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-1 (0-1),Liberia,Ivory Coast (Côte d’Ivoire),2018_RUSSIA_PR.htm,Monrovia.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-3 (0-3),Niger,Cameroon (Cameroun),2018_RUSSIA_PR.htm,Niamey.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (0-0),Libya (ليبيا),Rwanda,2018_RUSSIA_PR.htm,Sousse.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (1-0),Kenya,Cape Verde (Cabo Verde),2018_RUSSIA_PR.htm,Nairobi.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-2 (1-0),Mauritania (موريتانيا),Tunisia (تونس),2018_RUSSIA_PR.htm,Nouakchott.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Swaziland (Swatini),Nigeria,2018_RUSSIA_PR.htm,Lobamba.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Comoros (جزر القمر),Ghana,2018_RUSSIA_PR.htm,Mitsamiouli.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-3 (1-2),Angola,South Africa (Suid-Afrika),2018_RUSSIA_PR.htm,Benguela.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (1-0),Gabon,Mozambique (Moçambique),2018_RUSSIA_PR.htm,Libreville.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-2 (1-0),Tanzania,Algeria (الجزائر),2018_RUSSIA_PR.htm,Dar es Salaam.,2015
+2018-RUSSIA,PRELIMINARY-Africa,3-4 (1-1),Ethiopia (ኢትዮጵያ),Congo,2018_RUSSIA_PR.htm,Addis Ababa.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (0-0),Chad (Tchad / تشاد),Egypt (مصر),2018_RUSSIA_PR.htm,Ndjaména.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-1 (2-0),Botswana,Mali,2018_RUSSIA_PR.htm,Francistown.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (0-0),Zambia,Sudan (السودان),2018_RUSSIA_PR.htm,Ndola.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (1-0),Guinea (Guinée),Namibia,2018_RUSSIA_PR.htm,Casablanca.,2015
+2018-RUSSIA,PRELIMINARY-Africa,3-0 (3-0),Uganda,Togo,2018_RUSSIA_PR.htm,Kampala.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-2 (1-1),D.R. Congo (R.D. Congo),Burundi,2018_RUSSIA_PR.htm,Kinshasa.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (1-0),Equatorial Guinea (Guinea Ecuatorial),Morocco (المغرب),2018_RUSSIA_PR.htm,Bata.,2015
+2018-RUSSIA,PRELIMINARY-S.America,0-1 (0-1),Colombia,Argentina,2018_RUSSIA_PR.htm,Barranquilla.,2015
+2018-RUSSIA,PRELIMINARY-S.America,2-1 (0-0),Paraguay,Bolivia,2018_RUSSIA_PR.htm,Asunción.,2015
+2018-RUSSIA,PRELIMINARY-S.America,3-0 (1-0),Brazil (Brasil),Peru (Perú),2018_RUSSIA_PR.htm,Salvador.,2015
+2018-RUSSIA,PRELIMINARY-S.America,1-3 (0-2),Venezuela,Ecuador,2018_RUSSIA_PR.htm,Ciudad Guayana.,2015
+2018-RUSSIA,PRELIMINARY-S.America,3-0 (1-0),Uruguay,Chile,2018_RUSSIA_PR.htm,Montevideo.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-2 (0-0),Honduras,Mexico (México),2018_RUSSIA_PR.htm,San_Pedro_Sula.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-0 (0-0),El Salvador,Canada,2018_RUSSIA_PR.htm,San_Salvador.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,1-2 (0-0),Panama (Panamá),Costa Rica,2018_RUSSIA_PR.htm,Panamá.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-1 (0-0),Haiti (Haïti),Jamaica,2018_RUSSIA_PR.htm,Port-au-Prince.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-0 (0-0),Trinidad and Tobago,USA,2018_RUSSIA_PR.htm,Port_of_Spain.,2015
+2018-RUSSIA,PRELIMINARY-N/C.America,0-4 (0-2),Saint Vincent & The Grenadines,Guatemala,2018_RUSSIA_PR.htm,Kingstown.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-2 (0-1),Malaysia (مليسيا),United Arab Emirates (الإمارات العربية المتحدة),2018_RUSSIA_PR.htm,Shah Alam.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-10 (0-4),East Timor (Timor-Leste),Saudi Arabia (العربية السعودية),2018_RUSSIA_PR.htm,Dili.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-4 (0-4),Bangladesh (বাংলাদেশ),Australia,2018_RUSSIA_PR.htm,Dhaka.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Kyrgyzstan (Кыргызстан),Jordan (الأردن),2018_RUSSIA_PR.htm,Bishkek.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),Hong Kong (香港),China (中国),2018_RUSSIA_PR.htm,Hong Kong.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-3 (0-2),Bhutan (འབྲུག་ཡུལ),Qatar (قطر),2018_RUSSIA_PR.htm,Thimphu.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-6 (0-2),Guam,Iran (ایران),2018_RUSSIA_PR.htm,Dededo.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (1-0),Turkmenistan (Türkmenistan),Oman (عمان),2018_RUSSIA_PR.htm,Ashgabat.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-2 (0-0),Cambodia (កម្ពុជា),Japan (日本),2018_RUSSIA_PR.htm,Phnom Penh.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-2 (0-1),Singapore (新加坡),Syria (سوريا),2018_RUSSIA_PR.htm,Kallang.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-2 (0-1),Taiwan (台湾),Iraq (العراق),2018_RUSSIA_PR.htm,Kaohsiung.,2015
+2018-RUSSIA,PRELIMINARY-Asia,0-5 (0-4),Laos (ນລາວ),South Korea (한국),2018_RUSSIA_PR.htm,Vientiane.,2015
+2018-RUSSIA,PRELIMINARY-Asia,3-0 (w.o.),Myanmar (ြမန်မာ),Kuwait (الكويت),2018_RUSSIA_PR.htm,Bangkok.,2015
+2018-RUSSIA,PRELIMINARY-Asia,1-3 (0-2),Yemen (اليمن),Uzbekistan (Ўзбекистон),2018_RUSSIA_PR.htm,Doha.,2015
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (1-0),North Korea (조선),Bahrain (البحرين),2018_RUSSIA_PR.htm,Pyongyang.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (1-0),Burkina Faso,Benin (Bénin),2018_RUSSIA_PR.htm,Ouagadougou.,2015
+2018-RUSSIA,PRELIMINARY-Africa,3-0 (1-0),Senegal (Sénégal),Madagascar (Madagasikara),2018_RUSSIA_PR.htm,Dakar.,2015
+2018-RUSSIA,PRELIMINARY-Africa,3-0 (2-0),Ivory Coast (Côte d’Ivoire),Liberia,2018_RUSSIA_PR.htm,Abidjan.,2015
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Cameroon (Cameroun),Niger,2018_RUSSIA_PR.htm,Yaoundé.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-3 (1-1),Rwanda,Libya (ليبيا),2018_RUSSIA_PR.htm,Kigali.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (1-0),Cape Verde (Cabo Verde),Kenya,2018_RUSSIA_PR.htm,Praia.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-1 (0-0),Tunisia (تونس),Mauritania (موريتانيا),2018_RUSSIA_PR.htm,Radès.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (0-0),Nigeria,Swaziland (Swatini),2018_RUSSIA_PR.htm,Port Harcourt.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (1-0),Ghana,Comoros (جزر القمر),2018_RUSSIA_PR.htm,Kumasi.,2015
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (0-0),South Africa (Suid-Afrika),Angola,2018_RUSSIA_PR.htm,Durban.,2015
+2018-RUSSIA,PRELIMINARY-Africa,7-0 (3-0),Algeria (الجزائر),Tanzania,2018_RUSSIA_PR.htm,Blida.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-1 (0-1),Congo,Ethiopia (ኢትዮጵያ),2018_RUSSIA_PR.htm,Brazzaville.,2015
+2018-RUSSIA,PRELIMINARY-Africa,4-0 (4-0),Egypt (مصر),Chad (Tchad / تشاد),2018_RUSSIA_PR.htm,Alexandria.,2015
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (2-0),Mali,Botswana,2018_RUSSIA_PR.htm,Bamako.,2015
+2018-RUSSIA,PRELIMINARY-S.America,1-2 (1-2),Chile,Argentina,2018_RUSSIA_PR.htm,Santiago.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-2 (2-1),Brazil (Brasil),Uruguay,2018_RUSSIA_PR.htm,Recife.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-2 (1-1),Ecuador,Paraguay,2018_RUSSIA_PR.htm,Quito.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-3 (0-2),Bolivia,Colombia,2018_RUSSIA_PR.htm,La_Paz.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-2 (0-1),Peru (Perú),Venezuela,2018_RUSSIA_PR.htm,Lima.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (0-0),Saudi Arabia (العربية السعودية),Malaysia (مليسيا),2018_RUSSIA_PR.htm,Jeddah.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (1-0),United Arab Emirates (الإمارات العربية المتحدة),Palestine (فلسطين),2018_RUSSIA_PR.htm,Abu_Dhabi.,2016
+2018-RUSSIA,PRELIMINARY-Asia,8-0 (5-0),Jordan (الأردن),Bangladesh (বাংলাদেশ),2018_RUSSIA_PR.htm,Amman.,2016
+2018-RUSSIA,PRELIMINARY-Asia,7-0 (2-0),Australia,Tajikistan (Точикистон),2018_RUSSIA_PR.htm,Adelaide.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (1-0),Qatar (قطر),Hong Kong (香港),2018_RUSSIA_PR.htm,Doha.,2016
+2018-RUSSIA,PRELIMINARY-Asia,4-0 (2-0),China (中国),Maldives (Divehi Rājjēge),2018_RUSSIA_PR.htm,Wuhan.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Oman (عمان),Guam,2018_RUSSIA_PR.htm,Muscat.,2016
+2018-RUSSIA,PRELIMINARY-Asia,4-0 (1-0),Iran (ایران),India (भारत),2018_RUSSIA_PR.htm,Tehran.,2016
+2018-RUSSIA,PRELIMINARY-Asia,6-0 (2-0),Syria (سوريا),Cambodia (កម្ពុជា),2018_RUSSIA_PR.htm,Seeb.,2016
+2018-RUSSIA,PRELIMINARY-Asia,5-0 (1-0),Japan (日本),Afghanistan (افغانستان),2018_RUSSIA_PR.htm,Saitama.,2016
+2018-RUSSIA,PRELIMINARY-Asia,4-1 (3-1),Vietnam (Việt Nam),Taiwan (台湾),2018_RUSSIA_PR.htm,Hanoi.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-2 (0-1),Iraq (العراق),Thailand (ประเทศไทย),2018_RUSSIA_PR.htm,Tehran.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),South Korea (한국),Lebanon (لبنان),2018_RUSSIA_PR.htm,Ansan.,2016
+2018-RUSSIA,PRELIMINARY-Asia,0-3 (w.o.),Kuwait (الكويت),Laos (ນລາວ),2018_RUSSIA_PR.htm,Kuwait.,2016
+2018-RUSSIA,PRELIMINARY-Asia,3-0 (1-0),Bahrain (البحرين),Yemen (اليمن),2018_RUSSIA_PR.htm,Riffa.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Uzbekistan (Ўзбекистон),Philippines (Pilipinas),2018_RUSSIA_PR.htm,Tashkent.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,0-3 (0-2),Canada,Mexico (México),2018_RUSSIA_PR.htm,Vancouver.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,2-2 (0-1),El Salvador,Honduras,2018_RUSSIA_PR.htm,San_Salvador.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,1-1 (1-0),Jamaica,Costa Rica,2018_RUSSIA_PR.htm,Kingston.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,0-0 (0-0),Haiti (Haïti),Panama (Panamá),2018_RUSSIA_PR.htm,Port-au-Prince.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,2-0 (2-0),Guatemala,USA,2018_RUSSIA_PR.htm,Guatemala.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,2-3 (1-0),Saint Vincent & The Grenadines,Trinidad and Tobago,2018_RUSSIA_PR.htm,Kingstown.,2016
+2018-RUSSIA,PRELIMINARY-S.America,3-1 (1-0),Colombia,Ecuador,2018_RUSSIA_PR.htm,Barranquilla.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-2 (1-0),Paraguay,Brazil (Brasil),2018_RUSSIA_PR.htm,Asunción.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-0 (2-0),Argentina,Bolivia,2018_RUSSIA_PR.htm,Córdoba.,2016
+2018-RUSSIA,PRELIMINARY-S.America,1-4 (1-1),Venezuela,Chile,2018_RUSSIA_PR.htm,Barinas.,2016
+2018-RUSSIA,PRELIMINARY-S.America,1-0 (0-0),Uruguay,Peru (Perú),2018_RUSSIA_PR.htm,Montevideo.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,2-0 (2-0),Mexico (México),Canada,2018_RUSSIA_PR.htm,México D.F.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,2-0 (0-0),Honduras,El Salvador,2018_RUSSIA_PR.htm,San_Pedro_Sula.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,3-0 (2-0),Costa Rica,Jamaica,2018_RUSSIA_PR.htm,San_José.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,1-0 (0-0),Panama (Panamá),Haiti (Haïti),2018_RUSSIA_PR.htm,Panamá.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,4-0 (2-0),USA,Guatemala,2018_RUSSIA_PR.htm,Columbus.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,6-0 (1-0),Trinidad and Tobago,Saint Vincent & The Grenadines,2018_RUSSIA_PR.htm,Port_of_Spain.,2016
+2018-RUSSIA,PRELIMINARY-Asia,7-0 (4-0),Palestine (فلسطين),East Timor (Timor-Leste),2018_RUSSIA_PR.htm,Hebron.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (0-1),United Arab Emirates (الإمارات العربية المتحدة),Saudi Arabia (العربية السعودية),2018_RUSSIA_PR.htm,Abu_Dhabi.,2016
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-1),Tajikistan (Точикистон),Kyrgyzstan (Кыргызстан),2018_RUSSIA_PR.htm,Dushanbe.,2016
+2018-RUSSIA,PRELIMINARY-Asia,5-1 (3-0),Australia,Jordan (الأردن),2018_RUSSIA_PR.htm,Sydney.,2016
+2018-RUSSIA,PRELIMINARY-Asia,4-2 (1-1),Maldives (Divehi Rājjēge),Bhutan (འབྲུག་ཡུལ),2018_RUSSIA_PR.htm,Malé.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (0-0),China (中国),Qatar (قطر),2018_RUSSIA_PR.htm,Xian.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-2 (1-0),India (भारत),Turkmenistan (Türkmenistan),2018_RUSSIA_PR.htm,Kochi.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (2-0),Iran (ایران),Oman (عمان),2018_RUSSIA_PR.htm,Tehran.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (1-0),Afghanistan (افغانستان),Singapore (新加坡),2018_RUSSIA_PR.htm,Tehran.,2016
+2018-RUSSIA,PRELIMINARY-Asia,5-0 (1-0),Japan (日本),Syria (سوريا),2018_RUSSIA_PR.htm,Saitama.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (1-0),Iraq (العراق),Vietnam (Việt Nam),2018_RUSSIA_PR.htm,Tehran.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (0-0),Lebanon (لبنان),Myanmar (ြမန်မာ),2018_RUSSIA_PR.htm,Sidon.,2016
+2018-RUSSIA,PRELIMINARY-Asia,3-0 (w.o.),South Korea (한국),Kuwait (الكويت),2018_RUSSIA_PR.htm,Seoul.,2016
+2018-RUSSIA,PRELIMINARY-Asia,3-2 (1-1),Philippines (Pilipinas),North Korea (조선),2018_RUSSIA_PR.htm,Manila.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Uzbekistan (Ўзбекистон),Bahrain (البحرين),2018_RUSSIA_PR.htm,Tashkent.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,1-1 (1-0),Papua New Guinea (Papua Niugini),New Caledonia (Nouvelle-Calédonie),2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,4-0 (4-0),Tahiti,Samoa,2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,3-1 (2-1),New Zealand (Aotearoa),Fiji,2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,0-1 (0-1),Vanuatu,Solomon Islands,2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,2-2 (1-0),Papua New Guinea (Papua Niugini),Tahiti,2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,7-0 (4-0),New Caledonia (Nouvelle-Calédonie),Samoa,2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,0-5 (0-5),Vanuatu,New Zealand (Aotearoa),2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,0-1 (0-0),Solomon Islands,Fiji,2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,8-0 (2-0),Papua New Guinea (Papua Niugini),Samoa,2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,1-1 (0-0),Tahiti,New Caledonia (Nouvelle-Calédonie),2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,1-0 (0-0),New Zealand (Aotearoa),Solomon Islands,2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,2-3 (0-2),Fiji,Vanuatu,2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,2-1 (1-1),Papua New Guinea (Papua Niugini),Solomon Islands,2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,1-0 (0-0),New Zealand (Aotearoa),New Caledonia (Nouvelle-Calédonie),2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,0-0 (0-0),Papua New Guinea (Papua Niugini),New Zealand (Aotearoa),2018_RUSSIA_PR.htm,Port_Moresby.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-0 (1-0),Colombia,Venezuela,2018_RUSSIA_PR.htm,Barranquilla.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-1 (2-1),Paraguay,Chile,2018_RUSSIA_PR.htm,Asunción.,2016
+2018-RUSSIA,PRELIMINARY-S.America,1-0 (1-0),Argentina,Uruguay,2018_RUSSIA_PR.htm,Mendoza.,2016
+2018-RUSSIA,PRELIMINARY-S.America,0-3 (0-0),Ecuador,Brazil (Brasil),2018_RUSSIA_PR.htm,Quito.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-0 (1-0),Bolivia,Peru (Perú),2018_RUSSIA_PR.htm,La_Paz.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (0-0),Iran (ایران),Qatar (قطر),2018_RUSSIA_PR.htm,Tehran.,2016
+2018-RUSSIA,PRELIMINARY-Asia,3-2 (1-0),South Korea (한국),China (中国),2018_RUSSIA_PR.htm,Seoul.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Uzbekistan (Ўзбекистон),Syria (سوريا),2018_RUSSIA_PR.htm,Tashkent.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (0-0),Australia,Iraq (العراق),2018_RUSSIA_PR.htm,Perth.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-2 (1-1),Japan (日本),United Arab Emirates (الإمارات العربية المتحدة),2018_RUSSIA_PR.htm,Saitama.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Saudi Arabia (العربية السعودية),Thailand (ประเทศไทย),2018_RUSSIA_PR.htm,Riyadh.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,1-3 (1-0),El Salvador,Mexico (México),2018_RUSSIA_PR.htm,San_Salvador.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,2-1 (1-1),Honduras,Canada,2018_RUSSIA_PR.htm,San_Pedro_Sula.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,0-1 (0-0),Haiti (Haïti),Costa Rica,2018_RUSSIA_PR.htm,Port-au-Prince.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,2-0 (1-0),Panama (Panamá),Jamaica,2018_RUSSIA_PR.htm,Panamá.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,0-6 (0-3),Saint Vincent & The Grenadines,USA,2018_RUSSIA_PR.htm,Kingstown.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,2-2 (1-1),Trinidad and Tobago,Guatemala,2018_RUSSIA_PR.htm,Port_of_Spain.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-1),San Marino,Azerbaijan (Azərbaycan),2018_RUSSIA_PR.htm,Serravalle.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Czech Republic (Česká Republika),Northern Ireland (Ulster),2018_RUSSIA_PR.htm,Praha.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-2),Norway (Norge),Germany (Deutschland),2018_RUSSIA_PR.htm,Oslo.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (1-0),Denmark (Danmark),Armenia (Հայաստան),2018_RUSSIA_PR.htm,København.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-2 (0-2),Kazakhstan (Қазақстан),Poland (Polska),2018_RUSSIA_PR.htm,Astana.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-0),Romania (România),Montenegro (Црна Гора),2018_RUSSIA_PR.htm,Cluj-Napoca.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-2 (2-0),Lithuania (Lietuva),Slovenia (Slovenija),2018_RUSSIA_PR.htm,Vilnius.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Slovakia (Slovensko),England,2018_RUSSIA_PR.htm,Trnava.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-5 (1-1),Malta,Scotland,2018_RUSSIA_PR.htm,TaQali.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (0-2),Georgia (საქართველო),Austria (Österreich),2018_RUSSIA_PR.htm,Tbilisi.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-2 (0-1),Serbia (Србија),Ireland (Éire),2018_RUSSIA_PR.htm,Beograd.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (2-0),Wales (Cymru),Moldova,2018_RUSSIA_PR.htm,Cardiff.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-1 (1-0),Albania (Shqipëri),Macedonia (Македонија),2018_RUSSIA_PR.htm,Shkodër.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-3 (1-2),Israel (ישראל),Italy (Italia),2018_RUSSIA_PR.htm,Haifa.,2016
+2018-RUSSIA,PRELIMINARY-Europe,8-0 (1-0),Spain (España),Liechtenstein,2018_RUSSIA_PR_GD.htm#WC-18-I-1,León.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (1-1),Croatia (Hrvatska),Turkey (Türkiye),2018_RUSSIA_PR.htm,Zagreb.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (1-1),Ukraine (Україна),Iceland (Ísland),2018_RUSSIA_PR.htm,Kyïv.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (1-0),Finland (Suomi),Kosovo (Kosova),2018_RUSSIA_PR.htm,Turku.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Belarus (Беларусь),France,2018_RUSSIA_PR.htm,Borisov.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-3 (1-0),Bulgaria (България),Luxembourg (Lëtzebuerg),2018_RUSSIA_PR.htm,Sofija.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (1-0),Sweden (Sverige),Netherlands (Nederland),2018_RUSSIA_PR.htm,Stockholm.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Andorra,Latvia (Latvija),2018_RUSSIA_PR.htm,Andorra la Vella.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Faroe Islands (Føroyar),Hungary (Magyarország),2018_RUSSIA_PR.htm,Tórshavn.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (2-0),Switzerland (Schweiz / Suisse),Portugal,2018_RUSSIA_PR.htm,Basel.,2016
+2018-RUSSIA,PRELIMINARY-Europe,5-0 (2-0),Bosnia-Herzegovina (Bosna i Hercegovina),Estonia (Eesti),2018_RUSSIA_PR.htm,Zenica.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-1),Cyprus (Κύπρος),Belgium (België),2018_RUSSIA_PR.htm,Levkosía.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-4 (1-4),Gibraltar,Greece (Ελλάδα),2018_RUSSIA_PR.htm,Faro/Loulé.,2016
+2018-RUSSIA,PRELIMINARY-S.America,0-0 (0-0),Chile,Bolivia,2018_RUSSIA_PR.htm,Santiago.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-1 (1-1),Brazil (Brasil),Colombia,2018_RUSSIA_PR.htm,Manaus.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-2 (1-0),Venezuela,Argentina,2018_RUSSIA_PR.htm,Mérida.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-1 (1-1),Peru (Perú),Ecuador,2018_RUSSIA_PR.htm,Lima.,2016
+2018-RUSSIA,PRELIMINARY-S.America,4-0 (3-0),Uruguay,Paraguay,2018_RUSSIA_PR.htm,Montevideo.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,0-0 (0-0),Mexico (México),Honduras,2018_RUSSIA_PR.htm,México D.F.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,3-1 (1-0),Canada,El Salvador,2018_RUSSIA_PR.htm,Vancouver.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,3-1 (1-0),Costa Rica,Panama (Panamá),2018_RUSSIA_PR.htm,San_José.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,0-2 (0-0),Jamaica,Haiti (Haïti),2018_RUSSIA_PR.htm,Kingston.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,4-0 (1-0),USA,Trinidad and Tobago,2018_RUSSIA_PR.htm,Jacksonville.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,9-3 (4-2),Guatemala,Saint Vincent & The Grenadines,2018_RUSSIA_PR.htm,Guatemala.,2016
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-0),Qatar (قطر),Uzbekistan (Ўзбекистон),2018_RUSSIA_PR.htm,Doha.,2016
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),Syria (سوريا),South Korea (한국),2018_RUSSIA_PR.htm,Seremban.,2016
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),China (中国),Iran (ایران),2018_RUSSIA_PR.htm,Shenyang.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-2 (1-0),Iraq (العراق),Saudi Arabia (العربية السعودية),2018_RUSSIA_PR.htm,Shah Alam.,2016
+2018-RUSSIA,PRELIMINARY-Asia,0-2 (0-1),Thailand (ประเทศไทย),Japan (日本),2018_RUSSIA_PR.htm,Bangkok.,2016
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-0),United Arab Emirates (الإمارات العربية المتحدة),Australia,2018_RUSSIA_PR.htm,Abu_Dhabi.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-2 (1-2),Austria (Österreich),Wales (Cymru),2018_RUSSIA_PR.htm,Wien.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-2),Moldova,Serbia (Србија),2018_RUSSIA_PR.htm,Chișinău.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Ireland (Éire),Georgia (საქართველო),2018_RUSSIA_PR.htm,Dublin.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-0),Italy (Italia),Spain (España),2018_RUSSIA_PR_GD.htm#WC-18-I-2,Torino.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-2 (0-1),Liechtenstein,Albania (Shqipëri),2018_RUSSIA_PR.htm,Vaduz.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (0-2),Macedonia (Македонија),Israel (ישראל),2018_RUSSIA_PR.htm,Skopje.,2016
+2018-RUSSIA,PRELIMINARY-Europe,3-2 (1-2),Iceland (Ísland),Finland (Suomi),2018_RUSSIA_PR.htm,Reykjavík.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-2 (1-2),Turkey (Türkiye),Ukraine (Україна),2018_RUSSIA_PR.htm,Konya.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-6 (0-3),Kosovo (Kosova),Croatia (Hrvatska),2018_RUSSIA_PR.htm,Shkodër.,2016
+2018-RUSSIA,PRELIMINARY-S.America,0-1 (0-0),Paraguay,Colombia,2018_RUSSIA_PR.htm,Asunción.,2016
+2018-RUSSIA,PRELIMINARY-S.America,5-0 (4-0),Brazil (Brasil),Bolivia,2018_RUSSIA_PR.htm,Natal.,2016
+2018-RUSSIA,PRELIMINARY-S.America,3-0 (2-0),Ecuador,Chile,2018_RUSSIA_PR.htm,Quito.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-2 (0-1),Peru (Perú),Argentina,2018_RUSSIA_PR.htm,Lima.,2016
+2018-RUSSIA,PRELIMINARY-S.America,3-0 (1-0),Uruguay,Venezuela,2018_RUSSIA_PR.htm,Montevideo.,2016
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-1),Uzbekistan (Ўзбекистон),Iran (ایران),2018_RUSSIA_PR.htm,Tashkent.,2016
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-0),China (中国),Syria (سوريا),2018_RUSSIA_PR.htm,Xian.,2016
+2018-RUSSIA,PRELIMINARY-Asia,3-2 (1-2),South Korea (한국),Qatar (قطر),2018_RUSSIA_PR.htm,Suwon.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-2 (1-1),Saudi Arabia (العربية السعودية),Australia,2018_RUSSIA_PR.htm,Jeddah.,2016
+2018-RUSSIA,PRELIMINARY-Asia,3-1 (1-0),United Arab Emirates (الإمارات العربية المتحدة),Thailand (ประเทศไทย),2018_RUSSIA_PR.htm,Abu_Dhabi.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (1-0),Japan (日本),Iraq (العراق),2018_RUSSIA_PR.htm,Saitama.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-1 (3-1),France,Bulgaria (България),2018_RUSSIA_PR.htm,Paris.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Luxembourg (Lëtzebuerg),Sweden (Sverige),2018_RUSSIA_PR.htm,Luxembourg.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-1 (2-0),Netherlands (Nederland),Belarus (Беларусь),2018_RUSSIA_PR.htm,Rotterdam.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-3 (0-0),Hungary (Magyarország),Switzerland (Schweiz / Suisse),2018_RUSSIA_PR.htm,Budapest.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-2 (0-1),Latvia (Latvija),Faroe Islands (Føroyar),2018_RUSSIA_PR.htm,Rīga.,2016
+2018-RUSSIA,PRELIMINARY-Europe,6-0 (3-0),Portugal,Andorra,2018_RUSSIA_PR.htm,Aveiro.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (2-0),Belgium (België),Bosnia-Herzegovina (Bosna i Hercegovina),2018_RUSSIA_PR.htm,Bruxelles.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (2-0),Greece (Ελλάδα),Cyprus (Κύπρος),2018_RUSSIA_PR.htm,Peiraiás.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (0-0),Estonia (Eesti),Gibraltar,2018_RUSSIA_PR.htm,Tallinn.,2016
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Ghana,Uganda,2018_RUSSIA_PR.htm,Tamale.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (1-0),Azerbaijan (Azərbaycan),Norway (Norge),2018_RUSSIA_PR.htm,Baku.,2016
+2018-RUSSIA,PRELIMINARY-Europe,3-0 (1-0),Germany (Deutschland),Czech Republic (Česká Republika),2018_RUSSIA_PR.htm,Hamburg.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (1-0),Northern Ireland (Ulster),San Marino,2018_RUSSIA_PR.htm,Belfast.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-5 (0-4),Armenia (Հայաստան),Romania (România),2018_RUSSIA_PR.htm,Erevan.,2016
+2018-RUSSIA,PRELIMINARY-Europe,5-0 (1-0),Montenegro (Црна Гора),Kazakhstan (Қазақстан),2018_RUSSIA_PR.htm,Podgorica.,2016
+2018-RUSSIA,PRELIMINARY-Europe,3-2 (2-0),Poland (Polska),Denmark (Danmark),2018_RUSSIA_PR.htm,Warszawa.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (2-0),England,Malta,2018_RUSSIA_PR.htm,London.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-0),Scotland,Lithuania (Lietuva),2018_RUSSIA_PR.htm,Glasgow.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Slovenia (Slovenija),Slovakia (Slovensko),2018_RUSSIA_PR.htm,Ljubljana.,2016
+2018-RUSSIA,PRELIMINARY-Africa,4-0 (2-0),D.R. Congo (R.D. Congo),Libya (ليبيا),2018_RUSSIA_PR.htm,Kinshasa.,2016
+2018-RUSSIA,PRELIMINARY-Africa,3-1 (3-1),Ivory Coast (Côte d’Ivoire),Mali,2018_RUSSIA_PR.htm,Bouaké.,2016
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Gabon,Morocco (المغرب),2018_RUSSIA_PR.htm,Franceville.,2016
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (1-0),Senegal (Sénégal),Cape Verde (Cabo Verde),2018_RUSSIA_PR.htm,Dakar.,2016
+2018-RUSSIA,PRELIMINARY-Africa,1-1 (0-0),Burkina Faso,South Africa (Suid-Afrika),2018_RUSSIA_PR.htm,Ouagadougou.,2016
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (0-0),Tunisia (تونس),Guinea (Guinée),2018_RUSSIA_PR.htm,Monastir.,2016
+2018-RUSSIA,PRELIMINARY-Africa,1-1 (1-1),Algeria (الجزائر),Cameroon (Cameroun),2018_RUSSIA_PR.htm,Blida.,2016
+2018-RUSSIA,PRELIMINARY-Africa,1-2 (0-2),Zambia,Nigeria,2018_RUSSIA_PR.htm,Ndola.,2016
+2018-RUSSIA,PRELIMINARY-Africa,1-2 (1-1),Congo,Egypt (مصر),2018_RUSSIA_PR.htm,Brazzaville.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (1-0),Wales (Cymru),Georgia (საქართველო),2018_RUSSIA_PR.htm,Cardiff.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-3 (1-1),Moldova,Ireland (Éire),2018_RUSSIA_PR.htm,Chișinău.,2016
+2018-RUSSIA,PRELIMINARY-Europe,3-2 (2-1),Serbia (Србија),Austria (Österreich),2018_RUSSIA_PR.htm,Beograd.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-1 (2-0),Israel (ישראל),Liechtenstein,2018_RUSSIA_PR.htm,Yěrūshālayim.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-2 (0-0),Albania (Shqipëri),Spain (España),2018_RUSSIA_PR_GD.htm#WC-18-I-3,Shkodër.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-3 (0-1),Macedonia (Македонија),Italy (Italia),2018_RUSSIA_PR.htm,Skopje.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-1),Finland (Suomi),Croatia (Hrvatska),2018_RUSSIA_PR.htm,Tampere.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (2-0),Iceland (Ísland),Turkey (Türkiye),2018_RUSSIA_PR.htm,Reykjavík.,2016
+2018-RUSSIA,PRELIMINARY-Europe,3-0 (1-0),Ukraine (Україна),Kosovo (Kosova),2018_RUSSIA_PR.htm,Kraków.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-0),Belarus (Беларусь),Luxembourg (Lëtzebuerg),2018_RUSSIA_PR.htm,Borisov.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-1),Netherlands (Nederland),France,2018_RUSSIA_PR.htm,Amsterdam.,2016
+2018-RUSSIA,PRELIMINARY-Europe,3-0 (2-0),Sweden (Sverige),Bulgaria (България),2018_RUSSIA_PR.htm,Stockholm.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (0-1),Andorra,Switzerland (Schweiz / Suisse),2018_RUSSIA_PR.htm,Andorra la Vella.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-6 (0-3),Faroe Islands (Føroyar),Portugal,2018_RUSSIA_PR.htm,Tórshavn.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-2 (0-1),Latvia (Latvija),Hungary (Magyarország),2018_RUSSIA_PR.htm,Rīga.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (0-0),Bosnia-Herzegovina (Bosna i Hercegovina),Cyprus (Κύπρος),2018_RUSSIA_PR.htm,Zenica.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-2 (0-1),Estonia (Eesti),Greece (Ελλάδα),2018_RUSSIA_PR.htm,Tallinn.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-6 (0-3),Gibraltar,Belgium (België),2018_RUSSIA_PR.htm,Faro/Loulé.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Czech Republic (Česká Republika),Azerbaijan (Azərbaycan),2018_RUSSIA_PR.htm,Ostrava.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (2-0),Germany (Deutschland),Northern Ireland (Ulster),2018_RUSSIA_PR.htm,Hannover.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-1 (1-0),Norway (Norge),San Marino,2018_RUSSIA_PR.htm,Oslo.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Kazakhstan (Қазақстан),Romania (România),2018_RUSSIA_PR.htm,Astana.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-1),Denmark (Danmark),Montenegro (Црна Гора),2018_RUSSIA_PR.htm,København.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-1 (0-0),Poland (Polska),Armenia (Հայաստան),2018_RUSSIA_PR.htm,Warszawa.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (0-0),Lithuania (Lietuva),Malta,2018_RUSSIA_PR.htm,Vilnius.,2016
+2018-RUSSIA,PRELIMINARY-Europe,3-0 (1-0),Slovakia (Slovensko),Scotland,2018_RUSSIA_PR.htm,Trnava.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Slovenia (Slovenija),England,2018_RUSSIA_PR.htm,Ljubljana.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-2 (1-1),Colombia,Uruguay,2018_RUSSIA_PR.htm,Barranquilla.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-1 (1-0),Chile,Peru (Perú),2018_RUSSIA_PR.htm,Santiago.,2016
+2018-RUSSIA,PRELIMINARY-S.America,0-1 (0-1),Argentina,Paraguay,2018_RUSSIA_PR.htm,Córdoba.,2016
+2018-RUSSIA,PRELIMINARY-S.America,0-2 (0-1),Venezuela,Brazil (Brasil),2018_RUSSIA_PR.htm,Mérida.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-2 (2-0),Bolivia,Ecuador,2018_RUSSIA_PR.htm,La Paz.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (1-0),Qatar (قطر),Syria (سوريا),2018_RUSSIA_PR.htm,Doha.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (0-0),Uzbekistan (Ўзбекистон),China (中国),2018_RUSSIA_PR.htm,Tashkent.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (1-0),Iran (ایران),South Korea (한국),2018_RUSSIA_PR.htm,Tehran.,2016
+2018-RUSSIA,PRELIMINARY-Asia,4-0 (2-0),Iraq (العراق),Thailand (ประเทศไทย),2018_RUSSIA_PR.htm,Tehran.,2016
+2018-RUSSIA,PRELIMINARY-Asia,3-0 (0-0),Saudi Arabia (العربية السعودية),United Arab Emirates (الإمارات العربية المتحدة),2018_RUSSIA_PR.htm,Jeddah.,2016
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (0-1),Australia,Japan (日本),2018_RUSSIA_PR.htm,Melbourne.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,1-0 (0-0),Tahiti,Solomon Islands,2018_RUSSIA_PR.htm,Pirae.,2016
+2018-RUSSIA,PRELIMINARY-S.America,0-0 (0-0),Colombia,Chile,2018_RUSSIA_PR.htm,Barranquilla.,2016
+2018-RUSSIA,PRELIMINARY-S.America,1-4 (1-0),Paraguay,Peru (Perú),2018_RUSSIA_PR.htm,Asunción.,2016
+2018-RUSSIA,PRELIMINARY-S.America,3-0 (2-0),Brazil (Brasil),Argentina,2018_RUSSIA_PR.htm,Belo Horizonte.,2016
+2018-RUSSIA,PRELIMINARY-S.America,5-0 (2-0),Venezuela,Bolivia,2018_RUSSIA_PR.htm,Maturín.,2016
+2018-RUSSIA,PRELIMINARY-S.America,2-1 (2-1),Uruguay,Ecuador,2018_RUSSIA_PR.htm,Montevideo.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-1 (0-0),France,Sweden (Sverige),2018_RUSSIA_PR.htm,Paris.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-1 (1-0),Czech Republic (Česká Republika),Norway (Norge),2018_RUSSIA_PR.htm,Praha.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (2-0),Northern Ireland (Ulster),Azerbaijan (Azərbaycan),2018_RUSSIA_PR.htm,Belfast.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-8 (0-3),San Marino,Germany (Deutschland),2018_RUSSIA_PR.htm,Serravalle.,2016
+2018-RUSSIA,PRELIMINARY-Europe,3-2 (0-2),Armenia (Հայաստան),Montenegro (Црна Гора),2018_RUSSIA_PR.htm,Erevan.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-1 (2-1),Denmark (Danmark),Kazakhstan (Қазақстан),2018_RUSSIA_PR.htm,København.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-1),Romania (România),Poland (Polska),2018_RUSSIA_PR.htm,Bucureşti.,2016
+2018-RUSSIA,PRELIMINARY-Europe,3-0 (1-0),England,Scotland,2018_RUSSIA_PR.htm,London.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Malta,Slovenia (Slovenija),2018_RUSSIA_PR.htm,TaQali.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (3-0),Slovakia (Slovensko),Lithuania (Lietuva),2018_RUSSIA_PR.htm,Trnava.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,1-2 (0-1),USA,Mexico (México),2018_RUSSIA_PR.htm,Columbus.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,0-1 (0-1),Honduras,Panama (Panamá),2018_RUSSIA_PR.htm,San_Pedro_Sula.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,0-2 (0-0),Trinidad and Tobago,Costa Rica,2018_RUSSIA_PR.htm,Port_of_Spain.,2016
+2018-RUSSIA,PRELIMINARY-Africa,0-1 (0-0),Libya (ليبيا),Tunisia (تونس),2018_RUSSIA_PR.htm,Algiers.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Austria (Österreich),Ireland (Éire),2018_RUSSIA_PR.htm,Wien.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (1-0),Georgia (საქართველო),Moldova,2018_RUSSIA_PR.htm,Tbilisi.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (1-0),Wales (Cymru),Serbia (Србија),2018_RUSSIA_PR.htm,Cardiff.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-1),Albania (Shqipëri),Israel (ישראל),2018_RUSSIA_PR.htm,Elbasan.,2016
+2018-RUSSIA,PRELIMINARY-Europe,0-4 (0-4),Liechtenstein,Italy (Italia),2018_RUSSIA_PR.htm,Vaduz.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (1-0),Spain (España),Macedonia (Македонија),2018_RUSSIA_PR_GD.htm#WC-18-I-4,Granada.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (1-0),Croatia (Hrvatska),Iceland (Ísland),2018_RUSSIA_PR.htm,Zagreb.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (1-0),Ukraine (Україна),Finland (Suomi),2018_RUSSIA_PR.htm,Odessa.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (0-0),Turkey (Türkiye),Kosovo (Kosova),2018_RUSSIA_PR.htm,Antalya.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,2-0 (1-0),New Zealand (Aotearoa),New Caledonia (Nouvelle-Calédonie),2018_RUSSIA_PR.htm,Auckland.,2016
+2018-RUSSIA,PRELIMINARY-Africa,3-1 (2-0),Nigeria,Algeria (الجزائر),2018_RUSSIA_PR.htm,Uyo.,2016
+2018-RUSSIA,PRELIMINARY-Africa,1-1 (1-1),Cameroon (Cameroun),Zambia,2018_RUSSIA_PR.htm,Limbe.,2016
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Mali,Gabon,2018_RUSSIA_PR.htm,Bamako.,2016
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Morocco (المغرب),Ivory Coast (Côte d’Ivoire),2018_RUSSIA_PR.htm,Marrakech.,2016
+2018-RUSSIA,PRELIMINARY-Africa,0-2 (0-2),Cape Verde (Cabo Verde),Burkina Faso,2018_RUSSIA_PR.htm,Praia.,2016
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (1-0),Uganda,Congo,2018_RUSSIA_PR.htm,Kampala.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (1-0),Bulgaria (България),Belarus (Беларусь),2018_RUSSIA_PR.htm,Sofija.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-3 (1-1),Luxembourg (Lëtzebuerg),Netherlands (Nederland),2018_RUSSIA_PR.htm,Luxembourg.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (2-0),Hungary (Magyarország),Andorra,2018_RUSSIA_PR.htm,Budapest.,2016
+2018-RUSSIA,PRELIMINARY-Europe,4-1 (1-0),Portugal,Latvia (Latvija),2018_RUSSIA_PR.htm,Faro/Loulé.,2016
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (1-0),Switzerland (Schweiz / Suisse),Faroe Islands (Føroyar),2018_RUSSIA_PR.htm,Luzern.,2016
+2018-RUSSIA,PRELIMINARY-Europe,8-1 (3-1),Belgium (België),Estonia (Eesti),2018_RUSSIA_PR.htm,Bruxelles.,2016
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-1),Greece (Ελλάδα),Bosnia-Herzegovina (Bosna i Hercegovina),2018_RUSSIA_PR.htm,Peiraiás.,2016
+2018-RUSSIA,PRELIMINARY-Europe,3-1 (1-0),Cyprus (Κύπρος),Gibraltar,2018_RUSSIA_PR.htm,Levkosía.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,1-0 (0-0),Solomon Islands,Tahiti,2018_RUSSIA_PR.htm,Honiara.,2017
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (1-0),Egypt (مصر),Ghana,2018_RUSSIA_PR.htm,Alexandria.,2016
+2018-RUSSIA,PRELIMINARY-S.America,3-1 (1-1),Chile,Uruguay,2018_RUSSIA_PR.htm,Santiago.,2016
+2018-RUSSIA,PRELIMINARY-S.America,3-0 (2-0),Argentina,Colombia,2018_RUSSIA_PR.htm,San_Juan.,2016
+2018-RUSSIA,PRELIMINARY-S.America,3-0 (0-0),Ecuador,Venezuela,2018_RUSSIA_PR.htm,Quito.,2016
+2018-RUSSIA,PRELIMINARY-S.America,1-0 (0-0),Bolivia,Paraguay,2018_RUSSIA_PR.htm,La_Paz.,2016
+2018-RUSSIA,PRELIMINARY-S.America,0-2 (0-1),Peru (Perú),Brazil (Brasil),2018_RUSSIA_PR.htm,Lima.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,4-0 (1-0),Costa Rica,USA,2018_RUSSIA_PR.htm,San_José.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,0-0 (0-0),Panama (Panamá),Mexico (México),2018_RUSSIA_PR.htm,Panamá.,2016
+2018-RUSSIA,PRELIMINARY-N/C.America,3-1 (2-0),Honduras,Trinidad and Tobago,2018_RUSSIA_PR.htm,San_Pedro_Sula.,2016
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),China (中国),Qatar (قطر),2018_RUSSIA_PR.htm,Kunming.,2016
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),Syria (سوريا),Iran (ایران),2018_RUSSIA_PR.htm,Seremban.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (0-1),South Korea (한국),Uzbekistan (Ўзбекистон),2018_RUSSIA_PR.htm,Seoul.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (1-0),United Arab Emirates (الإمارات العربية المتحدة),Iraq (العراق),2018_RUSSIA_PR.htm,Abu_Dhabi.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-2 (1-1),Thailand (ประเทศไทย),Australia,2018_RUSSIA_PR.htm,Bangkok.,2016
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (1-0),Japan (日本),Saudi Arabia (العربية السعودية),2018_RUSSIA_PR.htm,Saitama.,2016
+2018-RUSSIA,PRELIMINARY-Oceania,0-0 (0-0),New Caledonia (Nouvelle-Calédonie),New Zealand (Aotearoa),2018_RUSSIA_PR.htm,Koné.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-2 (1-0),Guinea (Guinée),D.R. Congo (R.D. Congo),2018_RUSSIA_PR.htm,Conakry.,2016
+2018-RUSSIA,PRELIMINARY-S.America,1-0 (0-0),Colombia,Bolivia,2018_RUSSIA_PR.htm,Barranquilla.,2017
+2018-RUSSIA,PRELIMINARY-S.America,2-1 (1-0),Paraguay,Ecuador,2018_RUSSIA_PR.htm,Asunción.,2017
+2018-RUSSIA,PRELIMINARY-S.America,1-0 (1-0),Argentina,Chile,2018_RUSSIA_PR.htm,Buenos Aires.,2017
+2018-RUSSIA,PRELIMINARY-S.America,2-2 (2-0),Venezuela,Peru (Perú),2018_RUSSIA_PR.htm,Maturín.,2017
+2018-RUSSIA,PRELIMINARY-S.America,1-4 (1-1),Uruguay,Brazil (Brasil),2018_RUSSIA_PR.htm,Montevideo.,2017
+2018-RUSSIA,PRELIMINARY-Asia,0-1 (0-0),Qatar (قطر),Iran (ایران),2018_RUSSIA_PR.htm,Doha.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (1-0),China (中国),South Korea (한국),2018_RUSSIA_PR.htm,Changsha.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Syria (سوريا),Uzbekistan (Ўзбекистон),2018_RUSSIA_PR.htm,Krubong.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (0-1),Iraq (العراق),Australia,2018_RUSSIA_PR.htm,Tehran.,2017
+2018-RUSSIA,PRELIMINARY-Asia,0-2 (0-1),United Arab Emirates (الإمارات العربية المتحدة),Japan (日本),2018_RUSSIA_PR.htm,Al-Ain.,2017
+2018-RUSSIA,PRELIMINARY-Asia,0-3 (0-1),Thailand (ประเทศไทย),Saudi Arabia (العربية السعودية),2018_RUSSIA_PR.htm,Bangkok.,2017
+2018-RUSSIA,PRELIMINARY-Oceania,1-3 (1-0),Papua New Guinea (Papua Niugini),Tahiti,2018_RUSSIA_PR.htm,Port Moresby.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-3 (1-1),Georgia (საქართველო),Serbia (Србија),2018_RUSSIA_PR.htm,Tbilisi.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (0-0),Austria (Österreich),Moldova,2018_RUSSIA_PR.htm,Wien.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Ireland (Éire),Wales (Cymru),2018_RUSSIA_PR.htm,Dublin.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (1-0),Italy (Italia),Albania (Shqipëri),2018_RUSSIA_PR.htm,Palermo.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-1),Liechtenstein,Macedonia (Македонија),2018_RUSSIA_PR.htm,Vaduz.,2017
+2018-RUSSIA,PRELIMINARY-Europe,4-1 (2-0),Spain (España),Israel (ישראל),2018_RUSSIA_PR_GD.htm#WC-18-I-5,Gijón.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (1-0),Croatia (Hrvatska),Ukraine (Україна),2018_RUSSIA_PR.htm,Zagreb.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (2-0),Turkey (Türkiye),Finland (Suomi),2018_RUSSIA_PR.htm,Antalya.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (0-2),Kosovo (Kosova),Iceland (Ísland),2018_RUSSIA_PR.htm,Shkodër.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,6-0 (3-0),USA,Honduras,2018_RUSSIA_PR.htm,San Jose.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,1-0 (1-0),Trinidad and Tobago,Panama (Panamá),2018_RUSSIA_PR.htm,Port_of_Spain.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,2-0 (2-0),Mexico (México),Costa Rica,2018_RUSSIA_PR.htm,México D.F.,2017
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (1-0),Sweden (Sverige),Belarus (Беларусь),2018_RUSSIA_PR.htm,Stockholm.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (2-0),Bulgaria (България),Netherlands (Nederland),2018_RUSSIA_PR.htm,Sofija.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-3 (1-2),Luxembourg (Lëtzebuerg),France,2018_RUSSIA_PR.htm,Luxembourg.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Andorra,Faroe Islands (Føroyar),2018_RUSSIA_PR.htm,Andorra la Vella.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Switzerland (Schweiz / Suisse),Latvia (Latvija),2018_RUSSIA_PR.htm,Genève.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-0 (2-0),Portugal,Hungary (Magyarország),2018_RUSSIA_PR.htm,Lisboa.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Cyprus (Κύπρος),Estonia (Eesti),2018_RUSSIA_PR.htm,Levkosía.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-0),Belgium (België),Greece (Ελλάδα),2018_RUSSIA_PR.htm,Bruxelles.,2017
+2018-RUSSIA,PRELIMINARY-Europe,5-0 (2-0),Bosnia-Herzegovina (Bosna i Hercegovina),Gibraltar,2018_RUSSIA_PR.htm,Zenica.,2017
+2018-RUSSIA,PRELIMINARY-Oceania,0-2 (0-0),Fiji,New Zealand (Aotearoa),2018_RUSSIA_PR.htm,Lautoka.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-4 (1-3),Azerbaijan (Azərbaycan),Germany (Deutschland),2018_RUSSIA_PR.htm,Baku.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-6 (0-5),San Marino,Czech Republic (Česká Republika),2018_RUSSIA_PR.htm,Serravalle.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (2-0),Northern Ireland (Ulster),Norway (Norge),2018_RUSSIA_PR.htm,Belfast.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (0-0),Armenia (Հայաստան),Kazakhstan (Қазақстан),2018_RUSSIA_PR.htm,Erevan.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (0-1),Montenegro (Црна Гора),Poland (Polska),2018_RUSSIA_PR.htm,Podgorica.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Romania (România),Denmark (Danmark),2018_RUSSIA_PR.htm,Cluj-Napoca.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (1-0),England,Lithuania (Lietuva),2018_RUSSIA_PR.htm,London.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-3 (1-2),Malta,Slovakia (Slovensko),2018_RUSSIA_PR.htm,TaQali.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Scotland,Slovenia (Slovenija),2018_RUSSIA_PR.htm,Glasgow.,2017
+2018-RUSSIA,PRELIMINARY-S.America,3-1 (3-0),Chile,Venezuela,2018_RUSSIA_PR.htm,Santiago.,2017
+2018-RUSSIA,PRELIMINARY-S.America,3-0 (1-0),Brazil (Brasil),Paraguay,2018_RUSSIA_PR.htm,São Paulo.,2017
+2018-RUSSIA,PRELIMINARY-S.America,0-2 (0-2),Ecuador,Colombia,2018_RUSSIA_PR.htm,Quito.,2017
+2018-RUSSIA,PRELIMINARY-S.America,2-0 (1-0),Bolivia,Argentina,2018_RUSSIA_PR.htm,La Paz.,2017
+2018-RUSSIA,PRELIMINARY-S.America,2-1 (1-1),Peru (Perú),Uruguay,2018_RUSSIA_PR.htm,Lima.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,1-1 (1-1),Panama (Panamá),USA,2018_RUSSIA_PR.htm,Panamá.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,1-1 (1-0),Honduras,Costa Rica,2018_RUSSIA_PR.htm,San_Pedro_Sula.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,0-1 (0-0),Trinidad and Tobago,Mexico (México),2018_RUSSIA_PR.htm,Port_of_Spain.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Uzbekistan (Ўзбекистон),Qatar (قطر),2018_RUSSIA_PR.htm,Tashkent.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (1-0),South Korea (한국),Syria (سوريا),2018_RUSSIA_PR.htm,Seoul.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Iran (ایران),China (中国),2018_RUSSIA_PR.htm,Tehran.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Saudi Arabia (العربية السعودية),Iraq (العراق),2018_RUSSIA_PR.htm,Jeddah.,2017
+2018-RUSSIA,PRELIMINARY-Asia,4-0 (2-0),Japan (日本),Thailand (ประเทศไทย),2018_RUSSIA_PR.htm,Saitama.,2017
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (1-0),Australia,United Arab Emirates (الإمارات العربية المتحدة),2018_RUSSIA_PR.htm,Sydney.,2017
+2018-RUSSIA,PRELIMINARY-Oceania,2-0 (1-0),New Zealand (Aotearoa),Fiji,2018_RUSSIA_PR.htm,Wellington.,2017
+2018-RUSSIA,PRELIMINARY-Oceania,1-2 (0-0),Tahiti,Papua New Guinea (Papua Niugini),2018_RUSSIA_PR.htm,Pirae.,2017
+2018-RUSSIA,PRELIMINARY-Oceania,2-2 (1-2),Fiji,New Caledonia (Nouvelle-Calédonie),2018_RUSSIA_PR.htm,Lautoka.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,2-0 (0-0),USA,Trinidad and Tobago,2018_RUSSIA_PR.htm,Commerce City.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,0-0 (0-0),Costa Rica,Panama (Panamá),2018_RUSSIA_PR.htm,San_José.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,3-0 (1-0),Mexico (México),Honduras,2018_RUSSIA_PR.htm,México D.F.,2017
+2018-RUSSIA,PRELIMINARY-Asia,3-2 (2-2),Australia,Saudi Arabia (العربية السعودية),2018_RUSSIA_PR.htm,Adelaide.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-1 (1-0),Belarus (Беларусь),Bulgaria (България),2018_RUSSIA_PR.htm,Borisov.,2017
+2018-RUSSIA,PRELIMINARY-Europe,5-0 (2-0),Netherlands (Nederland),Luxembourg (Lëtzebuerg),2018_RUSSIA_PR.htm,Rotterdam.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-1 (1-1),Sweden (Sverige),France,2018_RUSSIA_PR.htm,Stockholm.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (1-0),Andorra,Hungary (Magyarország),2018_RUSSIA_PR.htm,Andorra la Vella.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-2 (0-1),Faroe Islands (Føroyar),Switzerland (Schweiz / Suisse),2018_RUSSIA_PR.htm,Tórshavn.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-1),Latvia (Latvija),Portugal,2018_RUSSIA_PR.htm,Rīga.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Bosnia-Herzegovina (Bosna i Hercegovina),Greece (Ελλάδα),2018_RUSSIA_PR.htm,Zenica.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-2 (0-1),Estonia (Eesti),Belgium (België),2018_RUSSIA_PR.htm,Tallinn.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (1-1),Gibraltar,Cyprus (Κύπρος),2018_RUSSIA_PR.htm,Faro/Loulé.,2017
+2018-RUSSIA,PRELIMINARY-Oceania,3-2 (2-0),Solomon Islands,Papua New Guinea (Papua Niugini),2018_RUSSIA_PR.htm,Honiara.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Azerbaijan (Azərbaycan),Northern Ireland (Ulster),2018_RUSSIA_PR.htm,Baku.,2017
+2018-RUSSIA,PRELIMINARY-Europe,7-0 (4-0),Germany (Deutschland),San Marino,2018_RUSSIA_PR.htm,Nürnberg.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-1),Norway (Norge),Czech Republic (Česká Republika),2018_RUSSIA_PR.htm,Oslo.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-3 (0-1),Kazakhstan (Қазақстан),Denmark (Danmark),2018_RUSSIA_PR.htm,Almaty.,2017
+2018-RUSSIA,PRELIMINARY-Europe,4-1 (2-0),Montenegro (Црна Гора),Armenia (Հայաստան),2018_RUSSIA_PR.htm,Podgorica.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-1 (1-0),Poland (Polska),Romania (România),2018_RUSSIA_PR.htm,Warszawa.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-2 (0-0),Scotland,England,2018_RUSSIA_PR.htm,Glasgow.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (1-0),Slovenia (Slovenija),Malta,2018_RUSSIA_PR.htm,Ljubljana.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (0-1),Lithuania (Lietuva),Slovakia (Slovensko),2018_RUSSIA_PR.htm,Vilnius.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-2 (2-0),Moldova,Georgia (საქართველო),2018_RUSSIA_PR.htm,Chișinău.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-1),Ireland (Éire),Austria (Österreich),2018_RUSSIA_PR.htm,Dublin.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-1),Serbia (Србија),Wales (Cymru),2018_RUSSIA_PR.htm,Beograd.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-2),Israel (ישראל),Albania (Shqipëri),2018_RUSSIA_PR.htm,Haifa.,2017
+2018-RUSSIA,PRELIMINARY-Europe,5-0 (1-0),Italy (Italia),Liechtenstein,2018_RUSSIA_PR.htm,Udine.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (0-2),Macedonia (Македонија),Spain (España),2018_RUSSIA_PR_GD.htm#WC-18-I-6,Skopje.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (0-0),Finland (Suomi),Ukraine (Україна),2018_RUSSIA_PR.htm,Tampere.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Iceland (Ísland),Croatia (Hrvatska),2018_RUSSIA_PR.htm,Reykjavík.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-4 (1-2),Kosovo (Kosova),Turkey (Türkiye),2018_RUSSIA_PR.htm,Shkodër.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,1-1 (1-1),Mexico (México),USA,2018_RUSSIA_PR.htm,México D.F.,2017
+2018-RUSSIA,PRELIMINARY-Oceania,2-1 (1-0),New Caledonia (Nouvelle-Calédonie),Fiji,2018_RUSSIA_PR.htm,Nouméa.,2017
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (1-0),Iran (ایران),Uzbekistan (Ўзбекистон),2018_RUSSIA_PR.htm,Tehran.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,2-2 (1-1),Panama (Panamá),Honduras,2018_RUSSIA_PR.htm,Panamá.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,2-1 (2-1),Costa Rica,Trinidad and Tobago,2018_RUSSIA_PR.htm,San_José.,2017
+2018-RUSSIA,PRELIMINARY-Asia,2-2 (1-0),Syria (سوريا),China (中国),2018_RUSSIA_PR.htm,Krubong.,2017
+2018-RUSSIA,PRELIMINARY-Asia,3-2 (1-0),Qatar (قطر),South Korea (한국),2018_RUSSIA_PR.htm,Doha.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (0-0),Thailand (ประเทศไทย),United Arab Emirates (الإمارات العربية المتحدة),2018_RUSSIA_PR.htm,Bangkok.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (0-1),Iraq (العراق),Japan (日本),2018_RUSSIA_PR.htm,Tehran.,2017
+2018-RUSSIA,PRELIMINARY-Oceania,1-2 (1-2),Papua New Guinea (Papua Niugini),Solomon Islands,2018_RUSSIA_PR.htm,Port_Moresby.,2017
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (1-1),United Arab Emirates (الإمارات العربية المتحدة),Saudi Arabia (العربية السعودية),2018_RUSSIA_PR.htm,Al-Ain.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-2 (2-2),Bulgaria (България),Sweden (Sverige),2018_RUSSIA_PR.htm,Sofija.,2017
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (1-0),France,Netherlands (Nederland),2018_RUSSIA_PR.htm,Paris.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Luxembourg (Lëtzebuerg),Belarus (Беларусь),2018_RUSSIA_PR.htm,Luxembourg.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-1 (2-1),Hungary (Magyarország),Latvia (Latvija),2018_RUSSIA_PR.htm,Budapest.,2017
+2018-RUSSIA,PRELIMINARY-Europe,5-1 (2-1),Portugal,Faroe Islands (Føroyar),2018_RUSSIA_PR.htm,Porto.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-0 (1-0),Switzerland (Schweiz / Suisse),Andorra,2018_RUSSIA_PR.htm,St._Gallen.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-2 (0-2),Cyprus (Κύπρος),Bosnia-Herzegovina (Bosna i Hercegovina),2018_RUSSIA_PR.htm,Levkosía.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Greece (Ελλάδα),Estonia (Eesti),2018_RUSSIA_PR.htm,Peiraiás.,2017
+2018-RUSSIA,PRELIMINARY-Europe,9-0 (6-0),Belgium (België),Gibraltar,2018_RUSSIA_PR.htm,Liège.,2017
+2018-RUSSIA,PRELIMINARY-S.America,0-3 (0-1),Chile,Paraguay,2018_RUSSIA_PR.htm,Santiago.,2017
+2018-RUSSIA,PRELIMINARY-S.America,2-0 (0-0),Brazil (Brasil),Ecuador,2018_RUSSIA_PR.htm,Porto_Alegre.,2017
+2018-RUSSIA,PRELIMINARY-S.America,0-0 (0-0),Venezuela,Colombia,2018_RUSSIA_PR.htm,San Cristóbal.,2017
+2018-RUSSIA,PRELIMINARY-S.America,2-1 (0-0),Peru (Perú),Bolivia,2018_RUSSIA_PR.htm,Lima.,2017
+2018-RUSSIA,PRELIMINARY-S.America,0-0 (0-0),Uruguay,Argentina,2018_RUSSIA_PR.htm,Montevideo.,2017
+2018-RUSSIA,PRELIMINARY-Asia,3-1 (1-1),Syria (سوريا),Qatar (قطر),2018_RUSSIA_PR.htm,Krubong.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),China (中国),Uzbekistan (Ўзбекистон),2018_RUSSIA_PR.htm,Wuhan.,2017
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),South Korea (한국),Iran (ایران),2018_RUSSIA_PR.htm,Seoul.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-2 (0-1),Thailand (ประเทศไทย),Iraq (العراق),2018_RUSSIA_PR.htm,Bangkok.,2017
+2018-RUSSIA,PRELIMINARY-Asia,2-0 (1-0),Japan (日本),Australia,2018_RUSSIA_PR.htm,Saitama.,2017
+2018-RUSSIA,PRELIMINARY-Africa,3-2 (2-0),Guinea (Guinée),Libya (ليبيا),2018_RUSSIA_PR.htm,Conakry.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (0-0),Uganda,Egypt (مصر),2018_RUSSIA_PR.htm,Kampala.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (0-1),Czech Republic (Česká Republika),Germany (Deutschland),2018_RUSSIA_PR.htm,Praha.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (1-0),Norway (Norge),Azerbaijan (Azərbaycan),2018_RUSSIA_PR.htm,Oslo.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-0),San Marino,Northern Ireland (Ulster),2018_RUSSIA_PR.htm,Serravalle.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-1),Kazakhstan (Қазақстан),Montenegro (Црна Гора),2018_RUSSIA_PR.htm,Astana.,2017
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (2-0),Denmark (Danmark),Poland (Polska),2018_RUSSIA_PR.htm,København.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Romania (România),Armenia (Հայաստան),2018_RUSSIA_PR.htm,Bucureşti.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-2),Lithuania (Lietuva),Scotland,2018_RUSSIA_PR.htm,Vilnius.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-4 (0-0),Malta,England,2018_RUSSIA_PR.htm,TaQali.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Slovakia (Slovensko),Slovenia (Slovenija),2018_RUSSIA_PR.htm,Trnava.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,0-2 (0-1),USA,Costa Rica,2018_RUSSIA_PR.htm,Harrison.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,1-0 (0-0),Mexico (México),Panama (Panamá),2018_RUSSIA_PR.htm,México D.F.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,1-2 (0-2),Trinidad and Tobago,Honduras,2018_RUSSIA_PR.htm,Couva.,2017
+2018-RUSSIA,PRELIMINARY-Oceania,6-1 (3-0),New Zealand (Aotearoa),Solomon Islands,2018_RUSSIA_PR.htm,Auckland.,2017
+2018-RUSSIA,PRELIMINARY-Africa,2-1 (1-1),Tunisia (تونس),D.R. Congo (R.D. Congo),2018_RUSSIA_PR.htm,Radès.,2017
+2018-RUSSIA,PRELIMINARY-Africa,4-0 (2-0),Nigeria,Cameroon (Cameroun),2018_RUSSIA_PR.htm,Uyo.,2017
+2018-RUSSIA,PRELIMINARY-Africa,6-0 (2-0),Morocco (المغرب),Mali,2018_RUSSIA_PR.htm,Rabat.,2017
+2018-RUSSIA,PRELIMINARY-Africa,2-1 (2-1),Cape Verde (Cabo Verde),South Africa (Suid-Afrika),2018_RUSSIA_PR.htm,Praia.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-1 (0-1),Ghana,Congo,2018_RUSSIA_PR.htm,Kumasi.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (1-1),Georgia (საქართველო),Ireland (Éire),2018_RUSSIA_PR.htm,Tbilisi.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-0 (2-0),Serbia (Србија),Moldova,2018_RUSSIA_PR.htm,Beograd.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Wales (Cymru),Austria (Österreich),2018_RUSSIA_PR.htm,Cardiff.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (0-0),Albania (Shqipëri),Liechtenstein,2018_RUSSIA_PR.htm,Elbasan.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Israel (ישראל),Macedonia (Македонија),2018_RUSSIA_PR.htm,Haifa.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-0 (2-0),Spain (España),Italy (Italia),2018_RUSSIA_PR_GD.htm#WC-18-I-7,Madrid.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (1-0),Finland (Suomi),Iceland (Ísland),2018_RUSSIA_PR.htm,Tampere.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (2-0),Ukraine (Україна),Turkey (Türkiye),2018_RUSSIA_PR.htm,Kharkïv.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Croatia (Hrvatska),Kosovo (Kosova),2018_RUSSIA_PR.htm,Zagreb.,2017
+2018-RUSSIA,PRELIMINARY-Africa,3-1 (2-0),Zambia,Algeria (الجزائر),2018_RUSSIA_PR.htm,Lusaka.,2017
+2018-RUSSIA,PRELIMINARY-Africa,0-3 (0-0),Gabon,Ivory Coast (Côte d’Ivoire),2018_RUSSIA_PR.htm,Franceville.,2017
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Senegal (Sénégal),Burkina Faso,2018_RUSSIA_PR.htm,Dakar.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-4 (0-3),Belarus (Беларусь),Sweden (Sverige),2018_RUSSIA_PR.htm,Borisov.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-1 (1-0),Netherlands (Nederland),Bulgaria (България),2018_RUSSIA_PR.htm,Amsterdam.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),France,Luxembourg (Lëtzebuerg),2018_RUSSIA_PR.htm,Toulouse.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (1-0),Faroe Islands (Føroyar),Andorra,2018_RUSSIA_PR.htm,Tórshavn.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Hungary (Magyarország),Portugal,2018_RUSSIA_PR.htm,Budapest.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-1),Latvia (Latvija),Switzerland (Schweiz / Suisse),2018_RUSSIA_PR.htm,Rīga.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Estonia (Eesti),Cyprus (Κύπρος),2018_RUSSIA_PR.htm,Tallinn.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (0-0),Greece (Ελλάδα),Belgium (België),2018_RUSSIA_PR.htm,Peiraiás.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-4 (0-1),Gibraltar,Bosnia-Herzegovina (Bosna i Hercegovina),2018_RUSSIA_PR.htm,Faro/Loulé.,2017
+2018-RUSSIA,PRELIMINARY-Europe,5-1 (2-0),Azerbaijan (Azərbaycan),San Marino,2018_RUSSIA_PR.htm,Baku.,2017
+2018-RUSSIA,PRELIMINARY-Europe,6-0 (4-0),Germany (Deutschland),Norway (Norge),2018_RUSSIA_PR.htm,Stuttgart.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (2-0),Northern Ireland (Ulster),Czech Republic (Česká Republika),2018_RUSSIA_PR.htm,Belfast.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-4 (1-2),Armenia (Հայաստան),Denmark (Danmark),2018_RUSSIA_PR.htm,Erevan.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Montenegro (Црна Гора),Romania (România),2018_RUSSIA_PR.htm,Podgorica.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-0 (1-0),Poland (Polska),Kazakhstan (Қазақстан),2018_RUSSIA_PR.htm,Warszawa.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-1 (1-1),England,Slovakia (Slovensko),2018_RUSSIA_PR.htm,London.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (1-0),Scotland,Malta,2018_RUSSIA_PR.htm,Glasgow.,2017
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (1-0),Slovenia (Slovenija),Lithuania (Lietuva),2018_RUSSIA_PR.htm,Ljubljana.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (1-0),Libya (ليبيا),Guinea (Guinée),2018_RUSSIA_PR.htm,Monastir.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-1 (0-1),Cameroon (Cameroun),Nigeria,2018_RUSSIA_PR.htm,Yaoundé.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (1-1),Austria (Österreich),Georgia (საქართველო),2018_RUSSIA_PR.htm,Wien.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-2 (0-0),Moldova,Wales (Cymru),2018_RUSSIA_PR.htm,Chișinău.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Ireland (Éire),Serbia (Србија),2018_RUSSIA_PR.htm,Dublin.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Italy (Italia),Israel (ישראל),2018_RUSSIA_PR.htm,Reggio Emilia.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-8 (0-4),Liechtenstein,Spain (España),2018_RUSSIA_PR_GD.htm#WC-18-I-8,Vaduz.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-0),Macedonia (Македонија),Albania (Shqipëri),2018_RUSSIA_PR.htm,Strumica.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (0-0),Iceland (Ísland),Ukraine (Україна),2018_RUSSIA_PR.htm,Reykjavík.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Turkey (Türkiye),Croatia (Hrvatska),2018_RUSSIA_PR.htm,Eskişehir.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Kosovo (Kosova),Finland (Suomi),2018_RUSSIA_PR.htm,Shkodër.,2017
+2018-RUSSIA,PRELIMINARY-S.America,1-1 (0-1),Colombia,Brazil (Brasil),2018_RUSSIA_PR.htm,Barranquilla.,2017
+2018-RUSSIA,PRELIMINARY-S.America,1-2 (0-0),Paraguay,Uruguay,2018_RUSSIA_PR.htm,Asunción.,2017
+2018-RUSSIA,PRELIMINARY-S.America,1-1 (0-0),Argentina,Venezuela,2018_RUSSIA_PR.htm,Buenos Aires.,2017
+2018-RUSSIA,PRELIMINARY-S.America,1-2 (0-0),Ecuador,Peru (Perú),2018_RUSSIA_PR.htm,Quito.,2017
+2018-RUSSIA,PRELIMINARY-S.America,1-0 (0-0),Bolivia,Chile,2018_RUSSIA_PR.htm,La Paz.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,1-1 (1-0),Honduras,USA,2018_RUSSIA_PR.htm,San_Pedro_Sula.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,3-0 (1-0),Panama (Panamá),Trinidad and Tobago,2018_RUSSIA_PR.htm,Panamá.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,1-1 (0-1),Costa Rica,Mexico (México),2018_RUSSIA_PR.htm,San_José.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-2 (0-0),Qatar (قطر),China (中国),2018_RUSSIA_PR.htm,Doha.,2017
+2018-RUSSIA,PRELIMINARY-Asia,2-2 (1-1),Iran (ایران),Syria (سوريا),2018_RUSSIA_PR.htm,Tehran.,2017
+2018-RUSSIA,PRELIMINARY-Asia,0-0 (0-0),Uzbekistan (Ўзбекистон),South Korea (한국),2018_RUSSIA_PR.htm,Tashkent.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (1-0),Iraq (العراق),United Arab Emirates (الإمارات العربية المتحدة),2018_RUSSIA_PR.htm,Amman.,2017
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (0-0),Australia,Thailand (ประเทศไทย),2018_RUSSIA_PR.htm,Melbourne.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-0 (0-0),Saudi Arabia (العربية السعودية),Japan (日本),2018_RUSSIA_PR.htm,Jeddah.,2017
+2018-RUSSIA,PRELIMINARY-Oceania,2-2 (1-2),Solomon Islands,New Zealand (Aotearoa),2018_RUSSIA_PR.htm,Honiara.,2017
+2018-RUSSIA,PRELIMINARY-Africa,2-2 (1-0),D.R. Congo (R.D. Congo),Tunisia (تونس),2018_RUSSIA_PR.htm,Kinshasa.,2017
+2018-RUSSIA,PRELIMINARY-Africa,0-1 (0-0),Algeria (الجزائر),Zambia,2018_RUSSIA_PR.htm,Constantine.,2017
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Mali,Morocco (المغرب),2018_RUSSIA_PR.htm,Bamako.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-2 (0-2),Ivory Coast (Côte d’Ivoire),Gabon,2018_RUSSIA_PR.htm,Bouaké.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-2 (0-0),South Africa (Suid-Afrika),Cape Verde (Cabo Verde),2018_RUSSIA_PR.htm,Durban.,2017
+2018-RUSSIA,PRELIMINARY-Africa,2-2 (1-1),Burkina Faso,Senegal (Sénégal),2018_RUSSIA_PR.htm,Ouagadougou.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (1-0),Egypt (مصر),Uganda,2018_RUSSIA_PR.htm,Alexandria.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-5 (1-3),Congo,Ghana,2018_RUSSIA_PR.htm,Brazzaville.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (0-1),Azerbaijan (Azərbaycan),Czech Republic (Česká Republika),2018_RUSSIA_PR.htm,Baku.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-3 (0-2),Northern Ireland (Ulster),Germany (Deutschland),2018_RUSSIA_PR.htm,Belfast.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-8 (0-4),San Marino,Norway (Norge),2018_RUSSIA_PR.htm,Serravalle.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-6 (1-3),Armenia (Հայաստան),Poland (Polska),2018_RUSSIA_PR.htm,Erevan.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-1),Montenegro (Црна Гора),Denmark (Danmark),2018_RUSSIA_PR.htm,Podgorica.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-1 (2-0),Romania (România),Kazakhstan (Қазақстан),2018_RUSSIA_PR.htm,Ploiești.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),England,Slovenia (Slovenija),2018_RUSSIA_PR.htm,London.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (1-0),Malta,Lithuania (Lietuva),2018_RUSSIA_PR.htm,TaQali.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Scotland,Slovakia (Slovensko),2018_RUSSIA_PR.htm,Glasgow.,2017
+2018-RUSSIA,PRELIMINARY-S.America,1-2 (0-0),Colombia,Paraguay,2018_RUSSIA_PR.htm,Barranquilla.,2017
+2018-RUSSIA,PRELIMINARY-S.America,2-1 (1-0),Chile,Ecuador,2018_RUSSIA_PR.htm,Santiago.,2017
+2018-RUSSIA,PRELIMINARY-S.America,0-0 (0-0),Argentina,Peru (Perú),2018_RUSSIA_PR.htm,Buenos Aires.,2017
+2018-RUSSIA,PRELIMINARY-S.America,0-0 (0-0),Venezuela,Uruguay,2018_RUSSIA_PR.htm,San Cristóbal.,2017
+2018-RUSSIA,PRELIMINARY-S.America,0-0 (0-0),Bolivia,Brazil (Brasil),2018_RUSSIA_PR.htm,La Paz.,2017
+2018-RUSSIA,PRELIMINARY-Asia,1-1 (0-1),Syria (سوريا),Australia,2018_RUSSIA_PR.htm,Krubong.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Georgia (საქართველო),Wales (Cymru),2018_RUSSIA_PR.htm,Tbilisi.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-2 (1-1),Austria (Österreich),Serbia (Србија),2018_RUSSIA_PR.htm,Wien.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (2-0),Ireland (Éire),Moldova,2018_RUSSIA_PR.htm,Dublin.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (1-0),Italy (Italia),Macedonia (Македонија),2018_RUSSIA_PR.htm,Torino.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-1),Liechtenstein,Israel (ישראל),2018_RUSSIA_PR.htm,Vaduz.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-0 (3-0),Spain (España),Albania (Shqipëri),2018_RUSSIA_PR_GD.htm#WC-18-I-9,Alicante.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-0),Croatia (Hrvatska),Finland (Suomi),2018_RUSSIA_PR.htm,Rijeka.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-3 (0-2),Turkey (Türkiye),Iceland (Ísland),2018_RUSSIA_PR.htm,Eskişehir.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-2 (0-0),Kosovo (Kosova),Ukraine (Україна),2018_RUSSIA_PR.htm,Shkodër.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,4-0 (3-0),USA,Panama (Panamá),2018_RUSSIA_PR.htm,Orlando.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,3-1 (0-0),Mexico (México),Trinidad and Tobago,2018_RUSSIA_PR.htm,San_Luis_Potosí.,2017
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Mali,Ivory Coast (Côte d’Ivoire),2018_RUSSIA_PR.htm,Bamako.,2017
+2018-RUSSIA,PRELIMINARY-Europe,8-0 (3-0),Sweden (Sverige),Luxembourg (Lëtzebuerg),2018_RUSSIA_PR.htm,Stockholm.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-3 (0-1),Belarus (Беларусь),Netherlands (Nederland),2018_RUSSIA_PR.htm,Borisov.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-1),Bulgaria (България),France,2018_RUSSIA_PR.htm,Sofija.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Faroe Islands (Føroyar),Latvia (Latvija),2018_RUSSIA_PR.htm,Tórshavn.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-2 (0-0),Andorra,Portugal,2018_RUSSIA_PR.htm,Andorra la Vella.,2017
+2018-RUSSIA,PRELIMINARY-Europe,5-2 (3-0),Switzerland (Schweiz / Suisse),Hungary (Magyarország),2018_RUSSIA_PR.htm,Basel.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-4 (2-1),Bosnia-Herzegovina (Bosna i Hercegovina),Belgium (België),2018_RUSSIA_PR.htm,Sarajevo.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (1-2),Cyprus (Κύπρος),Greece (Ελλάδα),2018_RUSSIA_PR.htm,Levkosía.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-6 (0-3),Gibraltar,Estonia (Eesti),2018_RUSSIA_PR.htm,Faro/Loulé.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,1-1 (0-0),Costa Rica,Honduras,2018_RUSSIA_PR.htm,San_José.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-4 (1-1),Guinea (Guinée),Tunisia (تونس),2018_RUSSIA_PR.htm,Conakry.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-2 (0-0),Libya (ليبيا),D.R. Congo (R.D. Congo),2018_RUSSIA_PR.htm,Monastir.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-0 (0-0),Nigeria,Zambia,2018_RUSSIA_PR.htm,Uyo.,2017
+2018-RUSSIA,PRELIMINARY-Africa,2-0 (1-0),Cameroon (Cameroun),Algeria (الجزائر),2018_RUSSIA_PR.htm,Yaoundé.,2017
+2018-RUSSIA,PRELIMINARY-Africa,3-0 (1-0),Morocco (المغرب),Gabon,2018_RUSSIA_PR.htm,Casablanca.,2017
+2018-RUSSIA,PRELIMINARY-Africa,0-2 (0-0),Cape Verde (Cabo Verde),Senegal (Sénégal),2018_RUSSIA_PR.htm,Praia.,2017
+2018-RUSSIA,PRELIMINARY-Africa,3-1 (3-0),South Africa (Suid-Afrika),Burkina Faso,2018_RUSSIA_PR.htm,Johannesburg.,2017
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Uganda,Ghana,2018_RUSSIA_PR.htm,Kampala.,2017
+2018-RUSSIA,PRELIMINARY-Europe,5-0 (3-0),Czech Republic (Česká Republika),San Marino,2018_RUSSIA_PR.htm,Plzeň.,2017
+2018-RUSSIA,PRELIMINARY-Europe,5-1 (1-1),Germany (Deutschland),Azerbaijan (Azərbaycan),2018_RUSSIA_PR.htm,Kaiserslautern.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Norway (Norge),Northern Ireland (Ulster),2018_RUSSIA_PR.htm,Oslo.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-0),Denmark (Danmark),Romania (România),2018_RUSSIA_PR.htm,København.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (0-1),Kazakhstan (Қазақстан),Armenia (Հայաստան),2018_RUSSIA_PR.htm,Astana.,2017
+2018-RUSSIA,PRELIMINARY-Europe,4-2 (2-0),Poland (Polska),Montenegro (Црна Гора),2018_RUSSIA_PR.htm,Warszawa.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-1),Lithuania (Lietuva),England,2018_RUSSIA_PR.htm,Vilnius.,2017
+2018-RUSSIA,PRELIMINARY-Europe,3-0 (1-0),Slovakia (Slovensko),Malta,2018_RUSSIA_PR.htm,Trnava.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-2 (0-1),Slovenia (Slovenija),Scotland,2018_RUSSIA_PR.htm,Ljubljana.,2017
+2018-RUSSIA,PRELIMINARY-Africa,2-1 (0-0),Egypt (مصر),Congo,2018_RUSSIA_PR.htm,Alexandria.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Moldova,Austria (Österreich),2018_RUSSIA_PR.htm,Chișinău.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Serbia (Србија),Georgia (საქართველო),2018_RUSSIA_PR.htm,Beograd.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Wales (Cymru),Ireland (Éire),2018_RUSSIA_PR.htm,Cardiff.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Albania (Shqipëri),Italy (Italia),2018_RUSSIA_PR.htm,Shkodër.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Israel (ישראל),Spain (España),2018_RUSSIA_PR_GD.htm#WC-18-I-10,Yěrūshālayim.,2017
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (2-0),Macedonia (Македонија),Liechtenstein,2018_RUSSIA_PR.htm,Strumica.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-2 (0-0),Finland (Suomi),Turkey (Türkiye),2018_RUSSIA_PR.htm,Turku.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-2 (0-0),Ukraine (Україна),Croatia (Hrvatska),2018_RUSSIA_PR.htm,Kyïv.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (1-0),Iceland (Ísland),Kosovo (Kosova),2018_RUSSIA_PR.htm,Reykjavík.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-1 (2-1),France,Belarus (Беларусь),2018_RUSSIA_PR.htm,Paris.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-1 (1-0),Luxembourg (Lëtzebuerg),Bulgaria (България),2018_RUSSIA_PR.htm,Luxembourg.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (2-0),Netherlands (Nederland),Sweden (Sverige),2018_RUSSIA_PR.htm,Amsterdam.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Hungary (Magyarország),Faroe Islands (Føroyar),2018_RUSSIA_PR.htm,Budapest.,2017
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (2-0),Latvia (Latvija),Andorra,2018_RUSSIA_PR.htm,Rīga.,2017
+2018-RUSSIA,PRELIMINARY-Europe,2-0 (1-0),Portugal,Switzerland (Schweiz / Suisse),2018_RUSSIA_PR.htm,Lisboa.,2017
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (1-0),Belgium (België),Cyprus (Κύπρος),2018_RUSSIA_PR.htm,Bruxelles.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-2 (0-0),Estonia (Eesti),Bosnia-Herzegovina (Bosna i Hercegovina),2018_RUSSIA_PR.htm,Tallinn.,2017
+2018-RUSSIA,PRELIMINARY-Europe,4-0 (1-0),Greece (Ελλάδα),Gibraltar,2018_RUSSIA_PR.htm,Peiraiás.,2017
+2018-RUSSIA,PRELIMINARY-S.America,0-1 (0-0),Paraguay,Venezuela,2018_RUSSIA_PR.htm,Asunción.,2017
+2018-RUSSIA,PRELIMINARY-S.America,3-0 (0-0),Brazil (Brasil),Chile,2018_RUSSIA_PR.htm,São_Paulo.,2017
+2018-RUSSIA,PRELIMINARY-S.America,1-3 (1-2),Ecuador,Argentina,2018_RUSSIA_PR.htm,Quito.,2017
+2018-RUSSIA,PRELIMINARY-S.America,1-1 (0-0),Peru (Perú),Colombia,2018_RUSSIA_PR.htm,Lima.,2017
+2018-RUSSIA,PRELIMINARY-S.America,4-2 (2-1),Uruguay,Bolivia,2018_RUSSIA_PR.htm,Montevideo.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,2-1 (2-0),Trinidad and Tobago,USA,2018_RUSSIA_PR.htm,Couva.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,2-1 (0-1),Panama (Panamá),Costa Rica,2018_RUSSIA_PR.htm,Panamá.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,3-2 (1-2),Honduras,Mexico (México),2018_RUSSIA_PR.htm,San_Pedro_Sula.,2017
+2018-RUSSIA,PRELIMINARY-Asia,2-1 (1-1),Australia,Syria (سوريا),2018_RUSSIA_PR.htm,Sydney.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-1 (0-0),Northern Ireland (Ulster),Switzerland (Schweiz / Suisse),2018_RUSSIA_PR.htm,Belfast.,2017
+2018-RUSSIA,PRELIMINARY-Europe,4-1 (3-1),Croatia (Hrvatska),Greece (Ελλάδα),2018_RUSSIA_PR.htm,Zagreb.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-0 (0-0),Sweden (Sverige),Italy (Italia),2018_RUSSIA_PR.htm,Stockholm.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,0-0 (0-0),Honduras,Australia,2018_RUSSIA_PR.htm,San_Pedro_Sula.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-1 (0-0),Algeria (الجزائر),Nigeria,2018_RUSSIA_PR.htm,Constantine.,2017
+2018-RUSSIA,PRELIMINARY-Africa,0-2 (0-2),South Africa (Suid-Afrika),Senegal (Sénégal),2018_RUSSIA_PR.htm,Polokwane.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Denmark (Danmark),Ireland (Éire),2018_RUSSIA_PR.htm,København.,2017
+2018-RUSSIA,PRELIMINARY-Oceania,0-0 (0-0),New Zealand (Aotearoa),Peru (Perú),2018_RUSSIA_PR.htm,Wellington.,2017
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Tunisia (تونس),Libya (ليبيا),2018_RUSSIA_PR.htm,Radès.,2017
+2018-RUSSIA,PRELIMINARY-Africa,3-1 (0-0),D.R. Congo (R.D. Congo),Guinea (Guinée),2018_RUSSIA_PR.htm,Kinshasa.,2017
+2018-RUSSIA,PRELIMINARY-Africa,2-2 (1-1),Zambia,Camerún,2018_RUSSIA_PR.htm,Ndola.,2017
+2018-RUSSIA,PRELIMINARY-Africa,0-2 (0-2),Ivory Coast (Côte d’Ivoire),Morocco (المغرب),2018_RUSSIA_PR.htm,Abidjan.,2017
+2018-RUSSIA,PRELIMINARY-Africa,0-0 (0-0),Gabon,Mali,2018_RUSSIA_PR.htm,Franceville.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Switzerland (Schweiz / Suisse),Northern Ireland (Ulster),2018_RUSSIA_PR.htm,Basel.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Greece (Ελλάδα),Croatia (Hrvatska),2018_RUSSIA_PR.htm,Peiraiás.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-1 (1-1),Congo,Uganda,2018_RUSSIA_PR.htm,Brazzaville.,2017
+2018-RUSSIA,PRELIMINARY-Africa,1-1 (1-1),Ghana,Egypt (مصر),2018_RUSSIA_PR.htm,Kumasi.,2017
+2018-RUSSIA,PRELIMINARY-Europe,0-0 (0-0),Italy (Italia),Sweden (Sverige),2018_RUSSIA_PR.htm,Milano.,2017
+2018-RUSSIA,PRELIMINARY-Europe,1-5 (1-2),Ireland (Éire),Denmark (Danmark),2018_RUSSIA_PR.htm,Dublin.,2017
+2018-RUSSIA,PRELIMINARY-Africa,4-0 (1-0),Burkina Faso,Cape Verde (Cabo Verde),2018_RUSSIA_PR.htm,Ouagadougou.,2017
+2018-RUSSIA,PRELIMINARY-Africa,2-1 (0-0),Senegal (Sénégal),South Africa (Suid-Afrika),2018_RUSSIA_PR.htm,Dakar.,2017
+2018-RUSSIA,PRELIMINARY-N/C.America,3-1 (0-0),Australia,Honduras,2018_RUSSIA_PR.htm,Sydney.,2017
+2018-RUSSIA,PRELIMINARY-Oceania,2-0 (1-0),Peru (Perú),New Zealand (Aotearoa),2018_RUSSIA_PR.htm,Lima.,2017
+2018-RUSSIA,GROUP_STAGE,5-0 (2-0),Russia (Россия),Saudi Arabia (العربية السعودية),2018_RUSSIA_FS.htm#837-WC-18-I,Moskva.,2018
+2018-RUSSIA,GROUP_STAGE,0-1 (0-0),Egypt (مصر),Uruguay,2018_RUSSIA_FS.htm#838-WC-18-I,Ekaterinburg.,2018
+2018-RUSSIA,GROUP_STAGE,0-1 (0-0),Morocco (المغرب),Iran (ایران),2018_RUSSIA_FS.htm#839-WC-18-I,Sankt-Peterburg.,2018
+2018-RUSSIA,GROUP_STAGE,3-3 (2-1),Portugal,Spain (España),2018_RUSSIA_FS.htm#840-WC-18-I,Sochi.,2018
+2018-RUSSIA,GROUP_STAGE,2-1 (0-0),France,Australia,2018_RUSSIA_FS.htm#841-WC-18-I,Kazan’.,2018
+2018-RUSSIA,GROUP_STAGE,1-1 (1-1),Argentina,Iceland (Ísland),2018_RUSSIA_FS.htm#842-WC-18-I,Moskva.,2018
+2018-RUSSIA,GROUP_STAGE,0-1 (0-0),Peru (Perú),Denmark (Danmark),2018_RUSSIA_FS.htm#843-WC-18-I,Saransk.,2018
+2018-RUSSIA,GROUP_STAGE,2-0 (1-0),Croatia (Hrvatska),Nigeria,2018_RUSSIA_FS.htm#844-WC-18-I,Kaliningrad.,2018
+2018-RUSSIA,GROUP_STAGE,0-1 (0-0),Costa Rica,Serbia (Србија),2018_RUSSIA_FS.htm#845-WC-18-I,Samara.,2018
+2018-RUSSIA,GROUP_STAGE,0-1 (0-1),Germany (Deutschland),Mexico (México),2018_RUSSIA_FS.htm#846-WC-18-I,Moskva.,2018
+2018-RUSSIA,GROUP_STAGE,1-1 (1-0),Brazil (Brasil),Switzerland (Schweiz / Suisse),2018_RUSSIA_FS.htm#847-WC-18-I,Rostov-na-Donu.,2018
+2018-RUSSIA,GROUP_STAGE,1-0 (0-0),Sweden (Sverige),South Korea (한국),2018_RUSSIA_FS.htm#848-WC-18-I,Nizhnij Novgorod.,2018
+2018-RUSSIA,GROUP_STAGE,3-0 (0-0),Belgium (België),Panama (Panamá),2018_RUSSIA_FS.htm#849-WC-18-I,Sochi.,2018
+2018-RUSSIA,GROUP_STAGE,1-2 (1-1),Tunisia (تونس),England,2018_RUSSIA_FS.htm#850-WC-18-I,Volgograd.,2018
+2018-RUSSIA,GROUP_STAGE,1-2 (1-1),Colombia,Japan (日本),2018_RUSSIA_FS.htm#851-WC-18-I,Saransk.,2018
+2018-RUSSIA,GROUP_STAGE,1-2 (0-1),Poland (Polska),Senegal (Sénégal),2018_RUSSIA_FS.htm#852-WC-18-I,Moskva.,2018
+2018-RUSSIA,GROUP_STAGE,3-1 (0-0),Russia (Россия),Egypt (مصر),2018_RUSSIA_FS.htm#853-WC-18-I,Sankt-Peterburg.,2018
+2018-RUSSIA,GROUP_STAGE,1-0 (1-0),Portugal,Morocco (المغرب),2018_RUSSIA_FS.htm#854-WC-18-I,Moskva.,2018
+2018-RUSSIA,GROUP_STAGE,1-0 (1-0),Uruguay,Saudi Arabia (العربية السعودية),2018_RUSSIA_FS.htm#855-WC-18-I,Rostov-na-Donu.,2018
+2018-RUSSIA,GROUP_STAGE,0-1 (0-0),Iran (ایران),Spain (España),2018_RUSSIA_FS.htm#856-WC-18-I,Kazan’.,2018
+2018-RUSSIA,GROUP_STAGE,1-1 (1-1),Denmark (Danmark),Australia,2018_RUSSIA_FS.htm#857-WC-18-I,Samara.,2018
+2018-RUSSIA,GROUP_STAGE,1-0 (1-0),France,Peru (Perú),2018_RUSSIA_FS.htm#858-WC-18-I,Ekaterinburg.,2018
+2018-RUSSIA,GROUP_STAGE,0-3 (0-0),Argentina,Croatia (Hrvatska),2018_RUSSIA_FS.htm#859-WC-18-I,Nizhnij Novgorod.,2018
+2018-RUSSIA,GROUP_STAGE,2-0 (0-0),Brazil (Brasil),Costa Rica,2018_RUSSIA_FS.htm#860-WC-18-I,Sankt-Peterburg.,2018
+2018-RUSSIA,GROUP_STAGE,2-0 (0-0),Nigeria,Iceland (Ísland),2018_RUSSIA_FS.htm#861-WC-18-I,Volgograd.,2018
+2018-RUSSIA,GROUP_STAGE,1-2 (1-0),Serbia (Србија),Switzerland (Schweiz / Suisse),2018_RUSSIA_FS.htm#862-WC-18-I,Kaliningrad.,2018
+2018-RUSSIA,GROUP_STAGE,5-2 (3-1),Belgium (België),Tunisia (تونس),2018_RUSSIA_FS.htm#863-WC-18-I,Moskva.,2018
+2018-RUSSIA,GROUP_STAGE,1-2 (0-1),South Korea (한국),Mexico (México),2018_RUSSIA_FS.htm#864-WC-18-I,Rostov-na-Donu.,2018
+2018-RUSSIA,GROUP_STAGE,2-1 (0-1),Germany (Deutschland),Sweden (Sverige),2018_RUSSIA_FS.htm#865-WC-18-I,Sochi.,2018
+2018-RUSSIA,GROUP_STAGE,6-1 (5-0),England,Panama (Panamá),2018_RUSSIA_FS.htm#866-WC-18-I,Nizhnij Novgorod.,2018
+2018-RUSSIA,GROUP_STAGE,2-2 (1-1),Japan (日本),Senegal (Sénégal),2018_RUSSIA_FS.htm#867-WC-18-I,Ekaterinburg.,2018
+2018-RUSSIA,GROUP_STAGE,0-3 (0-1),Poland (Polska),Colombia,2018_RUSSIA_FS.htm#868-WC-18-I,Kazan’.,2018
+2018-RUSSIA,GROUP_STAGE,2-1 (1-1),Saudi Arabia (العربية السعودية),Egypt (مصر),2018_RUSSIA_FS.htm#869-WC-18-I,Volgograd.,2018
+2018-RUSSIA,GROUP_STAGE,3-0 (2-0),Uruguay,Russia (Россия),2018_RUSSIA_FS.htm#870-WC-18-I,Samara.,2018
+2018-RUSSIA,GROUP_STAGE,2-2 (1-1),Spain (España),Morocco (المغرب),2018_RUSSIA_FS.htm#871-WC-18-I,Kaliningrad.,2018
+2018-RUSSIA,GROUP_STAGE,1-1 (0-1),Iran (ایران),Portugal,2018_RUSSIA_FS.htm#872-WC-18-I,Saransk.,2018
+2018-RUSSIA,GROUP_STAGE,0-0 (0-0),Denmark (Danmark),France,2018_RUSSIA_FS.htm#873-WC-18-I,Moskva.,2018
+2018-RUSSIA,GROUP_STAGE,0-2 (0-1),Australia,Peru (Perú),2018_RUSSIA_FS.htm#874-WC-18-I,Sochi.,2018
+2018-RUSSIA,GROUP_STAGE,1-2 (0-1),Nigeria,Argentina,2018_RUSSIA_FS.htm#875-WC-18-I,Sankt-Peterburg.,2018
+2018-RUSSIA,GROUP_STAGE,1-2 (0-0),Iceland (Ísland),Croatia (Hrvatska),2018_RUSSIA_FS.htm#876-WC-18-I,Rostov-na-Donu.,2018
+2018-RUSSIA,GROUP_STAGE,2-0 (0-0),South Korea (한국),Germany (Deutschland),2018_RUSSIA_FS.htm#877-WC-18-I,Kazan’.,2018
+2018-RUSSIA,GROUP_STAGE,0-3 (0-0),Mexico (México),Sweden (Sverige),2018_RUSSIA_FS.htm#878-WC-18-I,Ekaterinburg.,2018
+2018-RUSSIA,GROUP_STAGE,0-2 (0-1),Serbia (Србија),Brazil (Brasil),2018_RUSSIA_FS.htm#879-WC-18-I,Moskva.,2018
+2018-RUSSIA,GROUP_STAGE,2-2 (1-0),Switzerland (Schweiz / Suisse),Costa Rica,2018_RUSSIA_FS.htm#880-WC-18-I,Nizhnij Novgorod.,2018
+2018-RUSSIA,GROUP_STAGE,0-1 (0-0),Japan (日本),Poland (Polska),2018_RUSSIA_FS.htm#881-WC-18-I,Volgograd.,2018
+2018-RUSSIA,GROUP_STAGE,0-1 (0-0),Senegal (Sénégal),Colombia,2018_RUSSIA_FS.htm#882-WC-18-I,Samara.,2018
+2018-RUSSIA,GROUP_STAGE,0-1 (0-0),England,Belgium (België),2018_RUSSIA_FS.htm#883-WC-18-I,Kaliningrad.,2018
+2018-RUSSIA,GROUP_STAGE,1-2 (1-0),Panama (Panamá),Tunisia (تونس),2018_RUSSIA_FS.htm#884-WC-18-I,Saransk.,2018
+2018-RUSSIA,1/8_FINAL,4-3 (1-1),France,Argentina,2018_RUSSIA_FS.htm#885-WC-18-II,Kazan’.,2018
+2018-RUSSIA,1/8_FINAL,2-1 (1-0),Uruguay,Portugal,2018_RUSSIA_FS.htm#886-WC-18-II,Sochi.,2018
+2018-RUSSIA,1/8_FINAL,1-1 (1-1) (a.e.t.) (p.k.),Spain (España),Russia (Россия),2018_RUSSIA_FS.htm#887-WC-18-II,Moskva.,2018
+2018-RUSSIA,1/8_FINAL,1-1 (1-1) (a.e.t.) (p.k.),Croatia (Hrvatska),Denmark (Danmark),2018_RUSSIA_FS.htm#888-WC-18-II,Nizhnij Novgorod.,2018
+2018-RUSSIA,1/8_FINAL,2-0 (0-0),Brazil (Brasil),Mexico (México),2018_RUSSIA_FS.htm#889-WC-18-II,Samara.,2018
+2018-RUSSIA,1/8_FINAL,1-0 (0-0),Sweden (Sverige),Switzerland (Schweiz / Suisse),2018_RUSSIA_FS.htm#890-WC-18-II,Rostov-na-Donu.,2018
+2018-RUSSIA,1/8_FINAL,3-2 (0-0),Belgium (België),Japan (日本),2018_RUSSIA_FS.htm#891-WC-18-II,Sankt-Peterburg.,2018
+2018-RUSSIA,1/8_FINAL,1-1 (0-0) (a.e.t.) (p.k.),Colombia,England,2018_RUSSIA_FS.htm#892-WC-18-II,Moskva.,2018
+2018-RUSSIA,1/4_FINAL,0-2 (0-1),Uruguay,France,2018_RUSSIA_FS.htm#893-WC-18-III,Nizhnij Novgorod.,2018
+2018-RUSSIA,1/4_FINAL,1-2 (0-2),Brazil (Brasil),Belgium (België),2018_RUSSIA_FS.htm#894-WC-18-III,Kazan’.,2018
+2018-RUSSIA,1/4_FINAL,0-2 (0-1),Sweden (Sverige),England,2018_RUSSIA_FS.htm#895-WC-18-III,Samara.,2018
+2018-RUSSIA,1/4_FINAL,2-2 (1-1) (a.e.t.) (p.k.),Russia (Россия),Croatia (Hrvatska),2018_RUSSIA_FS.htm#896-WC-18-III,Sochi.,2018
+2018-RUSSIA,1/2_FINAL,1-0 (0-0),France,Belgium (België),2018_RUSSIA_FS.htm#897-WC-18-IV,Sankt-Peterburg.,2018
+2018-RUSSIA,1/2_FINAL,2-1 (0-1) (a.e.t.),Croatia (Hrvatska),England,2018_RUSSIA_FS.htm#898-WC-18-IV,Moskva.,2018
+2018-RUSSIA,PLACES_3&4,2-0 (1-0),Belgium (België),England,2018_RUSSIA_FS.htm#899-WC-18-V,Sankt-Peterburg.,2018
+2018-RUSSIA,_FINAL,4-2 (2-1),France,Croatia (Hrvatska),2018_RUSSIA_FS.htm#900-WC-18-VI,Moskva.,2018
